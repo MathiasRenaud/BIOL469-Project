@@ -1,2 +1,3 @@
-# Genomics Project
-Final project for BIOL469 (Genomics)
+# Final Project for Genomics (BIOL469)
+
+Comparative genomics of bioluminescent organisms.
