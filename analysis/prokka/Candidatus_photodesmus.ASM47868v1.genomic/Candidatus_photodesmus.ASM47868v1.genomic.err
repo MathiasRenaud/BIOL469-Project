@@ -1,0 +1,1282 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all same)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all same)
+DISC_FEATURE_COUNT:gene: 958 present
+DISC_FEATURE_COUNT:CDS: 918 present
+DISC_FEATURE_COUNT:tRNA: 39 present
+DISC_FEATURE_COUNT:tmRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:9 nucleotide Bioseqs are present
+OVERLAPPING_GENES:166 genes overlap another gene on the same strand.
+OVERLAPPING_CDS:14 coding regions overlap another coding region with a similar or identical name.
+SUSPECT_PRODUCT_NAMES:4 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		1 features Three or more numbers together
+	FATAL: Possible parsing error or incorrect formatting; remove inappropriate symbols
+		1 features contains '. '
+	Use short product name instead of descriptive phrase
+		1 features Contains 2 or more brackets or parentheses but not starts with '1-(5-phosphoribosyl)-5-'
+		1 features Is longer than 100 characters
+DISC_SUSPICIOUS_NOTE_TEXT:4 note texts contain suspicious phrases
+NO_ANNOTATION:1 bioseqs have no features
+DISC_FLATFILE_FIND_ONCALLER:1 objects contain homologue
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:9 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:12 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:9 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:9 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:9 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:9 sequences do not include structured comments.
+MISSING_PROJECT:927 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::9 sources have 'strain' for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::9 sources have 'Genus species' for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 958 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 918 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 39 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tmRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::9 nucleotide Bioseqs are present
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+
+DiscRep_ALL:OVERLAPPING_GENES::166 genes overlap another gene on the same strand.
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00001	L_contig000001:114-464	L_00001
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00002	L_contig000001:461-1834	L_00002
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00013	L_contig000001:c12761-11058	L_00013
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	cydD	L_contig000001:c14520-12754	L_00014
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00024	L_contig000001:c27251-26904	L_00024
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00025	L_contig000001:c27592-27209	L_00025
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00026	L_contig000001:c27756-27607	L_00026
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pacS	L_contig000001:c30137-27756	L_00027
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccoP2	L_contig000001:c31653-30670	L_00029
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00030	L_contig000001:c31820-31650	L_00030
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00082	L_contig000001:c96907-95906	L_00082
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pabC	L_contig000001:c97707-96901	L_00083
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rnfD	L_contig000001:106929-107975	L_00094
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rnfG	L_contig000001:107965-108624	L_00095
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rnfE	L_contig000001:108611-109261	L_00096
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	sucD	L_contig000001:c113033-112158	L_00101
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	sucC	L_contig000001:c114195-113011	L_00102
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	sdhD	L_contig000001:c121246-120899	L_00107
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	sdhC	L_contig000001:c121623-121240	L_00108
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00110	L_contig000001:c124036-123275	L_00110
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pgm	L_contig000001:c125693-124029	L_00111
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccmH_1	L_contig000001:c154385-153675	L_00138
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccmH_2	L_contig000001:c154849-154385	L_00139
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	dsbE	L_contig000001:c155400-154846	L_00140
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccmF	L_contig000001:c157353-155401	L_00141
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccmE	L_contig000001:c157832-157350	L_00142
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00143	L_contig000001:c158026-157829	L_00143
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccmB_2	L_contig000001:c159509-159111	L_00146
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ccmA	L_contig000001:c160135-159509	L_00147
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00148	L_contig000001:c160613-160176	L_00148
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	cheW	L_contig000001:c161107-160613	L_00149
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00150	L_contig000001:c161958-161158	L_00150
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	soj_1	L_contig000001:c162727-161951	L_00151
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ftsA	L_contig000001:c187298-186033	L_00169
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ftsQ	L_contig000001:c188080-187295	L_00170
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	murG	L_contig000001:c190776-189715	L_00172
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ftsW	L_contig000001:c191941-190763	L_00173
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	murD	L_contig000001:c193275-191941	L_00174
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	mraY	L_contig000001:c194377-193295	L_00175
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	murF	L_contig000001:c195735-194374	L_00176
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	murE	L_contig000001:c197216-195732	L_00177
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ispD	L_contig000001:c232724-232002	L_00205
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ftsB	L_contig000001:c232992-232711	L_00206
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lpoA_1	L_contig000001:251524-253224	L_00219
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lpoA_2	L_contig000001:253173-253370	L_00220
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	fbcH	L_contig000001:c256597-255857	L_00225
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	petB	L_contig000001:c257862-256594	L_00226
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00256	L_contig000001:c297865-297032	L_00256
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00257	L_contig000001:c298298-297855	L_00257
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lolD	L_contig000001:c303392-302718	L_00262
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lolC	L_contig000001:c304587-303385	L_00263
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rbfA	L_contig000001:336075-336476	L_00291
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	truB_1	L_contig000001:336473-336859	L_00292
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	truB_2	L_contig000001:336844-337413	L_00293
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	coaE	L_contig000001:c353269-352655	L_00310
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	outO	L_contig000001:c354147-353269	L_00311
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	nqrD	L_contig000001:c408039-407401	L_00351
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	nqrC	L_contig000001:c408716-408036	L_00352
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	fliF	L_contig000001:418774-420492	L_00361
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	fliG	L_contig000001:420485-421528	L_00362
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	fliH	L_contig000001:421566-422360	L_00363
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	fliI	L_contig000001:422357-423670	L_00364
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rnhB	L_contig000001:c437426-436785	L_00377
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lpxB	L_contig000001:c438562-437423	L_00378
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rseP	L_contig000001:c445346-443982	L_00384
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	dxr	L_contig000001:c446551-445343	L_00385
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pgpA	L_contig000001:c453318-452803	L_00393
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	thiL	L_contig000001:c454288-453311	L_00394
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	nusB	L_contig000001:c454811-454332	L_00395
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ribE	L_contig000001:c455256-454783	L_00396
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	prmC	L_contig000001:c472879-472010	L_00411
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	prfA	L_contig000001:c473957-472869	L_00412
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lolB	L_contig000001:475416-476048	L_00414
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ispE	L_contig000001:476045-476908	L_00415
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00438	L_contig000001:c495429-495016	L_00438
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00439	L_contig000001:c496073-495426	L_00439
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rffG_2	L_contig000001:c508872-508501	L_00451
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00452	L_contig000001:c508945-508844	L_00452
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	alr	L_contig000001:c514412-513324	L_00455
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	dnaB	L_contig000001:c515811-514402	L_00456
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00465	L_contig000001:c522852-522496	L_00465
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	tusD	L_contig000001:c523136-522849	L_00466
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	mutL	L_contig000001:c529902-528202	L_00472
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	amiB	L_contig000001:c531266-529899	L_00473
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	tsaE	L_contig000001:c531721-531263	L_00474
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00488	L_contig000001:540939-541544	L_00488
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ubiB_1	L_contig000001:541541-541987	L_00489
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rplD	L_contig000002:29139-29741	L_00529
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rplW	L_contig000002:29738-30031	L_00530
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rplP	L_contig000002:32251-32664	L_00535
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rpmC	L_contig000002:32661-32789	L_00536
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lptA	L_contig000002:c45728-45225	L_00559
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lptC	L_contig000002:c46275-45709	L_00560
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	kdsC	L_contig000002:c46823-46287	L_00561
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	kdsD	L_contig000002:c47797-46823	L_00562
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	mlaF	L_contig000002:49005-49823	L_00564
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	mlaE	L_contig000002:49817-50611	L_00565
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00569	L_contig000002:52059-52331	L_00569
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	murA	L_contig000002:52331-53593	L_00570
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	hemN_2	L_contig000002:c58453-57266	L_00577
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rdgB	L_contig000002:c59048-58425	L_00578
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rsmA	L_contig000002:c70628-69807	L_00591
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pdxA1	L_contig000002:c71623-70625	L_00592
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	surA	L_contig000002:c72881-71613	L_00593
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00610	L_contig000002:c93589-93467	L_00610
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	dnaQ	L_contig000002:c94203-93589	L_00611
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	recO	L_contig000002:132900-133625	L_00651
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pdxJ	L_contig000002:133622-133969	L_00652
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00677	L_contig000002:158786-159424	L_00677
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	bamB	L_contig000002:159414-160595	L_00678
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ratA	L_contig000002:171039-171488	L_00687
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pasI	L_contig000002:171463-171768	L_00688
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ispA	L_contig000002:c187009-186125	L_00698
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	xseB	L_contig000002:c187247-187002	L_00699
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pomA	L_contig000002:187539-188306	L_00700
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	motB	L_contig000002:188299-189165	L_00701
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00709	L_contig000002:c199305-199024	L_00709
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	dacC	L_contig000002:c200545-199298	L_00710
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	holA	L_contig000002:c205586-204582	L_00714
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	lptE	L_contig000002:c206115-205576	L_00715
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00743	L_contig000002:c238610-237468	L_00743
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00744	L_contig000002:c238906-238598	L_00744
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	gtf1	L_contig000002:c240097-238913	L_00745
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pimB_2	L_contig000002:c241301-240087	L_00746
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00747	L_contig000002:c242445-241393	L_00747
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00748	L_contig000002:c242629-242426	L_00748
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	cpsD	L_contig000002:c244184-243501	L_00749
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	kpsD	L_contig000002:c246286-244184	L_00750
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	oprF	L_contig000002:c247109-246273	L_00751
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	exbB	L_contig000002:263250-263822	L_00766
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	exbD	L_contig000002:263822-264262	L_00767
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	L_00783	L_contig000002:c275462-275019	L_00783
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	folC	L_contig000002:c276732-275452	L_00784
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	priA_1	L_contig000002:c306636-306394	L_00806
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	priA_2	L_contig000002:c308644-306614	L_00807
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	phnT	L_contig000002:c314137-313103	L_00813
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	cysW	L_contig000002:c315767-314100	L_00814
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pyrB	L_contig000002:324259-325206	L_00822
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pyrI	L_contig000002:325193-325663	L_00823
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ubiD_1	L_contig000002:c336825-336415	L_00834
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	ubiD_2	L_contig000002:c338279-336774	L_00835
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	sunS	L_contig000002:c343954-343151	L_00843
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rfaQ	L_contig000002:c345000-343930	L_00844
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	hemX	L_contig000002:c353867-352830	L_00853
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	hemD	L_contig000002:c354627-353860	L_00854
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	hemC	L_contig000002:c355565-354627	L_00855
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsC_1	L_contig000002:383420-383752	L_00882
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsC_2	L_contig000002:383716-384123	L_00883
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	pulD	L_contig000002:384332-386341	L_00884
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsE_1	L_contig000002:386338-386637	L_00885
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsE_2	L_contig000002:386868-387590	L_00886
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsE_3	L_contig000002:387587-387814	L_00887
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsH	L_contig000002:389611-390192	L_00890
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	gspI	L_contig000002:390185-390559	L_00891
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	xcpW	L_contig000002:390525-391151	L_00892
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	gspK	L_contig000002:391157-392155	L_00893
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	epsL	L_contig000002:392152-393372	L_00894
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	parA	L_contig000002:c406936-406772	L_00912
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	soj_2	L_contig000002:c407264-406914	L_00913
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	yidC	L_contig000002:c415720-414134	L_00919
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	yidD	L_contig000002:c415982-415704	L_00920
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	rnpA	L_contig000002:c416308-415949	L_00921
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	recF	L_contig000002:419564-420655	L_00925
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	gyrB	L_contig000002:420655-423129	L_00926
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	glyS	L_contig000002:c425413-423323	L_00927
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:Gene	glyQ	L_contig000002:c426336-425410	L_00928
+
+DiscRep_ALL:OVERLAPPING_CDS::14 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::14 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Cytochrome c-type biogenesis protein CcmH precursor	L_contig000001:c154385-153675	L_00138
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Cytochrome c-type biogenesis protein CcmH precursor	L_contig000001:c154849-154385	L_00139
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Penicillin-binding protein activator LpoA precursor	L_contig000001:251524-253224	L_00219
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Penicillin-binding protein activator LpoA precursor	L_contig000001:253173-253370	L_00220
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	tRNA pseudouridine synthase B	L_contig000001:336473-336859	L_00292
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	tRNA pseudouridine synthase B	L_contig000001:336844-337413	L_00293
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Primosomal protein N'	L_contig000002:c306636-306394	L_00806
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Primosomal protein N'	L_contig000002:c308644-306614	L_00807
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	L_contig000002:c336825-336415	L_00834
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	L_contig000002:c338279-336774	L_00835
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Type II secretion system protein C	L_contig000002:383420-383752	L_00882
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Type II secretion system protein C	L_contig000002:383716-384123	L_00883
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Type II secretion system protein E	L_contig000002:386868-387590	L_00886
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Type II secretion system protein E	L_contig000002:387587-387814	L_00887
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::4 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features Three or more numbers together
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Putative transposon Tn552 DNA-invertase bin3	L_contig000003:c12102-11500	L_00940
+
+FATAL: DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Possible parsing error or incorrect formatting; remove inappropriate symbols
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features contains '. '
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	L_contig000002:c99607-99083	L_00617
+
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Use short product name instead of descriptive phrase
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features Contains 2 or more brackets or parentheses but not starts with '1-(5-phosphoribosyl)-5-'
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	Bis(5'-nucleosyl)-tetraphosphatase [symmetrical]	L_contig000002:c69691-68861	L_00590
+
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features Is longer than 100 characters
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	L_contig000001:c190776-189715	L_00172
+
+DiscRep_ALL:DISC_SUSPICIOUS_NOTE_TEXT::4 note texts contain suspicious phrases
+DiscRep_SUB:DISC_SUSPICIOUS_NOTE_TEXT::4 note texts contain 'homolog'
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	hypothetical protein	L_contig000001:c33893-32463	L_00032
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	hypothetical protein	L_contig000001:265871-267235	L_00235
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	hypothetical protein	L_contig000002:150504-151016	L_00668
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	hypothetical protein	L_contig000003:c12716-12276	L_00941
+
+DiscRep_ALL:NO_ANNOTATION::1 bioseqs have no features
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+
+DiscRep_ALL:DISC_FLATFILE_FIND_ONCALLER::1 objects contain homologue
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:CDS	hypothetical protein	L_contig000003:c12716-12276	L_00941
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::9 comment descriptors were found (all same)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::12 protein sequences are shorter than 50 aa.
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00026 (length 49)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00212 (length 47)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00347 (length 35)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00452 (length 33)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00470 (length 42)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00536 (length 42)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00543 (length 35)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00550 (length 37)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00610 (length 40)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00768 (length 46)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00857 (length 39)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00922 (length 44)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::9 bioseqs are missing GenomeAssembly structured comments
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::9 molecule types are not set as mRNA.
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::9 technique are not set as TSA
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::9 sequences do not include structured comments.
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+
+DiscRep_ALL:MISSING_PROJECT::927 sequences do not include project.
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00001 (length 116)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00002 (length 457)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00003 (length 188)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00004 (length 259)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00005 (length 347)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00006 (length 700)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00008 (length 186)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00009 (length 365)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00010 (length 100)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00011 (length 176)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00012 (length 248)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00013 (length 567)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00014 (length 588)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00015 (length 324)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00016 (length 396)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00017 (length 466)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00018 (length 531)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00019 (length 432)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00020 (length 226)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00021 (length 468)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00022 (length 649)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00023 (length 260)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00024 (length 115)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00025 (length 127)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00026 (length 49)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00027 (length 793)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00028 (length 161)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00029 (length 327)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00030 (length 56)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00031 (length 206)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00032 (length 476)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00033 (length 277)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00034 (length 117)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00035 (length 64)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00036 (length 175)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00037 (length 642)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00038 (length 666)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00039 (length 319)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00040 (length 153)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00041 (length 704)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00042 (length 227)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00043 (length 108)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00044 (length 172)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00045 (length 552)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00046 (length 335)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00047 (length 1618)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00048 (length 599)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00049 (length 363)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00050 (length 222)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00051 (length 230)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00052 (length 586)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00053 (length 215)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00054 (length 198)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00055 (length 508)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00056 (length 456)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00057 (length 120)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00058 (length 457)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00059 (length 277)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00060 (length 98)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00061 (length 799)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00062 (length 329)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00065 (length 437)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00066 (length 199)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00067 (length 255)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00068 (length 242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00069 (length 391)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00070 (length 97)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00071 (length 558)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00072 (length 223)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00073 (length 618)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00074 (length 779)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00075 (length 428)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00076 (length 435)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00077 (length 190)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00078 (length 331)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00079 (length 478)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00080 (length 321)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00081 (length 212)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00082 (length 333)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00083 (length 268)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00084 (length 413)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00085 (length 77)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00086 (length 245)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00087 (length 317)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00088 (length 316)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00089 (length 332)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00090 (length 56)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00091 (length 163)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00092 (length 194)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00093 (length 531)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00094 (length 348)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00095 (length 219)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00096 (length 216)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00097 (length 213)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00098 (length 134)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00099 (length 283)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00100 (length 213)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00101 (length 291)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00102 (length 394)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00103 (length 401)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00104 (length 932)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00105 (length 236)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00106 (length 589)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00107 (length 115)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00108 (length 127)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00109 (length 423)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00110 (length 253)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00111 (length 554)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00112 (length 59)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00113 (length 50)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00114 (length 261)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00115 (length 72)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00116 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00117 (length 99)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00118 (length 589)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00119 (length 115)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00120 (length 408)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00121 (length 247)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00122 (length 549)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00123 (length 84)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00124 (length 98)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00125 (length 129)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00126 (length 807)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00127 (length 462)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00128 (length 183)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00129 (length 136)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00130 (length 525)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00131 (length 350)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00132 (length 396)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00133 (length 57)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00134 (length 554)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00135 (length 239)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00136 (length 366)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00137 (length 244)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00138 (length 236)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00139 (length 154)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00140 (length 184)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00141 (length 650)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00142 (length 160)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00143 (length 65)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00144 (length 243)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00145 (length 62)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00146 (length 132)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00147 (length 208)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00148 (length 145)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00149 (length 164)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00150 (length 266)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00151 (length 258)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00152 (length 353)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00153 (length 629)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00154 (length 240)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00155 (length 126)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00156 (length 294)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00157 (length 450)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00158 (length 699)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00159 (length 697)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00160 (length 89)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00161 (length 1073)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00162 (length 379)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00163 (length 259)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00164 (length 133)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00165 (length 894)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00166 (length 139)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00167 (length 305)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00168 (length 399)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00169 (length 421)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00170 (length 261)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00171 (length 477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00172 (length 353)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00173 (length 392)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00174 (length 444)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00175 (length 360)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00176 (length 453)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00177 (length 494)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00178 (length 560)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00179 (length 104)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00180 (length 313)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00181 (length 481)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00182 (length 1290)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00183 (length 489)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00184 (length 143)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00185 (length 275)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00186 (length 347)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00187 (length 579)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00188 (length 304)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00189 (length 407)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00190 (length 339)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00191 (length 226)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00192 (length 421)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00193 (length 284)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00195 (length 602)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00196 (length 579)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00197 (length 71)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00198 (length 339)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00199 (length 336)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00200 (length 533)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00201 (length 310)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00202 (length 325)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00203 (length 317)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00204 (length 155)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00205 (length 240)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00206 (length 93)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00207 (length 267)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00208 (length 123)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00209 (length 228)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00210 (length 377)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00211 (length 772)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00212 (length 47)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00213 (length 627)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00214 (length 237)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00215 (length 851)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00216 (length 629)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00217 (length 748)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00218 (length 276)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00219 (length 566)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00220 (length 65)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00221 (length 196)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00222 (length 205)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00223 (length 162)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00224 (length 214)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00225 (length 246)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00226 (length 422)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00227 (length 194)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00228 (length 131)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00229 (length 142)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00230 (length 379)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00231 (length 453)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00232 (length 420)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00233 (length 92)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00234 (length 288)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00235 (length 454)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00236 (length 695)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00237 (length 320)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00238 (length 214)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00239 (length 633)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00240 (length 235)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00241 (length 745)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00242 (length 741)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00243 (length 389)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00244 (length 436)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00245 (length 644)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00246 (length 420)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00247 (length 500)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00248 (length 249)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00249 (length 336)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00250 (length 594)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00251 (length 275)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00252 (length 431)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00253 (length 476)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00254 (length 230)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00255 (length 281)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00256 (length 277)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00257 (length 147)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00258 (length 362)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00259 (length 172)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00260 (length 169)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00261 (length 418)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00262 (length 224)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00263 (length 400)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00264 (length 189)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00265 (length 1153)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00266 (length 227)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00267 (length 199)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00268 (length 89)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00269 (length 443)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00270 (length 178)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00271 (length 448)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00272 (length 147)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00273 (length 176)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00274 (length 279)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00275 (length 470)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00276 (length 612)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00277 (length 293)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00278 (length 86)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00279 (length 225)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00280 (length 446)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00281 (length 157)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00282 (length 226)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00283 (length 632)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00284 (length 277)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00285 (length 449)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00286 (length 112)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00288 (length 153)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00289 (length 495)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00290 (length 863)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00291 (length 133)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00292 (length 128)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00293 (length 189)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00294 (length 193)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00295 (length 210)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00296 (length 345)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00297 (length 152)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00298 (length 145)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00299 (length 323)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00300 (length 201)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00301 (length 523)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00302 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00303 (length 425)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00304 (length 263)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00305 (length 446)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00306 (length 84)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00307 (length 177)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00308 (length 249)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00309 (length 119)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00310 (length 204)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00311 (length 292)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00312 (length 206)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00313 (length 213)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00314 (length 85)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00315 (length 279)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00316 (length 749)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00317 (length 471)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00318 (length 550)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00319 (length 96)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00320 (length 715)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00321 (length 399)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00322 (length 478)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00323 (length 411)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00324 (length 894)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00325 (length 582)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00326 (length 88)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00327 (length 302)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00328 (length 295)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00329 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00330 (length 736)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00331 (length 518)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00332 (length 710)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00333 (length 1186)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00334 (length 1170)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00335 (length 377)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00336 (length 198)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00338 (length 118)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00339 (length 337)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00340 (length 358)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00341 (length 386)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00342 (length 156)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00343 (length 291)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00344 (length 334)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00345 (length 355)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00346 (length 57)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00347 (length 35)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00348 (length 349)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00349 (length 408)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00350 (length 198)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00351 (length 212)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00352 (length 226)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00353 (length 413)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00354 (length 446)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00355 (length 153)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00356 (length 132)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00357 (length 463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00358 (length 136)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00359 (length 490)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00360 (length 104)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00361 (length 572)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00362 (length 347)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00363 (length 264)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00364 (length 437)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00365 (length 153)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00366 (length 478)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00367 (length 346)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00368 (length 135)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00369 (length 108)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00370 (length 285)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00371 (length 92)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00372 (length 261)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00373 (length 376)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00374 (length 439)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00375 (length 319)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00376 (length 1167)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00377 (length 213)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00378 (length 379)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00379 (length 262)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00380 (length 150)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00381 (length 345)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00382 (length 151)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00383 (length 805)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00384 (length 454)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00385 (length 402)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00386 (length 281)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00387 (length 251)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00388 (length 185)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00389 (length 242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00390 (length 281)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00391 (length 245)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00392 (length 288)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00393 (length 171)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00394 (length 325)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00395 (length 159)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00396 (length 157)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00397 (length 371)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00398 (length 387)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00399 (length 377)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00400 (length 343)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00401 (length 202)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00402 (length 81)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00403 (length 315)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00404 (length 303)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00405 (length 616)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00406 (length 109)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00407 (length 344)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00408 (length 352)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00409 (length 235)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00410 (length 681)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00411 (length 289)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00412 (length 362)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00413 (length 421)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00414 (length 210)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00415 (length 287)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00416 (length 316)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00417 (length 195)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00418 (length 364)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00422 (length 380)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00423 (length 397)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00424 (length 623)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00425 (length 151)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00426 (length 356)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00427 (length 261)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00428 (length 262)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00429 (length 254)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00430 (length 434)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00431 (length 238)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00432 (length 138)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00433 (length 132)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00434 (length 275)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00435 (length 307)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00436 (length 242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00437 (length 141)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00438 (length 137)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00439 (length 215)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00440 (length 381)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00441 (length 278)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00442 (length 583)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00443 (length 406)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00444 (length 105)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00445 (length 111)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00446 (length 423)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00447 (length 329)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00448 (length 550)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00449 (length 71)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00450 (length 94)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00451 (length 123)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00452 (length 33)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00453 (length 626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00454 (length 512)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00455 (length 362)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00456 (length 469)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00457 (length 149)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00458 (length 74)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00459 (length 123)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00460 (length 394)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00461 (length 714)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00462 (length 156)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00463 (length 124)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00464 (length 92)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00465 (length 118)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00466 (length 95)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00467 (length 246)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00468 (length 324)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00469 (length 393)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00470 (length 42)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00471 (length 312)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00472 (length 566)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00473 (length 455)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00474 (length 152)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00475 (length 118)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00479 (length 358)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00482 (length 181)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00483 (length 288)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00484 (length 423)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00485 (length 81)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00486 (length 495)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00487 (length 238)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00488 (length 201)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00489 (length 148)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00490 (length 373)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00491 (length 79)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00492 (length 74)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00493 (length 247)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00494 (length 253)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00495 (length 348)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00496 (length 297)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00497 (length 622)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00498 (length 201)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00499 (length 203)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00500 (length 462)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00501 (length 85)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00502 (length 595)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00504 (length 460)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00505 (length 206)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00506 (length 365)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00507 (length 448)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00508 (length 693)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00509 (length 704)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00510 (length 109)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00511 (length 213)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00512 (length 315)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00513 (length 397)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00514 (length 466)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00515 (length 58)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00516 (length 83)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00517 (length 271)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00518 (length 95)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00519 (length 113)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00520 (length 381)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00521 (length 593)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00522 (length 312)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00523 (length 432)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00524 (length 207)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00525 (length 731)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00526 (length 251)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00527 (length 103)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00528 (length 213)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00529 (length 200)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00530 (length 97)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00531 (length 274)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00532 (length 92)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00533 (length 113)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00534 (length 232)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00535 (length 137)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00536 (length 42)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00537 (length 89)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00538 (length 124)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00539 (length 105)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00540 (length 183)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00541 (length 101)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00542 (length 93)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00543 (length 35)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00544 (length 181)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00545 (length 118)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00546 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00547 (length 59)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00548 (length 143)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00549 (length 438)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00550 (length 37)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00551 (length 118)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00552 (length 129)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00553 (length 206)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00554 (length 329)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00555 (length 124)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00556 (length 203)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00557 (length 448)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00558 (length 241)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00559 (length 167)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00560 (length 188)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00561 (length 178)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00562 (length 324)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00563 (length 320)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00564 (length 272)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00565 (length 264)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00566 (length 157)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00567 (length 212)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00568 (length 83)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00569 (length 90)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00570 (length 420)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00571 (length 240)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00574 (length 91)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00575 (length 348)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00576 (length 240)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00577 (length 395)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00578 (length 207)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00579 (length 185)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00580 (length 233)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00581 (length 138)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00582 (length 317)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00583 (length 384)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00584 (length 313)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00585 (length 322)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00586 (length 103)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00587 (length 85)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00588 (length 349)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00589 (length 162)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00590 (length 276)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00591 (length 273)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00592 (length 332)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00593 (length 422)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00594 (length 798)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00595 (length 956)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00596 (length 499)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00597 (length 366)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00598 (length 235)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00599 (length 117)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00600 (length 157)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00604 (length 144)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00606 (length 281)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00607 (length 468)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00608 (length 200)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00609 (length 388)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00610 (length 40)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00611 (length 204)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00612 (length 159)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00613 (length 97)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00614 (length 393)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00615 (length 361)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00616 (length 270)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00617 (length 174)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00618 (length 197)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00619 (length 211)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00620 (length 308)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00621 (length 504)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00622 (length 248)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00623 (length 440)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00624 (length 300)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00625 (length 137)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00626 (length 221)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00627 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00628 (length 267)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00629 (length 282)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00630 (length 88)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00631 (length 520)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00632 (length 312)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00633 (length 946)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00634 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00635 (length 314)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00636 (length 90)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00637 (length 223)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00638 (length 195)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00639 (length 93)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00640 (length 128)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00641 (length 191)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00642 (length 405)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00643 (length 327)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00644 (length 89)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00645 (length 537)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00646 (length 156)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00647 (length 597)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00648 (length 290)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00649 (length 226)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00650 (length 308)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00651 (length 241)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00652 (length 115)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00653 (length 126)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00654 (length 741)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00655 (length 545)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00656 (length 432)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00657 (length 308)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00658 (length 68)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00659 (length 249)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00660 (length 322)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00661 (length 242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00662 (length 843)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00663 (length 267)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00664 (length 143)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00665 (length 404)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00666 (length 137)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00667 (length 108)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00668 (length 170)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00669 (length 620)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00670 (length 112)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00671 (length 65)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00672 (length 150)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00673 (length 353)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00674 (length 313)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00675 (length 371)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00676 (length 432)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00677 (length 212)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00678 (length 393)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00679 (length 453)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00680 (length 443)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00681 (length 487)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00682 (length 518)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00683 (length 496)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00684 (length 323)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00686 (length 131)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00687 (length 149)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00688 (length 101)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00689 (length 100)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00690 (length 296)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00691 (length 243)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00692 (length 640)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00693 (length 378)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00694 (length 164)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00695 (length 1298)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00696 (length 583)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00697 (length 621)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00698 (length 294)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00699 (length 81)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00700 (length 255)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00701 (length 288)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00702 (length 482)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00703 (length 189)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00704 (length 340)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00705 (length 1032)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00706 (length 440)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00707 (length 321)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00708 (length 225)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00709 (length 93)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00710 (length 415)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00711 (length 262)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00712 (length 373)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00713 (length 631)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00714 (length 334)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00715 (length 179)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00716 (length 860)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00717 (length 514)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00718 (length 300)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00719 (length 148)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00720 (length 442)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00721 (length 383)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00722 (length 170)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00723 (length 574)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00724 (length 85)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00725 (length 246)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00726 (length 676)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00727 (length 104)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00728 (length 194)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00729 (length 779)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00730 (length 320)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00731 (length 373)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00732 (length 269)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00733 (length 166)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00734 (length 60)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00735 (length 197)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00736 (length 215)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00737 (length 189)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00738 (length 174)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00739 (length 365)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00740 (length 454)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00741 (length 343)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00742 (length 451)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00743 (length 380)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00744 (length 102)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00745 (length 394)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00746 (length 404)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00747 (length 350)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00748 (length 67)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00749 (length 227)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00750 (length 700)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00751 (length 278)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00752 (length 102)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00753 (length 455)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00754 (length 208)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00755 (length 880)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00756 (length 427)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00757 (length 89)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00758 (length 467)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00759 (length 241)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00760 (length 323)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00761 (length 245)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00762 (length 592)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00763 (length 173)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00764 (length 207)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00765 (length 336)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00766 (length 190)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00767 (length 146)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00768 (length 46)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00769 (length 292)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00770 (length 174)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00772 (length 56)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00775 (length 69)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00776 (length 302)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00777 (length 346)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00778 (length 319)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00779 (length 235)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00780 (length 264)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00781 (length 486)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00782 (length 155)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00783 (length 147)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00784 (length 426)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00785 (length 281)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00786 (length 265)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00787 (length 70)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00788 (length 460)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00789 (length 374)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00790 (length 870)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00791 (length 425)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00792 (length 165)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00793 (length 284)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00794 (length 256)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00795 (length 353)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00796 (length 197)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00797 (length 168)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00798 (length 1310)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00799 (length 313)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00800 (length 861)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00801 (length 349)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00802 (length 182)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00803 (length 320)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00804 (length 318)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00805 (length 646)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00806 (length 80)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00807 (length 676)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00808 (length 70)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00809 (length 455)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00810 (length 214)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00811 (length 163)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00812 (length 181)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00813 (length 344)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00814 (length 555)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00815 (length 330)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00816 (length 235)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00817 (length 378)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00818 (length 325)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00819 (length 360)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00820 (length 303)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00821 (length 479)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00822 (length 315)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00823 (length 156)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00824 (length 599)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00825 (length 446)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00826 (length 138)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00827 (length 153)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00828 (length 158)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00829 (length 168)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00830 (length 315)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00831 (length 425)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00832 (length 347)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00833 (length 236)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00834 (length 136)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00835 (length 501)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00836 (length 418)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00837 (length 109)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00838 (length 79)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00839 (length 55)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00840 (length 138)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00841 (length 182)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00842 (length 344)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00843 (length 267)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00844 (length 356)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00845 (length 229)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00846 (length 214)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00847 (length 348)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00848 (length 197)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00849 (length 306)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00850 (length 283)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00851 (length 283)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00852 (length 358)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00853 (length 345)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00854 (length 255)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00855 (length 312)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00856 (length 829)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00857 (length 39)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00858 (length 277)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00859 (length 238)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00860 (length 283)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00861 (length 468)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00862 (length 1399)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00863 (length 1342)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00864 (length 120)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00865 (length 166)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00866 (length 232)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00867 (length 142)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00868 (length 183)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00869 (length 126)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00870 (length 394)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00875 (length 128)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00876 (length 113)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00877 (length 255)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00878 (length 190)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00879 (length 343)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00880 (length 276)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00881 (length 125)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00882 (length 110)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00883 (length 135)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00884 (length 669)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00885 (length 99)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00886 (length 240)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00887 (length 75)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00888 (length 410)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00889 (length 144)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00890 (length 193)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00891 (length 124)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00892 (length 208)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00893 (length 332)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00894 (length 406)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00895 (length 166)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00896 (length 265)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00897 (length 185)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00898 (length 195)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00899 (length 191)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00900 (length 82)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00901 (length 175)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00902 (length 454)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00903 (length 138)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00904 (length 468)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00905 (length 69)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00906 (length 220)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00907 (length 514)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00908 (length 156)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00909 (length 85)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00910 (length 266)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00911 (length 130)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00912 (length 54)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00913 (length 116)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00914 (length 210)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00915 (length 630)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00916 (length 179)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00917 (length 428)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00918 (length 452)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00919 (length 528)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00920 (length 92)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00921 (length 119)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00922 (length 44)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00923 (length 469)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00924 (length 367)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00925 (length 363)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00926 (length 824)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00927 (length 696)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00928 (length 308)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00931 (length 301)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00932 (length 303)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00933 (length 627)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00934 (length 425)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00935 (length 261)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00936 (length 250)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00937 (length 211)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00938 (length 367)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00939 (length 492)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00940 (length 200)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00941 (length 146)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00942 (length 148)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00943 (length 315)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00948 (length 144)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00954 (length 232)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00955 (length 381)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00956 (length 161)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00957 (length 183)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_00958 (length 281)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::9 Molinfos are missing field technique
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000001 (length 555626)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000002 (length 431242)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000003 (length 14477)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000004 (length 2463)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000005 (length 3429)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000006 (length 1078)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000007 (length 1018)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000008 (length 1509)
+../../../analysis/prokka/Candidatus_photodesmus.ASM47868v1.genomic/Candidatus_photodesmus.ASM47868v1.genomic:C:L_contig000009 (length 5079)
+
