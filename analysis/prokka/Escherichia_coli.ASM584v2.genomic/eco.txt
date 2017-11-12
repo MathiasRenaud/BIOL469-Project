@@ -1,0 +1,4289 @@
+kegg_pathway	entrezgene	kegg_pathway_definition
+00010	b0114	Glycolysis / Gluconeogenesis
+00010	b0115	Glycolysis / Gluconeogenesis
+00010	b0116	Glycolysis / Gluconeogenesis
+00010	b0356	Glycolysis / Gluconeogenesis
+00010	b0688	Glycolysis / Gluconeogenesis
+00010	b0755	Glycolysis / Gluconeogenesis
+00010	b0756	Glycolysis / Gluconeogenesis
+00010	b1002	Glycolysis / Gluconeogenesis
+00010	b1101	Glycolysis / Gluconeogenesis
+00010	b1241	Glycolysis / Gluconeogenesis
+00010	b1378	Glycolysis / Gluconeogenesis
+00010	b1478	Glycolysis / Gluconeogenesis
+00010	b1621	Glycolysis / Gluconeogenesis
+00010	b1676	Glycolysis / Gluconeogenesis
+00010	b1723	Glycolysis / Gluconeogenesis
+00010	b1734	Glycolysis / Gluconeogenesis
+00010	b1779	Glycolysis / Gluconeogenesis
+00010	b1780	Glycolysis / Gluconeogenesis
+00010	b1854	Glycolysis / Gluconeogenesis
+00010	b2097	Glycolysis / Gluconeogenesis
+00010	b2388	Glycolysis / Gluconeogenesis
+00010	b2417	Glycolysis / Gluconeogenesis
+00010	b2453	Glycolysis / Gluconeogenesis
+00010	b2715	Glycolysis / Gluconeogenesis
+00010	b2716	Glycolysis / Gluconeogenesis
+00010	b2779	Glycolysis / Gluconeogenesis
+00010	b2901	Glycolysis / Gluconeogenesis
+00010	b2925	Glycolysis / Gluconeogenesis
+00010	b2926	Glycolysis / Gluconeogenesis
+00010	b3403	Glycolysis / Gluconeogenesis
+00010	b3588	Glycolysis / Gluconeogenesis
+00010	b3589	Glycolysis / Gluconeogenesis
+00010	b3612	Glycolysis / Gluconeogenesis
+00010	b3721	Glycolysis / Gluconeogenesis
+00010	b3879	Glycolysis / Gluconeogenesis
+00010	b3885	Glycolysis / Gluconeogenesis
+00010	b3916	Glycolysis / Gluconeogenesis
+00010	b3919	Glycolysis / Gluconeogenesis
+00010	b3925	Glycolysis / Gluconeogenesis
+00010	b4025	Glycolysis / Gluconeogenesis
+00010	b4069	Glycolysis / Gluconeogenesis
+00010	b4232	Glycolysis / Gluconeogenesis
+00010	b4395	Glycolysis / Gluconeogenesis
+00020	b0114	Citrate cycle (TCA cycle)
+00020	b0115	Citrate cycle (TCA cycle)
+00020	b0116	Citrate cycle (TCA cycle)
+00020	b0118	Citrate cycle (TCA cycle)
+00020	b0720	Citrate cycle (TCA cycle)
+00020	b0721	Citrate cycle (TCA cycle)
+00020	b0722	Citrate cycle (TCA cycle)
+00020	b0723	Citrate cycle (TCA cycle)
+00020	b0724	Citrate cycle (TCA cycle)
+00020	b0726	Citrate cycle (TCA cycle)
+00020	b0727	Citrate cycle (TCA cycle)
+00020	b0728	Citrate cycle (TCA cycle)
+00020	b0729	Citrate cycle (TCA cycle)
+00020	b0771	Citrate cycle (TCA cycle)
+00020	b1136	Citrate cycle (TCA cycle)
+00020	b1276	Citrate cycle (TCA cycle)
+00020	b1378	Citrate cycle (TCA cycle)
+00020	b1611	Citrate cycle (TCA cycle)
+00020	b1612	Citrate cycle (TCA cycle)
+00020	b2210	Citrate cycle (TCA cycle)
+00020	b3236	Citrate cycle (TCA cycle)
+00020	b3403	Citrate cycle (TCA cycle)
+00020	b4122	Citrate cycle (TCA cycle)
+00020	b4151	Citrate cycle (TCA cycle)
+00020	b4152	Citrate cycle (TCA cycle)
+00020	b4153	Citrate cycle (TCA cycle)
+00020	b4154	Citrate cycle (TCA cycle)
+00030	b0008	Pentose phosphate pathway
+00030	b0124	Pentose phosphate pathway
+00030	b0688	Pentose phosphate pathway
+00030	b0767	Pentose phosphate pathway
+00030	b1207	Pentose phosphate pathway
+00030	b1723	Pentose phosphate pathway
+00030	b1850	Pentose phosphate pathway
+00030	b1851	Pentose phosphate pathway
+00030	b1852	Pentose phosphate pathway
+00030	b2029	Pentose phosphate pathway
+00030	b2097	Pentose phosphate pathway
+00030	b2464	Pentose phosphate pathway
+00030	b2465	Pentose phosphate pathway
+00030	b2914	Pentose phosphate pathway
+00030	b2925	Pentose phosphate pathway
+00030	b2935	Pentose phosphate pathway
+00030	b3386	Pentose phosphate pathway
+00030	b3437	Pentose phosphate pathway
+00030	b3526	Pentose phosphate pathway
+00030	b3553	Pentose phosphate pathway
+00030	b3752	Pentose phosphate pathway
+00030	b3916	Pentose phosphate pathway
+00030	b3925	Pentose phosphate pathway
+00030	b4025	Pentose phosphate pathway
+00030	b4090	Pentose phosphate pathway
+00030	b4094	Pentose phosphate pathway
+00030	b4232	Pentose phosphate pathway
+00030	b4268	Pentose phosphate pathway
+00030	b4381	Pentose phosphate pathway
+00030	b4383	Pentose phosphate pathway
+00040	b0061	Pentose and glucuronate interconversions
+00040	b0062	Pentose and glucuronate interconversions
+00040	b0063	Pentose and glucuronate interconversions
+00040	b0772	Pentose and glucuronate interconversions
+00040	b1236	Pentose and glucuronate interconversions
+00040	b1521	Pentose and glucuronate interconversions
+00040	b1580	Pentose and glucuronate interconversions
+00040	b1581	Pentose and glucuronate interconversions
+00040	b1617	Pentose and glucuronate interconversions
+00040	b2028	Pentose and glucuronate interconversions
+00040	b2042	Pentose and glucuronate interconversions
+00040	b2842	Pentose and glucuronate interconversions
+00040	b2843	Pentose and glucuronate interconversions
+00040	b3091	Pentose and glucuronate interconversions
+00040	b3092	Pentose and glucuronate interconversions
+00040	b3386	Pentose and glucuronate interconversions
+00040	b3564	Pentose and glucuronate interconversions
+00040	b3565	Pentose and glucuronate interconversions
+00040	b3575	Pentose and glucuronate interconversions
+00040	b3580	Pentose and glucuronate interconversions
+00040	b3581	Pentose and glucuronate interconversions
+00040	b3582	Pentose and glucuronate interconversions
+00040	b3583	Pentose and glucuronate interconversions
+00040	b3902	Pentose and glucuronate interconversions
+00040	b3904	Pentose and glucuronate interconversions
+00040	b4322	Pentose and glucuronate interconversions
+00040	b4323	Pentose and glucuronate interconversions
+00051	b0394	Fructose and mannose metabolism
+00051	b1613	Fructose and mannose metabolism
+00051	b1723	Fructose and mannose metabolism
+00051	b1817	Fructose and mannose metabolism
+00051	b1818	Fructose and mannose metabolism
+00051	b1819	Fructose and mannose metabolism
+00051	b1955	Fructose and mannose metabolism
+00051	b2048	Fructose and mannose metabolism
+00051	b2049	Fructose and mannose metabolism
+00051	b2052	Fructose and mannose metabolism
+00051	b2053	Fructose and mannose metabolism
+00051	b2097	Fructose and mannose metabolism
+00051	b2167	Fructose and mannose metabolism
+00051	b2168	Fructose and mannose metabolism
+00051	b2169	Fructose and mannose metabolism
+00051	b2245	Fructose and mannose metabolism
+00051	b2247	Fructose and mannose metabolism
+00051	b2702	Fructose and mannose metabolism
+00051	b2703	Fructose and mannose metabolism
+00051	b2704	Fructose and mannose metabolism
+00051	b2705	Fructose and mannose metabolism
+00051	b2800	Fructose and mannose metabolism
+00051	b2802	Fructose and mannose metabolism
+00051	b2803	Fructose and mannose metabolism
+00051	b2925	Fructose and mannose metabolism
+00051	b2933	Fructose and mannose metabolism
+00051	b2934	Fructose and mannose metabolism
+00051	b3565	Fructose and mannose metabolism
+00051	b3599	Fructose and mannose metabolism
+00051	b3600	Fructose and mannose metabolism
+00051	b3902	Fructose and mannose metabolism
+00051	b3903	Fructose and mannose metabolism
+00051	b3904	Fructose and mannose metabolism
+00051	b3916	Fructose and mannose metabolism
+00051	b3919	Fructose and mannose metabolism
+00051	b3925	Fructose and mannose metabolism
+00051	b4084	Fructose and mannose metabolism
+00051	b4085	Fructose and mannose metabolism
+00051	b4090	Fructose and mannose metabolism
+00051	b4232	Fructose and mannose metabolism
+00051	b4465	Fructose and mannose metabolism
+00052	b0344	Galactose metabolism
+00052	b0403	Galactose metabolism
+00052	b0688	Galactose metabolism
+00052	b0756	Galactose metabolism
+00052	b0757	Galactose metabolism
+00052	b0758	Galactose metabolism
+00052	b0759	Galactose metabolism
+00052	b1236	Galactose metabolism
+00052	b1723	Galactose metabolism
+00052	b2036	Galactose metabolism
+00052	b2042	Galactose metabolism
+00052	b2091	Galactose metabolism
+00052	b2093	Galactose metabolism
+00052	b2094	Galactose metabolism
+00052	b2095	Galactose metabolism
+00052	b2096	Galactose metabolism
+00052	b2388	Galactose metabolism
+00052	b3076	Galactose metabolism
+00052	b3077	Galactose metabolism
+00052	b3132	Galactose metabolism
+00052	b3133	Galactose metabolism
+00052	b3137	Galactose metabolism
+00052	b3138	Galactose metabolism
+00052	b3139	Galactose metabolism
+00052	b3140	Galactose metabolism
+00052	b3141	Galactose metabolism
+00052	b3693	Galactose metabolism
+00052	b3879	Galactose metabolism
+00052	b3916	Galactose metabolism
+00052	b4119	Galactose metabolism
+00052	b4302	Galactose metabolism
+00052	b4304	Galactose metabolism
+00052	b4477	Galactose metabolism
+00052	b4478	Galactose metabolism
+00052	b4565	Galactose metabolism
+00053	b2028	Ascorbate and aldarate metabolism
+00053	b2787	Ascorbate and aldarate metabolism
+00053	b3126	Ascorbate and aldarate metabolism
+00053	b3128	Ascorbate and aldarate metabolism
+00053	b3575	Ascorbate and aldarate metabolism
+00053	b3580	Ascorbate and aldarate metabolism
+00053	b4192	Ascorbate and aldarate metabolism
+00053	b4193	Ascorbate and aldarate metabolism
+00053	b4194	Ascorbate and aldarate metabolism
+00053	b4195	Ascorbate and aldarate metabolism
+00053	b4196	Ascorbate and aldarate metabolism
+00053	b4197	Ascorbate and aldarate metabolism
+00053	b4198	Ascorbate and aldarate metabolism
+00061	b0180	Fatty acid biosynthesis
+00061	b0185	Fatty acid biosynthesis
+00061	b0954	Fatty acid biosynthesis
+00061	b1091	Fatty acid biosynthesis
+00061	b1092	Fatty acid biosynthesis
+00061	b1093	Fatty acid biosynthesis
+00061	b1095	Fatty acid biosynthesis
+00061	b1288	Fatty acid biosynthesis
+00061	b1805	Fatty acid biosynthesis
+00061	b2316	Fatty acid biosynthesis
+00061	b2323	Fatty acid biosynthesis
+00061	b3255	Fatty acid biosynthesis
+00061	b3256	Fatty acid biosynthesis
+00071	b0221	Fatty acid degradation
+00071	b0356	Fatty acid degradation
+00071	b1241	Fatty acid degradation
+00071	b1393	Fatty acid degradation
+00071	b1478	Fatty acid degradation
+00071	b1805	Fatty acid degradation
+00071	b2224	Fatty acid degradation
+00071	b2341	Fatty acid degradation
+00071	b2342	Fatty acid degradation
+00071	b2542	Fatty acid degradation
+00071	b2836	Fatty acid degradation
+00071	b2844	Fatty acid degradation
+00071	b3589	Fatty acid degradation
+00071	b3845	Fatty acid degradation
+00071	b3846	Fatty acid degradation
+00121	b1619	Secondary bile acid biosynthesis
+00130	b0593	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b0662	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b1004	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b1686	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2232	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2260	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2261	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2262	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2263	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2264	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2265	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2311	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2906	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b2907	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b3833	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b3843	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b3930	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b4039	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b4040	Ubiquinone and other terpenoid-quinone biosynthesis
+00130	b4211	Ubiquinone and other terpenoid-quinone biosynthesis
+00190	b0428	Oxidative phosphorylation
+00190	b0429	Oxidative phosphorylation
+00190	b0430	Oxidative phosphorylation
+00190	b0431	Oxidative phosphorylation
+00190	b0432	Oxidative phosphorylation
+00190	b0721	Oxidative phosphorylation
+00190	b0722	Oxidative phosphorylation
+00190	b0723	Oxidative phosphorylation
+00190	b0724	Oxidative phosphorylation
+00190	b0733	Oxidative phosphorylation
+00190	b0734	Oxidative phosphorylation
+00190	b0978	Oxidative phosphorylation
+00190	b0979	Oxidative phosphorylation
+00190	b1109	Oxidative phosphorylation
+00190	b2276	Oxidative phosphorylation
+00190	b2277	Oxidative phosphorylation
+00190	b2278	Oxidative phosphorylation
+00190	b2279	Oxidative phosphorylation
+00190	b2280	Oxidative phosphorylation
+00190	b2281	Oxidative phosphorylation
+00190	b2282	Oxidative phosphorylation
+00190	b2283	Oxidative phosphorylation
+00190	b2284	Oxidative phosphorylation
+00190	b2285	Oxidative phosphorylation
+00190	b2286	Oxidative phosphorylation
+00190	b2287	Oxidative phosphorylation
+00190	b2288	Oxidative phosphorylation
+00190	b2501	Oxidative phosphorylation
+00190	b3731	Oxidative phosphorylation
+00190	b3732	Oxidative phosphorylation
+00190	b3733	Oxidative phosphorylation
+00190	b3734	Oxidative phosphorylation
+00190	b3735	Oxidative phosphorylation
+00190	b3736	Oxidative phosphorylation
+00190	b3737	Oxidative phosphorylation
+00190	b3738	Oxidative phosphorylation
+00190	b4151	Oxidative phosphorylation
+00190	b4152	Oxidative phosphorylation
+00190	b4153	Oxidative phosphorylation
+00190	b4154	Oxidative phosphorylation
+00190	b4226	Oxidative phosphorylation
+00220	b0273	Arginine biosynthesis
+00220	b0323	Arginine biosynthesis
+00220	b0485	Arginine biosynthesis
+00220	b0521	Arginine biosynthesis
+00220	b0928	Arginine biosynthesis
+00220	b1524	Arginine biosynthesis
+00220	b1761	Arginine biosynthesis
+00220	b2290	Arginine biosynthesis
+00220	b2818	Arginine biosynthesis
+00220	b2874	Arginine biosynthesis
+00220	b3172	Arginine biosynthesis
+00220	b3359	Arginine biosynthesis
+00220	b3870	Arginine biosynthesis
+00220	b3957	Arginine biosynthesis
+00220	b3958	Arginine biosynthesis
+00220	b3959	Arginine biosynthesis
+00220	b3960	Arginine biosynthesis
+00220	b4254	Arginine biosynthesis
+00230	b0049	Purine metabolism
+00230	b0104	Purine metabolism
+00230	b0125	Purine metabolism
+00230	b0160	Purine metabolism
+00230	b0184	Purine metabolism
+00230	b0215	Purine metabolism
+00230	b0238	Purine metabolism
+00230	b0284	Purine metabolism
+00230	b0285	Purine metabolism
+00230	b0286	Purine metabolism
+00230	b0323	Purine metabolism
+00230	b0469	Purine metabolism
+00230	b0470	Purine metabolism
+00230	b0474	Purine metabolism
+00230	b0477	Purine metabolism
+00230	b0480	Purine metabolism
+00230	b0505	Purine metabolism
+00230	b0512	Purine metabolism
+00230	b0515	Purine metabolism
+00230	b0516	Purine metabolism
+00230	b0517	Purine metabolism
+00230	b0521	Purine metabolism
+00230	b0522	Purine metabolism
+00230	b0523	Purine metabolism
+00230	b0640	Purine metabolism
+00230	b0688	Purine metabolism
+00230	b1099	Purine metabolism
+00230	b1131	Purine metabolism
+00230	b1207	Purine metabolism
+00230	b1623	Purine metabolism
+00230	b1676	Purine metabolism
+00230	b1842	Purine metabolism
+00230	b1849	Purine metabolism
+00230	b1854	Purine metabolism
+00230	b1970	Purine metabolism
+00230	b1982	Purine metabolism
+00230	b2162	Purine metabolism
+00230	b2234	Purine metabolism
+00230	b2235	Purine metabolism
+00230	b2312	Purine metabolism
+00230	b2407	Purine metabolism
+00230	b2476	Purine metabolism
+00230	b2499	Purine metabolism
+00230	b2500	Purine metabolism
+00230	b2502	Purine metabolism
+00230	b2507	Purine metabolism
+00230	b2508	Purine metabolism
+00230	b2518	Purine metabolism
+00230	b2557	Purine metabolism
+00230	b2675	Purine metabolism
+00230	b2676	Purine metabolism
+00230	b2744	Purine metabolism
+00230	b2750	Purine metabolism
+00230	b2751	Purine metabolism
+00230	b2752	Purine metabolism
+00230	b2781	Purine metabolism
+00230	b2784	Purine metabolism
+00230	b2866	Purine metabolism
+00230	b2867	Purine metabolism
+00230	b2868	Purine metabolism
+00230	b2874	Purine metabolism
+00230	b2883	Purine metabolism
+00230	b2954	Purine metabolism
+00230	b3032	Purine metabolism
+00230	b3034	Purine metabolism
+00230	b3164	Purine metabolism
+00230	b3295	Purine metabolism
+00230	b3397	Purine metabolism
+00230	b3399	Purine metabolism
+00230	b3648	Purine metabolism
+00230	b3649	Purine metabolism
+00230	b3650	Purine metabolism
+00230	b3665	Purine metabolism
+00230	b3701	Purine metabolism
+00230	b3779	Purine metabolism
+00230	b3806	Purine metabolism
+00230	b3863	Purine metabolism
+00230	b3987	Purine metabolism
+00230	b3988	Purine metabolism
+00230	b4005	Purine metabolism
+00230	b4006	Purine metabolism
+00230	b4177	Purine metabolism
+00230	b4213	Purine metabolism
+00230	b4238	Purine metabolism
+00230	b4259	Purine metabolism
+00230	b4372	Purine metabolism
+00230	b4374	Purine metabolism
+00230	b4383	Purine metabolism
+00230	b4384	Purine metabolism
+00240	b0032	Pyrimidine metabolism
+00240	b0033	Pyrimidine metabolism
+00240	b0171	Pyrimidine metabolism
+00240	b0184	Pyrimidine metabolism
+00240	b0215	Pyrimidine metabolism
+00240	b0337	Pyrimidine metabolism
+00240	b0470	Pyrimidine metabolism
+00240	b0480	Pyrimidine metabolism
+00240	b0640	Pyrimidine metabolism
+00240	b0910	Pyrimidine metabolism
+00240	b0945	Pyrimidine metabolism
+00240	b1007	Pyrimidine metabolism
+00240	b1008	Pyrimidine metabolism
+00240	b1009	Pyrimidine metabolism
+00240	b1010	Pyrimidine metabolism
+00240	b1011	Pyrimidine metabolism
+00240	b1012	Pyrimidine metabolism
+00240	b1062	Pyrimidine metabolism
+00240	b1098	Pyrimidine metabolism
+00240	b1099	Pyrimidine metabolism
+00240	b1238	Pyrimidine metabolism
+00240	b1281	Pyrimidine metabolism
+00240	b1539	Pyrimidine metabolism
+00240	b1842	Pyrimidine metabolism
+00240	b2065	Pyrimidine metabolism
+00240	b2066	Pyrimidine metabolism
+00240	b2143	Pyrimidine metabolism
+00240	b2146	Pyrimidine metabolism
+00240	b2147	Pyrimidine metabolism
+00240	b2162	Pyrimidine metabolism
+00240	b2165	Pyrimidine metabolism
+00240	b2166	Pyrimidine metabolism
+00240	b2234	Pyrimidine metabolism
+00240	b2235	Pyrimidine metabolism
+00240	b2291	Pyrimidine metabolism
+00240	b2498	Pyrimidine metabolism
+00240	b2518	Pyrimidine metabolism
+00240	b2675	Pyrimidine metabolism
+00240	b2676	Pyrimidine metabolism
+00240	b2744	Pyrimidine metabolism
+00240	b2780	Pyrimidine metabolism
+00240	b2781	Pyrimidine metabolism
+00240	b2827	Pyrimidine metabolism
+00240	b2873	Pyrimidine metabolism
+00240	b3164	Pyrimidine metabolism
+00240	b3295	Pyrimidine metabolism
+00240	b3399	Pyrimidine metabolism
+00240	b3640	Pyrimidine metabolism
+00240	b3642	Pyrimidine metabolism
+00240	b3649	Pyrimidine metabolism
+00240	b3701	Pyrimidine metabolism
+00240	b3831	Pyrimidine metabolism
+00240	b3863	Pyrimidine metabolism
+00240	b3987	Pyrimidine metabolism
+00240	b3988	Pyrimidine metabolism
+00240	b4213	Pyrimidine metabolism
+00240	b4238	Pyrimidine metabolism
+00240	b4244	Pyrimidine metabolism
+00240	b4245	Pyrimidine metabolism
+00240	b4259	Pyrimidine metabolism
+00240	b4372	Pyrimidine metabolism
+00240	b4374	Pyrimidine metabolism
+00240	b4382	Pyrimidine metabolism
+00240	b4384	Pyrimidine metabolism
+00250	b0032	Alanine, aspartate and glutamate metabolism
+00250	b0033	Alanine, aspartate and glutamate metabolism
+00250	b0485	Alanine, aspartate and glutamate metabolism
+00250	b0674	Alanine, aspartate and glutamate metabolism
+00250	b0928	Alanine, aspartate and glutamate metabolism
+00250	b1014	Alanine, aspartate and glutamate metabolism
+00250	b1131	Alanine, aspartate and glutamate metabolism
+00250	b1302	Alanine, aspartate and glutamate metabolism
+00250	b1493	Alanine, aspartate and glutamate metabolism
+00250	b1524	Alanine, aspartate and glutamate metabolism
+00250	b1525	Alanine, aspartate and glutamate metabolism
+00250	b1761	Alanine, aspartate and glutamate metabolism
+00250	b1767	Alanine, aspartate and glutamate metabolism
+00250	b2290	Alanine, aspartate and glutamate metabolism
+00250	b2312	Alanine, aspartate and glutamate metabolism
+00250	b2574	Alanine, aspartate and glutamate metabolism
+00250	b2661	Alanine, aspartate and glutamate metabolism
+00250	b2662	Alanine, aspartate and glutamate metabolism
+00250	b2957	Alanine, aspartate and glutamate metabolism
+00250	b3172	Alanine, aspartate and glutamate metabolism
+00250	b3212	Alanine, aspartate and glutamate metabolism
+00250	b3213	Alanine, aspartate and glutamate metabolism
+00250	b3517	Alanine, aspartate and glutamate metabolism
+00250	b3729	Alanine, aspartate and glutamate metabolism
+00250	b3744	Alanine, aspartate and glutamate metabolism
+00250	b3870	Alanine, aspartate and glutamate metabolism
+00250	b3960	Alanine, aspartate and glutamate metabolism
+00250	b4139	Alanine, aspartate and glutamate metabolism
+00250	b4177	Alanine, aspartate and glutamate metabolism
+00250	b4244	Alanine, aspartate and glutamate metabolism
+00250	b4245	Alanine, aspartate and glutamate metabolism
+00260	b0002	Glycine, serine and threonine metabolism
+00260	b0003	Glycine, serine and threonine metabolism
+00260	b0004	Glycine, serine and threonine metabolism
+00260	b0116	Glycine, serine and threonine metabolism
+00260	b0311	Glycine, serine and threonine metabolism
+00260	b0312	Glycine, serine and threonine metabolism
+00260	b0514	Glycine, serine and threonine metabolism
+00260	b0755	Glycine, serine and threonine metabolism
+00260	b0870	Glycine, serine and threonine metabolism
+00260	b0907	Glycine, serine and threonine metabolism
+00260	b1033	Glycine, serine and threonine metabolism
+00260	b1260	Glycine, serine and threonine metabolism
+00260	b1261	Glycine, serine and threonine metabolism
+00260	b1386	Glycine, serine and threonine metabolism
+00260	b1539	Glycine, serine and threonine metabolism
+00260	b1814	Glycine, serine and threonine metabolism
+00260	b2366	Glycine, serine and threonine metabolism
+00260	b2551	Glycine, serine and threonine metabolism
+00260	b2585	Glycine, serine and threonine metabolism
+00260	b2797	Glycine, serine and threonine metabolism
+00260	b2903	Glycine, serine and threonine metabolism
+00260	b2904	Glycine, serine and threonine metabolism
+00260	b2905	Glycine, serine and threonine metabolism
+00260	b2913	Glycine, serine and threonine metabolism
+00260	b3117	Glycine, serine and threonine metabolism
+00260	b3124	Glycine, serine and threonine metabolism
+00260	b3433	Glycine, serine and threonine metabolism
+00260	b3553	Glycine, serine and threonine metabolism
+00260	b3612	Glycine, serine and threonine metabolism
+00260	b3616	Glycine, serine and threonine metabolism
+00260	b3617	Glycine, serine and threonine metabolism
+00260	b3772	Glycine, serine and threonine metabolism
+00260	b3940	Glycine, serine and threonine metabolism
+00260	b4024	Glycine, serine and threonine metabolism
+00260	b4388	Glycine, serine and threonine metabolism
+00260	b4395	Glycine, serine and threonine metabolism
+00260	b4471	Glycine, serine and threonine metabolism
+00261	b0002	Monobactam biosynthesis
+00261	b0031	Monobactam biosynthesis
+00261	b0268	Monobactam biosynthesis
+00261	b2478	Monobactam biosynthesis
+00261	b2751	Monobactam biosynthesis
+00261	b2752	Monobactam biosynthesis
+00261	b3433	Monobactam biosynthesis
+00261	b3940	Monobactam biosynthesis
+00261	b4024	Monobactam biosynthesis
+00261	b4298	Monobactam biosynthesis
+00270	b0002	Cysteine and methionine metabolism
+00270	b0120	Cysteine and methionine metabolism
+00270	b0121	Cysteine and methionine metabolism
+00270	b0159	Cysteine and methionine metabolism
+00270	b0261	Cysteine and methionine metabolism
+00270	b0928	Cysteine and methionine metabolism
+00270	b1622	Cysteine and methionine metabolism
+00270	b1814	Cysteine and methionine metabolism
+00270	b1832	Cysteine and methionine metabolism
+00270	b1919	Cysteine and methionine metabolism
+00270	b1961	Cysteine and methionine metabolism
+00270	b2414	Cysteine and methionine metabolism
+00270	b2421	Cysteine and methionine metabolism
+00270	b2521	Cysteine and methionine metabolism
+00270	b2687	Cysteine and methionine metabolism
+00270	b2688	Cysteine and methionine metabolism
+00270	b2797	Cysteine and methionine metabolism
+00270	b2942	Cysteine and methionine metabolism
+00270	b2947	Cysteine and methionine metabolism
+00270	b3008	Cysteine and methionine metabolism
+00270	b3236	Cysteine and methionine metabolism
+00270	b3433	Cysteine and methionine metabolism
+00270	b3607	Cysteine and methionine metabolism
+00270	b3770	Cysteine and methionine metabolism
+00270	b3829	Cysteine and methionine metabolism
+00270	b3939	Cysteine and methionine metabolism
+00270	b3940	Cysteine and methionine metabolism
+00270	b4013	Cysteine and methionine metabolism
+00270	b4019	Cysteine and methionine metabolism
+00270	b4024	Cysteine and methionine metabolism
+00270	b4054	Cysteine and methionine metabolism
+00270	b4471	Cysteine and methionine metabolism
+00280	b0116	Valine, leucine and isoleucine degradation
+00280	b1393	Valine, leucine and isoleucine degradation
+00280	b2224	Valine, leucine and isoleucine degradation
+00280	b2341	Valine, leucine and isoleucine degradation
+00280	b2342	Valine, leucine and isoleucine degradation
+00280	b2662	Valine, leucine and isoleucine degradation
+00280	b2844	Valine, leucine and isoleucine degradation
+00280	b2917	Valine, leucine and isoleucine degradation
+00280	b3770	Valine, leucine and isoleucine degradation
+00280	b3845	Valine, leucine and isoleucine degradation
+00280	b3846	Valine, leucine and isoleucine degradation
+00281	b1393	Geraniol degradation
+00281	b2341	Geraniol degradation
+00281	b2342	Geraniol degradation
+00281	b3845	Geraniol degradation
+00281	b3846	Geraniol degradation
+00290	b0071	Valine, leucine and isoleucine biosynthesis
+00290	b0072	Valine, leucine and isoleucine biosynthesis
+00290	b0073	Valine, leucine and isoleucine biosynthesis
+00290	b0074	Valine, leucine and isoleucine biosynthesis
+00290	b0077	Valine, leucine and isoleucine biosynthesis
+00290	b0078	Valine, leucine and isoleucine biosynthesis
+00290	b2290	Valine, leucine and isoleucine biosynthesis
+00290	b3117	Valine, leucine and isoleucine biosynthesis
+00290	b3572	Valine, leucine and isoleucine biosynthesis
+00290	b3670	Valine, leucine and isoleucine biosynthesis
+00290	b3671	Valine, leucine and isoleucine biosynthesis
+00290	b3769	Valine, leucine and isoleucine biosynthesis
+00290	b3770	Valine, leucine and isoleucine biosynthesis
+00290	b3771	Valine, leucine and isoleucine biosynthesis
+00290	b3772	Valine, leucine and isoleucine biosynthesis
+00290	b3774	Valine, leucine and isoleucine biosynthesis
+00300	b0002	Lysine biosynthesis
+00300	b0031	Lysine biosynthesis
+00300	b0085	Lysine biosynthesis
+00300	b0086	Lysine biosynthesis
+00300	b0166	Lysine biosynthesis
+00300	b0268	Lysine biosynthesis
+00300	b2472	Lysine biosynthesis
+00300	b2478	Lysine biosynthesis
+00300	b2838	Lysine biosynthesis
+00300	b3359	Lysine biosynthesis
+00300	b3433	Lysine biosynthesis
+00300	b3809	Lysine biosynthesis
+00300	b3940	Lysine biosynthesis
+00300	b4024	Lysine biosynthesis
+00300	b4298	Lysine biosynthesis
+00310	b0186	Lysine degradation
+00310	b0726	Lysine degradation
+00310	b0727	Lysine degradation
+00310	b1393	Lysine degradation
+00310	b2221	Lysine degradation
+00310	b2222	Lysine degradation
+00310	b2224	Lysine degradation
+00310	b2341	Lysine degradation
+00310	b2661	Lysine degradation
+00310	b2844	Lysine degradation
+00310	b3846	Lysine degradation
+00310	b4131	Lysine degradation
+00330	b0120	Arginine and proline metabolism
+00330	b0121	Arginine and proline metabolism
+00330	b0242	Arginine and proline metabolism
+00330	b0243	Arginine and proline metabolism
+00330	b0337	Arginine and proline metabolism
+00330	b0386	Arginine and proline metabolism
+00330	b0693	Arginine and proline metabolism
+00330	b0928	Arginine and proline metabolism
+00330	b1014	Arginine and proline metabolism
+00330	b1297	Arginine and proline metabolism
+00330	b1298	Arginine and proline metabolism
+00330	b1300	Arginine and proline metabolism
+00330	b1301	Arginine and proline metabolism
+00330	b1444	Arginine and proline metabolism
+00330	b1584	Arginine and proline metabolism
+00330	b1744	Arginine and proline metabolism
+00330	b1745	Arginine and proline metabolism
+00330	b1746	Arginine and proline metabolism
+00330	b1747	Arginine and proline metabolism
+00330	b1748	Arginine and proline metabolism
+00330	b2937	Arginine and proline metabolism
+00330	b2938	Arginine and proline metabolism
+00330	b2965	Arginine and proline metabolism
+00330	b3073	Arginine and proline metabolism
+00330	b4117	Arginine and proline metabolism
+00332	b0242	Carbapenem biosynthesis
+00332	b0243	Carbapenem biosynthesis
+00340	b2019	Histidine metabolism
+00340	b2020	Histidine metabolism
+00340	b2021	Histidine metabolism
+00340	b2022	Histidine metabolism
+00340	b2023	Histidine metabolism
+00340	b2024	Histidine metabolism
+00340	b2025	Histidine metabolism
+00340	b2026	Histidine metabolism
+00350	b0356	Tyrosine metabolism
+00350	b0928	Tyrosine metabolism
+00350	b1241	Tyrosine metabolism
+00350	b1386	Tyrosine metabolism
+00350	b1478	Tyrosine metabolism
+00350	b2021	Tyrosine metabolism
+00350	b2661	Tyrosine metabolism
+00350	b3589	Tyrosine metabolism
+00350	b4054	Tyrosine metabolism
+00360	b0347	Phenylalanine metabolism
+00360	b0348	Phenylalanine metabolism
+00360	b0349	Phenylalanine metabolism
+00360	b0350	Phenylalanine metabolism
+00360	b0351	Phenylalanine metabolism
+00360	b0352	Phenylalanine metabolism
+00360	b0928	Phenylalanine metabolism
+00360	b1189	Phenylalanine metabolism
+00360	b1385	Phenylalanine metabolism
+00360	b1386	Phenylalanine metabolism
+00360	b1387	Phenylalanine metabolism
+00360	b1388	Phenylalanine metabolism
+00360	b1389	Phenylalanine metabolism
+00360	b1390	Phenylalanine metabolism
+00360	b1391	Phenylalanine metabolism
+00360	b1392	Phenylalanine metabolism
+00360	b1393	Phenylalanine metabolism
+00360	b1394	Phenylalanine metabolism
+00360	b1395	Phenylalanine metabolism
+00360	b1396	Phenylalanine metabolism
+00360	b1397	Phenylalanine metabolism
+00360	b1398	Phenylalanine metabolism
+00360	b2021	Phenylalanine metabolism
+00360	b2538	Phenylalanine metabolism
+00360	b2539	Phenylalanine metabolism
+00360	b2540	Phenylalanine metabolism
+00360	b2541	Phenylalanine metabolism
+00360	b2542	Phenylalanine metabolism
+00360	b3942	Phenylalanine metabolism
+00360	b4054	Phenylalanine metabolism
+00361	b3830	Chlorocyclohexane and chlorobenzene degradation
+00362	b0350	Benzoate degradation
+00362	b0351	Benzoate degradation
+00362	b0352	Benzoate degradation
+00362	b1393	Benzoate degradation
+00362	b1395	Benzoate degradation
+00362	b1461	Benzoate degradation
+00362	b2224	Benzoate degradation
+00362	b2341	Benzoate degradation
+00362	b2342	Benzoate degradation
+00362	b2844	Benzoate degradation
+00362	b3845	Benzoate degradation
+00362	b3846	Benzoate degradation
+00364	b3830	Fluorobenzoate degradation
+00380	b0726	Tryptophan metabolism
+00380	b1393	Tryptophan metabolism
+00380	b1732	Tryptophan metabolism
+00380	b2224	Tryptophan metabolism
+00380	b2341	Tryptophan metabolism
+00380	b2844	Tryptophan metabolism
+00380	b3708	Tryptophan metabolism
+00380	b3846	Tryptophan metabolism
+00380	b3942	Tryptophan metabolism
+00400	b0388	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b0754	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b0908	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b0928	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1260	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1261	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1262	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1263	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1264	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1692	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1693	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b1704	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b2021	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b2329	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b2599	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b2600	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b2601	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b3281	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b3389	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b3390	Phenylalanine, tyrosine and tryptophan biosynthesis
+00400	b4054	Phenylalanine, tyrosine and tryptophan biosynthesis
+00401	b0928	Novobiocin biosynthesis
+00401	b2021	Novobiocin biosynthesis
+00401	b2600	Novobiocin biosynthesis
+00401	b4054	Novobiocin biosynthesis
+00410	b0121	beta-Alanine metabolism
+00410	b0131	beta-Alanine metabolism
+00410	b0133	beta-Alanine metabolism
+00410	b1302	beta-Alanine metabolism
+00410	b1386	beta-Alanine metabolism
+00410	b1393	beta-Alanine metabolism
+00410	b1444	beta-Alanine metabolism
+00410	b1493	beta-Alanine metabolism
+00410	b2146	beta-Alanine metabolism
+00410	b2147	beta-Alanine metabolism
+00410	b2341	beta-Alanine metabolism
+00410	b2662	beta-Alanine metabolism
+00410	b2873	beta-Alanine metabolism
+00410	b3517	beta-Alanine metabolism
+00410	b3846	beta-Alanine metabolism
+00430	b0368	Taurine and hypotaurine metabolism
+00430	b1493	Taurine and hypotaurine metabolism
+00430	b2296	Taurine and hypotaurine metabolism
+00430	b2297	Taurine and hypotaurine metabolism
+00430	b3447	Taurine and hypotaurine metabolism
+00430	b3517	Taurine and hypotaurine metabolism
+00440	b1448	Phosphonate and phosphinate metabolism
+00440	b4092	Phosphonate and phosphinate metabolism
+00440	b4093	Phosphonate and phosphinate metabolism
+00440	b4095	Phosphonate and phosphinate metabolism
+00440	b4096	Phosphonate and phosphinate metabolism
+00440	b4098	Phosphonate and phosphinate metabolism
+00440	b4099	Phosphonate and phosphinate metabolism
+00440	b4100	Phosphonate and phosphinate metabolism
+00440	b4101	Phosphonate and phosphinate metabolism
+00450	b0888	Selenocompound metabolism
+00450	b1587	Selenocompound metabolism
+00450	b1588	Selenocompound metabolism
+00450	b1622	Selenocompound metabolism
+00450	b1680	Selenocompound metabolism
+00450	b1764	Selenocompound metabolism
+00450	b2114	Selenocompound metabolism
+00450	b2751	Selenocompound metabolism
+00450	b2752	Selenocompound metabolism
+00450	b2878	Selenocompound metabolism
+00450	b2880	Selenocompound metabolism
+00450	b2881	Selenocompound metabolism
+00450	b3008	Selenocompound metabolism
+00450	b3591	Selenocompound metabolism
+00450	b3829	Selenocompound metabolism
+00450	b3939	Selenocompound metabolism
+00450	b4019	Selenocompound metabolism
+00460	b1767	Cyanoamino acid metabolism
+00460	b2132	Cyanoamino acid metabolism
+00460	b2551	Cyanoamino acid metabolism
+00460	b2957	Cyanoamino acid metabolism
+00460	b3447	Cyanoamino acid metabolism
+00460	b3744	Cyanoamino acid metabolism
+00471	b0088	D-Glutamine and D-glutamate metabolism
+00471	b0091	D-Glutamine and D-glutamate metabolism
+00471	b0485	D-Glutamine and D-glutamate metabolism
+00471	b1524	D-Glutamine and D-glutamate metabolism
+00471	b3967	D-Glutamine and D-glutamate metabolism
+00473	b0092	D-Alanine metabolism
+00473	b0381	D-Alanine metabolism
+00473	b1190	D-Alanine metabolism
+00473	b4053	D-Alanine metabolism
+00480	b0121	Glutathione metabolism
+00480	b0237	Glutathione metabolism
+00480	b0693	Glutathione metabolism
+00480	b0838	Glutathione metabolism
+00480	b0932	Glutathione metabolism
+00480	b1136	Glutathione metabolism
+00480	b1635	Glutathione metabolism
+00480	b1710	Glutathione metabolism
+00480	b1852	Glutathione metabolism
+00480	b2029	Glutathione metabolism
+00480	b2301	Glutathione metabolism
+00480	b2523	Glutathione metabolism
+00480	b2688	Glutathione metabolism
+00480	b2947	Glutathione metabolism
+00480	b2965	Glutathione metabolism
+00480	b2988	Glutathione metabolism
+00480	b3447	Glutathione metabolism
+00480	b3500	Glutathione metabolism
+00480	b4260	Glutathione metabolism
+00500	b0394	Starch and sucrose metabolism
+00500	b0403	Starch and sucrose metabolism
+00500	b0688	Starch and sucrose metabolism
+00500	b1197	Starch and sucrose metabolism
+00500	b1236	Starch and sucrose metabolism
+00500	b1309	Starch and sucrose metabolism
+00500	b1317	Starch and sucrose metabolism
+00500	b1621	Starch and sucrose metabolism
+00500	b1734	Starch and sucrose metabolism
+00500	b1736	Starch and sucrose metabolism
+00500	b1737	Starch and sucrose metabolism
+00500	b1738	Starch and sucrose metabolism
+00500	b1896	Starch and sucrose metabolism
+00500	b1897	Starch and sucrose metabolism
+00500	b1927	Starch and sucrose metabolism
+00500	b2042	Starch and sucrose metabolism
+00500	b2132	Starch and sucrose metabolism
+00500	b2388	Starch and sucrose metabolism
+00500	b2417	Starch and sucrose metabolism
+00500	b2716	Starch and sucrose metabolism
+00500	b2901	Starch and sucrose metabolism
+00500	b3416	Starch and sucrose metabolism
+00500	b3417	Starch and sucrose metabolism
+00500	b3428	Starch and sucrose metabolism
+00500	b3429	Starch and sucrose metabolism
+00500	b3430	Starch and sucrose metabolism
+00500	b3431	Starch and sucrose metabolism
+00500	b3432	Starch and sucrose metabolism
+00500	b3519	Starch and sucrose metabolism
+00500	b3533	Starch and sucrose metabolism
+00500	b3571	Starch and sucrose metabolism
+00500	b3721	Starch and sucrose metabolism
+00500	b4025	Starch and sucrose metabolism
+00500	b4239	Starch and sucrose metabolism
+00500	b4240	Starch and sucrose metabolism
+00511	b0344	Other glycan degradation
+00511	b3076	Other glycan degradation
+00511	b3077	Other glycan degradation
+00520	b0271	Amino sugar and nucleotide sugar metabolism
+00520	b0394	Amino sugar and nucleotide sugar metabolism
+00520	b0677	Amino sugar and nucleotide sugar metabolism
+00520	b0678	Amino sugar and nucleotide sugar metabolism
+00520	b0679	Amino sugar and nucleotide sugar metabolism
+00520	b0688	Amino sugar and nucleotide sugar metabolism
+00520	b0757	Amino sugar and nucleotide sugar metabolism
+00520	b0758	Amino sugar and nucleotide sugar metabolism
+00520	b0759	Amino sugar and nucleotide sugar metabolism
+00520	b1101	Amino sugar and nucleotide sugar metabolism
+00520	b1107	Amino sugar and nucleotide sugar metabolism
+00520	b1119	Amino sugar and nucleotide sugar metabolism
+00520	b1236	Amino sugar and nucleotide sugar metabolism
+00520	b1613	Amino sugar and nucleotide sugar metabolism
+00520	b1621	Amino sugar and nucleotide sugar metabolism
+00520	b1817	Amino sugar and nucleotide sugar metabolism
+00520	b1818	Amino sugar and nucleotide sugar metabolism
+00520	b1819	Amino sugar and nucleotide sugar metabolism
+00520	b2028	Amino sugar and nucleotide sugar metabolism
+00520	b2036	Amino sugar and nucleotide sugar metabolism
+00520	b2042	Amino sugar and nucleotide sugar metabolism
+00520	b2048	Amino sugar and nucleotide sugar metabolism
+00520	b2049	Amino sugar and nucleotide sugar metabolism
+00520	b2052	Amino sugar and nucleotide sugar metabolism
+00520	b2053	Amino sugar and nucleotide sugar metabolism
+00520	b2253	Amino sugar and nucleotide sugar metabolism
+00520	b2254	Amino sugar and nucleotide sugar metabolism
+00520	b2255	Amino sugar and nucleotide sugar metabolism
+00520	b2256	Amino sugar and nucleotide sugar metabolism
+00520	b2388	Amino sugar and nucleotide sugar metabolism
+00520	b2417	Amino sugar and nucleotide sugar metabolism
+00520	b2428	Amino sugar and nucleotide sugar metabolism
+00520	b2429	Amino sugar and nucleotide sugar metabolism
+00520	b3176	Amino sugar and nucleotide sugar metabolism
+00520	b3189	Amino sugar and nucleotide sugar metabolism
+00520	b3222	Amino sugar and nucleotide sugar metabolism
+00520	b3223	Amino sugar and nucleotide sugar metabolism
+00520	b3225	Amino sugar and nucleotide sugar metabolism
+00520	b3338	Amino sugar and nucleotide sugar metabolism
+00520	b3430	Amino sugar and nucleotide sugar metabolism
+00520	b3729	Amino sugar and nucleotide sugar metabolism
+00520	b3730	Amino sugar and nucleotide sugar metabolism
+00520	b3786	Amino sugar and nucleotide sugar metabolism
+00520	b3787	Amino sugar and nucleotide sugar metabolism
+00520	b3972	Amino sugar and nucleotide sugar metabolism
+00520	b4025	Amino sugar and nucleotide sugar metabolism
+00521	b0688	Streptomycin biosynthesis
+00521	b2038	Streptomycin biosynthesis
+00521	b2039	Streptomycin biosynthesis
+00521	b2040	Streptomycin biosynthesis
+00521	b2041	Streptomycin biosynthesis
+00521	b2388	Streptomycin biosynthesis
+00521	b2533	Streptomycin biosynthesis
+00521	b3788	Streptomycin biosynthesis
+00521	b3789	Streptomycin biosynthesis
+00523	b2038	Polyketide sugar unit biosynthesis
+00523	b2039	Polyketide sugar unit biosynthesis
+00523	b2040	Polyketide sugar unit biosynthesis
+00523	b2041	Polyketide sugar unit biosynthesis
+00523	b3788	Polyketide sugar unit biosynthesis
+00523	b3789	Polyketide sugar unit biosynthesis
+00525	b2039	Acarbose and validamycin biosynthesis
+00525	b2041	Acarbose and validamycin biosynthesis
+00525	b3788	Acarbose and validamycin biosynthesis
+00525	b3789	Acarbose and validamycin biosynthesis
+00540	b0096	Lipopolysaccharide biosynthesis
+00540	b0179	Lipopolysaccharide biosynthesis
+00540	b0181	Lipopolysaccharide biosynthesis
+00540	b0182	Lipopolysaccharide biosynthesis
+00540	b0200	Lipopolysaccharide biosynthesis
+00540	b0222	Lipopolysaccharide biosynthesis
+00540	b0524	Lipopolysaccharide biosynthesis
+00540	b0915	Lipopolysaccharide biosynthesis
+00540	b0918	Lipopolysaccharide biosynthesis
+00540	b1054	Lipopolysaccharide biosynthesis
+00540	b1215	Lipopolysaccharide biosynthesis
+00540	b1855	Lipopolysaccharide biosynthesis
+00540	b3052	Lipopolysaccharide biosynthesis
+00540	b3197	Lipopolysaccharide biosynthesis
+00540	b3198	Lipopolysaccharide biosynthesis
+00540	b3546	Lipopolysaccharide biosynthesis
+00540	b3619	Lipopolysaccharide biosynthesis
+00540	b3620	Lipopolysaccharide biosynthesis
+00540	b3621	Lipopolysaccharide biosynthesis
+00540	b3622	Lipopolysaccharide biosynthesis
+00540	b3623	Lipopolysaccharide biosynthesis
+00540	b3624	Lipopolysaccharide biosynthesis
+00540	b3625	Lipopolysaccharide biosynthesis
+00540	b3626	Lipopolysaccharide biosynthesis
+00540	b3627	Lipopolysaccharide biosynthesis
+00540	b3628	Lipopolysaccharide biosynthesis
+00540	b3630	Lipopolysaccharide biosynthesis
+00540	b3631	Lipopolysaccharide biosynthesis
+00540	b3632	Lipopolysaccharide biosynthesis
+00540	b3633	Lipopolysaccharide biosynthesis
+00540	b3955	Lipopolysaccharide biosynthesis
+00550	b0084	Peptidoglycan biosynthesis
+00550	b0085	Peptidoglycan biosynthesis
+00550	b0086	Peptidoglycan biosynthesis
+00550	b0087	Peptidoglycan biosynthesis
+00550	b0088	Peptidoglycan biosynthesis
+00550	b0090	Peptidoglycan biosynthesis
+00550	b0091	Peptidoglycan biosynthesis
+00550	b0092	Peptidoglycan biosynthesis
+00550	b0149	Peptidoglycan biosynthesis
+00550	b0381	Peptidoglycan biosynthesis
+00550	b0632	Peptidoglycan biosynthesis
+00550	b0635	Peptidoglycan biosynthesis
+00550	b0839	Peptidoglycan biosynthesis
+00550	b0841	Peptidoglycan biosynthesis
+00550	b2010	Peptidoglycan biosynthesis
+00550	b2430	Peptidoglycan biosynthesis
+00550	b2519	Peptidoglycan biosynthesis
+00550	b3057	Peptidoglycan biosynthesis
+00550	b3182	Peptidoglycan biosynthesis
+00550	b3189	Peptidoglycan biosynthesis
+00550	b3208	Peptidoglycan biosynthesis
+00550	b3396	Peptidoglycan biosynthesis
+00550	b3972	Peptidoglycan biosynthesis
+00561	b0514	Glycerolipid metabolism
+00561	b1090	Glycerolipid metabolism
+00561	b1199	Glycerolipid metabolism
+00561	b1200	Glycerolipid metabolism
+00561	b3018	Glycerolipid metabolism
+00561	b3059	Glycerolipid metabolism
+00561	b3124	Glycerolipid metabolism
+00561	b3926	Glycerolipid metabolism
+00561	b3945	Glycerolipid metabolism
+00561	b4041	Glycerolipid metabolism
+00561	b4042	Glycerolipid metabolism
+00561	b4119	Glycerolipid metabolism
+00562	b0980	Inositol phosphate metabolism
+00562	b2533	Inositol phosphate metabolism
+00562	b3919	Inositol phosphate metabolism
+00564	b0175	Glycerophospholipid metabolism
+00564	b0418	Glycerophospholipid metabolism
+00564	b0789	Glycerophospholipid metabolism
+00564	b1046	Glycerophospholipid metabolism
+00564	b1090	Glycerophospholipid metabolism
+00564	b1249	Glycerophospholipid metabolism
+00564	b1278	Glycerophospholipid metabolism
+00564	b1409	Glycerophospholipid metabolism
+00564	b1912	Glycerophospholipid metabolism
+00564	b2239	Glycerophospholipid metabolism
+00564	b2241	Glycerophospholipid metabolism
+00564	b2242	Glycerophospholipid metabolism
+00564	b2243	Glycerophospholipid metabolism
+00564	b2440	Glycerophospholipid metabolism
+00564	b2441	Glycerophospholipid metabolism
+00564	b2451	Glycerophospholipid metabolism
+00564	b2560	Glycerophospholipid metabolism
+00564	b2585	Glycerophospholipid metabolism
+00564	b2836	Glycerophospholipid metabolism
+00564	b3018	Glycerophospholipid metabolism
+00564	b3059	Glycerophospholipid metabolism
+00564	b3426	Glycerophospholipid metabolism
+00564	b3449	Glycerophospholipid metabolism
+00564	b3608	Glycerophospholipid metabolism
+00564	b3821	Glycerophospholipid metabolism
+00564	b3825	Glycerophospholipid metabolism
+00564	b3918	Glycerophospholipid metabolism
+00564	b4041	Glycerophospholipid metabolism
+00564	b4042	Glycerophospholipid metabolism
+00564	b4160	Glycerophospholipid metabolism
+00565	b3821	Ether lipid metabolism
+00590	b1710	Arachidonic acid metabolism
+00590	b3821	Arachidonic acid metabolism
+00592	b2342	alpha-Linolenic acid metabolism
+00592	b3821	alpha-Linolenic acid metabolism
+00592	b3845	alpha-Linolenic acid metabolism
+00600	b0344	Sphingolipid metabolism
+00600	b3801	Sphingolipid metabolism
+00600	b4119	Sphingolipid metabolism
+00620	b0074	Pyruvate metabolism
+00620	b0114	Pyruvate metabolism
+00620	b0115	Pyruvate metabolism
+00620	b0116	Pyruvate metabolism
+00620	b0185	Pyruvate metabolism
+00620	b0212	Pyruvate metabolism
+00620	b0351	Pyruvate metabolism
+00620	b0823	Pyruvate metabolism
+00620	b0871	Pyruvate metabolism
+00620	b0903	Pyruvate metabolism
+00620	b0968	Pyruvate metabolism
+00620	b1033	Pyruvate metabolism
+00620	b1241	Pyruvate metabolism
+00620	b1378	Pyruvate metabolism
+00620	b1380	Pyruvate metabolism
+00620	b1415	Pyruvate metabolism
+00620	b1479	Pyruvate metabolism
+00620	b1611	Pyruvate metabolism
+00620	b1612	Pyruvate metabolism
+00620	b1651	Pyruvate metabolism
+00620	b1676	Pyruvate metabolism
+00620	b1702	Pyruvate metabolism
+00620	b1854	Pyruvate metabolism
+00620	b1967	Pyruvate metabolism
+00620	b2133	Pyruvate metabolism
+00620	b2210	Pyruvate metabolism
+00620	b2224	Pyruvate metabolism
+00620	b2296	Pyruvate metabolism
+00620	b2297	Pyruvate metabolism
+00620	b2316	Pyruvate metabolism
+00620	b2455	Pyruvate metabolism
+00620	b2458	Pyruvate metabolism
+00620	b2463	Pyruvate metabolism
+00620	b2844	Pyruvate metabolism
+00620	b2976	Pyruvate metabolism
+00620	b3114	Pyruvate metabolism
+00620	b3236	Pyruvate metabolism
+00620	b3255	Pyruvate metabolism
+00620	b3256	Pyruvate metabolism
+00620	b3403	Pyruvate metabolism
+00620	b3553	Pyruvate metabolism
+00620	b3588	Pyruvate metabolism
+00620	b3605	Pyruvate metabolism
+00620	b3951	Pyruvate metabolism
+00620	b3956	Pyruvate metabolism
+00620	b4014	Pyruvate metabolism
+00620	b4069	Pyruvate metabolism
+00620	b4122	Pyruvate metabolism
+00620	b4151	Pyruvate metabolism
+00620	b4152	Pyruvate metabolism
+00620	b4153	Pyruvate metabolism
+00620	b4154	Pyruvate metabolism
+00621	b0350	Dioxin degradation
+00621	b0351	Dioxin degradation
+00621	b0352	Dioxin degradation
+00621	b1461	Dioxin degradation
+00622	b0350	Xylene degradation
+00622	b0351	Xylene degradation
+00622	b0352	Xylene degradation
+00622	b1461	Xylene degradation
+00623	b3830	Toluene degradation
+00625	b0356	Chloroalkane and chloroalkene degradation
+00625	b1241	Chloroalkane and chloroalkene degradation
+00625	b1478	Chloroalkane and chloroalkene degradation
+00625	b3589	Chloroalkane and chloroalkene degradation
+00626	b0356	Naphthalene degradation
+00626	b1241	Naphthalene degradation
+00626	b1478	Naphthalene degradation
+00626	b3589	Naphthalene degradation
+00627	b0968	Aminobenzoate degradation
+00627	b1393	Aminobenzoate degradation
+00627	b1694	Aminobenzoate degradation
+00627	b2221	Aminobenzoate degradation
+00627	b2222	Aminobenzoate degradation
+00627	b2311	Aminobenzoate degradation
+00630	b0116	Glyoxylate and dicarboxylate metabolism
+00630	b0118	Glyoxylate and dicarboxylate metabolism
+00630	b0507	Glyoxylate and dicarboxylate metabolism
+00630	b0508	Glyoxylate and dicarboxylate metabolism
+00630	b0509	Glyoxylate and dicarboxylate metabolism
+00630	b0514	Glyoxylate and dicarboxylate metabolism
+00630	b0720	Glyoxylate and dicarboxylate metabolism
+00630	b0771	Glyoxylate and dicarboxylate metabolism
+00630	b1033	Glyoxylate and dicarboxylate metabolism
+00630	b1232	Glyoxylate and dicarboxylate metabolism
+00630	b1276	Glyoxylate and dicarboxylate metabolism
+00630	b1415	Glyoxylate and dicarboxylate metabolism
+00630	b1732	Glyoxylate and dicarboxylate metabolism
+00630	b1800	Glyoxylate and dicarboxylate metabolism
+00630	b1850	Glyoxylate and dicarboxylate metabolism
+00630	b2224	Glyoxylate and dicarboxylate metabolism
+00630	b2373	Glyoxylate and dicarboxylate metabolism
+00630	b2551	Glyoxylate and dicarboxylate metabolism
+00630	b2799	Glyoxylate and dicarboxylate metabolism
+00630	b2844	Glyoxylate and dicarboxylate metabolism
+00630	b2903	Glyoxylate and dicarboxylate metabolism
+00630	b2904	Glyoxylate and dicarboxylate metabolism
+00630	b2905	Glyoxylate and dicarboxylate metabolism
+00630	b2917	Glyoxylate and dicarboxylate metabolism
+00630	b2976	Glyoxylate and dicarboxylate metabolism
+00630	b2979	Glyoxylate and dicarboxylate metabolism
+00630	b3061	Glyoxylate and dicarboxylate metabolism
+00630	b3062	Glyoxylate and dicarboxylate metabolism
+00630	b3124	Glyoxylate and dicarboxylate metabolism
+00630	b3125	Glyoxylate and dicarboxylate metabolism
+00630	b3236	Glyoxylate and dicarboxylate metabolism
+00630	b3385	Glyoxylate and dicarboxylate metabolism
+00630	b3553	Glyoxylate and dicarboxylate metabolism
+00630	b3870	Glyoxylate and dicarboxylate metabolism
+00630	b3892	Glyoxylate and dicarboxylate metabolism
+00630	b3893	Glyoxylate and dicarboxylate metabolism
+00630	b3894	Glyoxylate and dicarboxylate metabolism
+00630	b4014	Glyoxylate and dicarboxylate metabolism
+00630	b4015	Glyoxylate and dicarboxylate metabolism
+00630	b4467	Glyoxylate and dicarboxylate metabolism
+00630	b4468	Glyoxylate and dicarboxylate metabolism
+00633	b0578	Nitrotoluene degradation
+00633	b0851	Nitrotoluene degradation
+00633	b0972	Nitrotoluene degradation
+00633	b0973	Nitrotoluene degradation
+00633	b1650	Nitrotoluene degradation
+00633	b2994	Nitrotoluene degradation
+00633	b2997	Nitrotoluene degradation
+00640	b0116	Propanoate metabolism
+00640	b0118	Propanoate metabolism
+00640	b0185	Propanoate metabolism
+00640	b0331	Propanoate metabolism
+00640	b0333	Propanoate metabolism
+00640	b0334	Propanoate metabolism
+00640	b0335	Propanoate metabolism
+00640	b0728	Propanoate metabolism
+00640	b0729	Propanoate metabolism
+00640	b0823	Propanoate metabolism
+00640	b0903	Propanoate metabolism
+00640	b0963	Propanoate metabolism
+00640	b1302	Propanoate metabolism
+00640	b1393	Propanoate metabolism
+00640	b1694	Propanoate metabolism
+00640	b1771	Propanoate metabolism
+00640	b2221	Propanoate metabolism
+00640	b2222	Propanoate metabolism
+00640	b2224	Propanoate metabolism
+00640	b2296	Propanoate metabolism
+00640	b2297	Propanoate metabolism
+00640	b2316	Propanoate metabolism
+00640	b2341	Propanoate metabolism
+00640	b2662	Propanoate metabolism
+00640	b2799	Propanoate metabolism
+00640	b2844	Propanoate metabolism
+00640	b2917	Propanoate metabolism
+00640	b2919	Propanoate metabolism
+00640	b2920	Propanoate metabolism
+00640	b3011	Propanoate metabolism
+00640	b3114	Propanoate metabolism
+00640	b3115	Propanoate metabolism
+00640	b3253	Propanoate metabolism
+00640	b3255	Propanoate metabolism
+00640	b3256	Propanoate metabolism
+00640	b3846	Propanoate metabolism
+00640	b3945	Propanoate metabolism
+00640	b3951	Propanoate metabolism
+00640	b4069	Propanoate metabolism
+00650	b0077	Butanoate metabolism
+00650	b0078	Butanoate metabolism
+00650	b0351	Butanoate metabolism
+00650	b0721	Butanoate metabolism
+00650	b0722	Butanoate metabolism
+00650	b0723	Butanoate metabolism
+00650	b0724	Butanoate metabolism
+00650	b0823	Butanoate metabolism
+00650	b0903	Butanoate metabolism
+00650	b1241	Butanoate metabolism
+00650	b1302	Butanoate metabolism
+00650	b1378	Butanoate metabolism
+00650	b1393	Butanoate metabolism
+00650	b1395	Butanoate metabolism
+00650	b1493	Butanoate metabolism
+00650	b1525	Butanoate metabolism
+00650	b1694	Butanoate metabolism
+00650	b1800	Butanoate metabolism
+00650	b2221	Butanoate metabolism
+00650	b2222	Butanoate metabolism
+00650	b2224	Butanoate metabolism
+00650	b2341	Butanoate metabolism
+00650	b2661	Butanoate metabolism
+00650	b2662	Butanoate metabolism
+00650	b2844	Butanoate metabolism
+00650	b3114	Butanoate metabolism
+00650	b3517	Butanoate metabolism
+00650	b3670	Butanoate metabolism
+00650	b3671	Butanoate metabolism
+00650	b3769	Butanoate metabolism
+00650	b3846	Butanoate metabolism
+00650	b3882	Butanoate metabolism
+00650	b3951	Butanoate metabolism
+00650	b4151	Butanoate metabolism
+00650	b4152	Butanoate metabolism
+00650	b4153	Butanoate metabolism
+00650	b4154	Butanoate metabolism
+00660	b0071	C5-Branched dibasic acid metabolism
+00660	b0072	C5-Branched dibasic acid metabolism
+00660	b0073	C5-Branched dibasic acid metabolism
+00660	b0077	C5-Branched dibasic acid metabolism
+00660	b0078	C5-Branched dibasic acid metabolism
+00660	b0728	C5-Branched dibasic acid metabolism
+00660	b0729	C5-Branched dibasic acid metabolism
+00660	b3670	C5-Branched dibasic acid metabolism
+00660	b3671	C5-Branched dibasic acid metabolism
+00660	b3769	C5-Branched dibasic acid metabolism
+00670	b0048	One carbon pool by folate
+00670	b0529	One carbon pool by folate
+00670	b1232	One carbon pool by folate
+00670	b1606	One carbon pool by folate
+00670	b1849	One carbon pool by folate
+00670	b2500	One carbon pool by folate
+00670	b2551	One carbon pool by folate
+00670	b2827	One carbon pool by folate
+00670	b2905	One carbon pool by folate
+00670	b2912	One carbon pool by folate
+00670	b3288	One carbon pool by folate
+00670	b3941	One carbon pool by folate
+00670	b4006	One carbon pool by folate
+00670	b4019	One carbon pool by folate
+00680	b0355	Methane metabolism
+00680	b0356	Methane metabolism
+00680	b0755	Methane metabolism
+00680	b0907	Methane metabolism
+00680	b1702	Methane metabolism
+00680	b1723	Methane metabolism
+00680	b2097	Methane metabolism
+00680	b2154	Methane metabolism
+00680	b2296	Methane metabolism
+00680	b2297	Methane metabolism
+00680	b2551	Methane metabolism
+00680	b2779	Methane metabolism
+00680	b2913	Methane metabolism
+00680	b2925	Methane metabolism
+00680	b3236	Methane metabolism
+00680	b3612	Methane metabolism
+00680	b3892	Methane metabolism
+00680	b3893	Methane metabolism
+00680	b3894	Methane metabolism
+00680	b3916	Methane metabolism
+00680	b3925	Methane metabolism
+00680	b3956	Methane metabolism
+00680	b4069	Methane metabolism
+00680	b4232	Methane metabolism
+00680	b4388	Methane metabolism
+00680	b4395	Methane metabolism
+00730	b0383	Thiamine metabolism
+00730	b0417	Thiamine metabolism
+00730	b0420	Thiamine metabolism
+00730	b0423	Thiamine metabolism
+00730	b0474	Thiamine metabolism
+00730	b1106	Thiamine metabolism
+00730	b2103	Thiamine metabolism
+00730	b2104	Thiamine metabolism
+00730	b2530	Thiamine metabolism
+00730	b3990	Thiamine metabolism
+00730	b3991	Thiamine metabolism
+00730	b3992	Thiamine metabolism
+00730	b3993	Thiamine metabolism
+00730	b3994	Thiamine metabolism
+00730	b4161	Thiamine metabolism
+00740	b0025	Riboflavin metabolism
+00740	b0414	Riboflavin metabolism
+00740	b0415	Riboflavin metabolism
+00740	b0844	Riboflavin metabolism
+00740	b0937	Riboflavin metabolism
+00740	b0980	Riboflavin metabolism
+00740	b1277	Riboflavin metabolism
+00740	b1662	Riboflavin metabolism
+00740	b3041	Riboflavin metabolism
+00740	b3812	Riboflavin metabolism
+00740	b3844	Riboflavin metabolism
+00740	b4055	Riboflavin metabolism
+00750	b0004	Vitamin B6 metabolism
+00750	b0052	Vitamin B6 metabolism
+00750	b0907	Vitamin B6 metabolism
+00750	b1406	Vitamin B6 metabolism
+00750	b1636	Vitamin B6 metabolism
+00750	b1638	Vitamin B6 metabolism
+00750	b2320	Vitamin B6 metabolism
+00750	b2418	Vitamin B6 metabolism
+00750	b2564	Vitamin B6 metabolism
+00750	b2927	Vitamin B6 metabolism
+00760	b0109	Nicotinate and nicotinamide metabolism
+00760	b0480	Nicotinate and nicotinamide metabolism
+00760	b0639	Nicotinate and nicotinamide metabolism
+00760	b0750	Nicotinate and nicotinamide metabolism
+00760	b0931	Nicotinate and nicotinamide metabolism
+00760	b1525	Nicotinate and nicotinamide metabolism
+00760	b1602	Nicotinate and nicotinamide metabolism
+00760	b1603	Nicotinate and nicotinamide metabolism
+00760	b1740	Nicotinate and nicotinamide metabolism
+00760	b1768	Nicotinate and nicotinamide metabolism
+00760	b2574	Nicotinate and nicotinamide metabolism
+00760	b2615	Nicotinate and nicotinamide metabolism
+00760	b2661	Nicotinate and nicotinamide metabolism
+00760	b2700	Nicotinate and nicotinamide metabolism
+00760	b2744	Nicotinate and nicotinamide metabolism
+00760	b2781	Nicotinate and nicotinamide metabolism
+00760	b3399	Nicotinate and nicotinamide metabolism
+00760	b3962	Nicotinate and nicotinamide metabolism
+00760	b3996	Nicotinate and nicotinamide metabolism
+00760	b4374	Nicotinate and nicotinamide metabolism
+00760	b4384	Nicotinate and nicotinamide metabolism
+00760	b4390	Nicotinate and nicotinamide metabolism
+00770	b0077	Pantothenate and CoA biosynthesis
+00770	b0078	Pantothenate and CoA biosynthesis
+00770	b0103	Pantothenate and CoA biosynthesis
+00770	b0131	Pantothenate and CoA biosynthesis
+00770	b0133	Pantothenate and CoA biosynthesis
+00770	b0134	Pantothenate and CoA biosynthesis
+00770	b0404	Pantothenate and CoA biosynthesis
+00770	b0425	Pantothenate and CoA biosynthesis
+00770	b2146	Pantothenate and CoA biosynthesis
+00770	b2147	Pantothenate and CoA biosynthesis
+00770	b2563	Pantothenate and CoA biosynthesis
+00770	b2781	Pantothenate and CoA biosynthesis
+00770	b2873	Pantothenate and CoA biosynthesis
+00770	b3475	Pantothenate and CoA biosynthesis
+00770	b3634	Pantothenate and CoA biosynthesis
+00770	b3639	Pantothenate and CoA biosynthesis
+00770	b3670	Pantothenate and CoA biosynthesis
+00770	b3671	Pantothenate and CoA biosynthesis
+00770	b3769	Pantothenate and CoA biosynthesis
+00770	b3770	Pantothenate and CoA biosynthesis
+00770	b3771	Pantothenate and CoA biosynthesis
+00770	b3774	Pantothenate and CoA biosynthesis
+00770	b3974	Pantothenate and CoA biosynthesis
+00780	b0180	Biotin metabolism
+00780	b0774	Biotin metabolism
+00780	b0775	Biotin metabolism
+00780	b0776	Biotin metabolism
+00780	b0777	Biotin metabolism
+00780	b0778	Biotin metabolism
+00780	b1093	Biotin metabolism
+00780	b1095	Biotin metabolism
+00780	b1288	Biotin metabolism
+00780	b1593	Biotin metabolism
+00780	b2323	Biotin metabolism
+00780	b3412	Biotin metabolism
+00780	b3551	Biotin metabolism
+00780	b3973	Biotin metabolism
+00785	b0628	Lipoic acid metabolism
+00785	b0630	Lipoic acid metabolism
+00785	b4386	Lipoic acid metabolism
+00790	b0009	Folate biosynthesis
+00790	b0048	Folate biosynthesis
+00790	b0142	Folate biosynthesis
+00790	b0383	Folate biosynthesis
+00790	b0444	Folate biosynthesis
+00790	b0781	Folate biosynthesis
+00790	b0782	Folate biosynthesis
+00790	b0783	Folate biosynthesis
+00790	b0785	Folate biosynthesis
+00790	b0827	Folate biosynthesis
+00790	b1096	Folate biosynthesis
+00790	b1277	Folate biosynthesis
+00790	b1606	Folate biosynthesis
+00790	b1812	Folate biosynthesis
+00790	b1865	Folate biosynthesis
+00790	b2153	Folate biosynthesis
+00790	b2303	Folate biosynthesis
+00790	b2315	Folate biosynthesis
+00790	b2765	Folate biosynthesis
+00790	b2777	Folate biosynthesis
+00790	b2794	Folate biosynthesis
+00790	b2877	Folate biosynthesis
+00790	b3058	Folate biosynthesis
+00790	b3177	Folate biosynthesis
+00790	b3360	Folate biosynthesis
+00790	b3857	Folate biosynthesis
+00860	b0154	Porphyrin and chlorophyll metabolism
+00860	b0369	Porphyrin and chlorophyll metabolism
+00860	b0428	Porphyrin and chlorophyll metabolism
+00860	b0475	Porphyrin and chlorophyll metabolism
+00860	b0638	Porphyrin and chlorophyll metabolism
+00860	b1210	Porphyrin and chlorophyll metabolism
+00860	b1270	Porphyrin and chlorophyll metabolism
+00860	b1617	Porphyrin and chlorophyll metabolism
+00860	b1991	Porphyrin and chlorophyll metabolism
+00860	b1992	Porphyrin and chlorophyll metabolism
+00860	b1993	Porphyrin and chlorophyll metabolism
+00860	b2400	Porphyrin and chlorophyll metabolism
+00860	b2436	Porphyrin and chlorophyll metabolism
+00860	b2459	Porphyrin and chlorophyll metabolism
+00860	b3336	Porphyrin and chlorophyll metabolism
+00860	b3368	Porphyrin and chlorophyll metabolism
+00860	b3803	Porphyrin and chlorophyll metabolism
+00860	b3804	Porphyrin and chlorophyll metabolism
+00860	b3805	Porphyrin and chlorophyll metabolism
+00860	b3844	Porphyrin and chlorophyll metabolism
+00860	b3850	Porphyrin and chlorophyll metabolism
+00860	b3867	Porphyrin and chlorophyll metabolism
+00860	b3997	Porphyrin and chlorophyll metabolism
+00900	b0029	Terpenoid backbone biosynthesis
+00900	b0173	Terpenoid backbone biosynthesis
+00900	b0174	Terpenoid backbone biosynthesis
+00900	b0420	Terpenoid backbone biosynthesis
+00900	b0421	Terpenoid backbone biosynthesis
+00900	b1208	Terpenoid backbone biosynthesis
+00900	b2224	Terpenoid backbone biosynthesis
+00900	b2515	Terpenoid backbone biosynthesis
+00900	b2746	Terpenoid backbone biosynthesis
+00900	b2747	Terpenoid backbone biosynthesis
+00900	b2844	Terpenoid backbone biosynthesis
+00900	b2889	Terpenoid backbone biosynthesis
+00900	b3187	Terpenoid backbone biosynthesis
+00903	b1393	Limonene and pinene degradation
+00903	b2341	Limonene and pinene degradation
+00903	b3846	Limonene and pinene degradation
+00910	b0126	Nitrogen metabolism
+00910	b0323	Nitrogen metabolism
+00910	b0339	Nitrogen metabolism
+00910	b0340	Nitrogen metabolism
+00910	b0521	Nitrogen metabolism
+00910	b0873	Nitrogen metabolism
+00910	b1223	Nitrogen metabolism
+00910	b1224	Nitrogen metabolism
+00910	b1225	Nitrogen metabolism
+00910	b1227	Nitrogen metabolism
+00910	b1465	Nitrogen metabolism
+00910	b1467	Nitrogen metabolism
+00910	b1468	Nitrogen metabolism
+00910	b1469	Nitrogen metabolism
+00910	b1761	Nitrogen metabolism
+00910	b2203	Nitrogen metabolism
+00910	b2206	Nitrogen metabolism
+00910	b2874	Nitrogen metabolism
+00910	b3212	Nitrogen metabolism
+00910	b3213	Nitrogen metabolism
+00910	b3365	Nitrogen metabolism
+00910	b3366	Nitrogen metabolism
+00910	b3870	Nitrogen metabolism
+00910	b4070	Nitrogen metabolism
+00920	b0365	Sulfur metabolism
+00920	b0366	Sulfur metabolism
+00920	b0367	Sulfur metabolism
+00920	b0368	Sulfur metabolism
+00920	b0894	Sulfur metabolism
+00920	b0895	Sulfur metabolism
+00920	b0896	Sulfur metabolism
+00920	b0933	Sulfur metabolism
+00920	b0934	Sulfur metabolism
+00920	b0935	Sulfur metabolism
+00920	b0936	Sulfur metabolism
+00920	b0937	Sulfur metabolism
+00920	b1670	Sulfur metabolism
+00920	b2414	Sulfur metabolism
+00920	b2421	Sulfur metabolism
+00920	b2422	Sulfur metabolism
+00920	b2423	Sulfur metabolism
+00920	b2424	Sulfur metabolism
+00920	b2425	Sulfur metabolism
+00920	b2521	Sulfur metabolism
+00920	b2750	Sulfur metabolism
+00920	b2751	Sulfur metabolism
+00920	b2752	Sulfur metabolism
+00920	b2762	Sulfur metabolism
+00920	b2763	Sulfur metabolism
+00920	b2764	Sulfur metabolism
+00920	b3425	Sulfur metabolism
+00920	b3607	Sulfur metabolism
+00920	b3917	Sulfur metabolism
+00920	b3939	Sulfur metabolism
+00920	b4013	Sulfur metabolism
+00920	b4214	Sulfur metabolism
+00930	b1393	Caprolactam degradation
+00930	b2341	Caprolactam degradation
+00930	b3846	Caprolactam degradation
+00970	b0026	Aminoacyl-tRNA biosynthesis
+00970	b0194	Aminoacyl-tRNA biosynthesis
+00970	b0202	Aminoacyl-tRNA biosynthesis
+00970	b0203	Aminoacyl-tRNA biosynthesis
+00970	b0206	Aminoacyl-tRNA biosynthesis
+00970	b0216	Aminoacyl-tRNA biosynthesis
+00970	b0244	Aminoacyl-tRNA biosynthesis
+00970	b0526	Aminoacyl-tRNA biosynthesis
+00970	b0536	Aminoacyl-tRNA biosynthesis
+00970	b0642	Aminoacyl-tRNA biosynthesis
+00970	b0664	Aminoacyl-tRNA biosynthesis
+00970	b0665	Aminoacyl-tRNA biosynthesis
+00970	b0666	Aminoacyl-tRNA biosynthesis
+00970	b0668	Aminoacyl-tRNA biosynthesis
+00970	b0670	Aminoacyl-tRNA biosynthesis
+00970	b0672	Aminoacyl-tRNA biosynthesis
+00970	b0673	Aminoacyl-tRNA biosynthesis
+00970	b0680	Aminoacyl-tRNA biosynthesis
+00970	b0743	Aminoacyl-tRNA biosynthesis
+00970	b0744	Aminoacyl-tRNA biosynthesis
+00970	b0745	Aminoacyl-tRNA biosynthesis
+00970	b0746	Aminoacyl-tRNA biosynthesis
+00970	b0747	Aminoacyl-tRNA biosynthesis
+00970	b0748	Aminoacyl-tRNA biosynthesis
+00970	b0749	Aminoacyl-tRNA biosynthesis
+00970	b0883	Aminoacyl-tRNA biosynthesis
+00970	b0893	Aminoacyl-tRNA biosynthesis
+00970	b0930	Aminoacyl-tRNA biosynthesis
+00970	b0971	Aminoacyl-tRNA biosynthesis
+00970	b1032	Aminoacyl-tRNA biosynthesis
+00970	b1230	Aminoacyl-tRNA biosynthesis
+00970	b1231	Aminoacyl-tRNA biosynthesis
+00970	b1637	Aminoacyl-tRNA biosynthesis
+00970	b1665	Aminoacyl-tRNA biosynthesis
+00970	b1666	Aminoacyl-tRNA biosynthesis
+00970	b1713	Aminoacyl-tRNA biosynthesis
+00970	b1714	Aminoacyl-tRNA biosynthesis
+00970	b1719	Aminoacyl-tRNA biosynthesis
+00970	b1866	Aminoacyl-tRNA biosynthesis
+00970	b1876	Aminoacyl-tRNA biosynthesis
+00970	b1909	Aminoacyl-tRNA biosynthesis
+00970	b1910	Aminoacyl-tRNA biosynthesis
+00970	b1911	Aminoacyl-tRNA biosynthesis
+00970	b1975	Aminoacyl-tRNA biosynthesis
+00970	b1977	Aminoacyl-tRNA biosynthesis
+00970	b1984	Aminoacyl-tRNA biosynthesis
+00970	b1986	Aminoacyl-tRNA biosynthesis
+00970	b1989	Aminoacyl-tRNA biosynthesis
+00970	b2114	Aminoacyl-tRNA biosynthesis
+00970	b2189	Aminoacyl-tRNA biosynthesis
+00970	b2348	Aminoacyl-tRNA biosynthesis
+00970	b2396	Aminoacyl-tRNA biosynthesis
+00970	b2397	Aminoacyl-tRNA biosynthesis
+00970	b2400	Aminoacyl-tRNA biosynthesis
+00970	b2401	Aminoacyl-tRNA biosynthesis
+00970	b2402	Aminoacyl-tRNA biosynthesis
+00970	b2403	Aminoacyl-tRNA biosynthesis
+00970	b2404	Aminoacyl-tRNA biosynthesis
+00970	b2514	Aminoacyl-tRNA biosynthesis
+00970	b2590	Aminoacyl-tRNA biosynthesis
+00970	b2652	Aminoacyl-tRNA biosynthesis
+00970	b2691	Aminoacyl-tRNA biosynthesis
+00970	b2692	Aminoacyl-tRNA biosynthesis
+00970	b2693	Aminoacyl-tRNA biosynthesis
+00970	b2694	Aminoacyl-tRNA biosynthesis
+00970	b2695	Aminoacyl-tRNA biosynthesis
+00970	b2697	Aminoacyl-tRNA biosynthesis
+00970	b2814	Aminoacyl-tRNA biosynthesis
+00970	b2815	Aminoacyl-tRNA biosynthesis
+00970	b2816	Aminoacyl-tRNA biosynthesis
+00970	b2864	Aminoacyl-tRNA biosynthesis
+00970	b2890	Aminoacyl-tRNA biosynthesis
+00970	b2967	Aminoacyl-tRNA biosynthesis
+00970	b3069	Aminoacyl-tRNA biosynthesis
+00970	b3171	Aminoacyl-tRNA biosynthesis
+00970	b3174	Aminoacyl-tRNA biosynthesis
+00970	b3273	Aminoacyl-tRNA biosynthesis
+00970	b3276	Aminoacyl-tRNA biosynthesis
+00970	b3277	Aminoacyl-tRNA biosynthesis
+00970	b3288	Aminoacyl-tRNA biosynthesis
+00970	b3384	Aminoacyl-tRNA biosynthesis
+00970	b3545	Aminoacyl-tRNA biosynthesis
+00970	b3559	Aminoacyl-tRNA biosynthesis
+00970	b3560	Aminoacyl-tRNA biosynthesis
+00970	b3591	Aminoacyl-tRNA biosynthesis
+00970	b3658	Aminoacyl-tRNA biosynthesis
+00970	b3757	Aminoacyl-tRNA biosynthesis
+00970	b3760	Aminoacyl-tRNA biosynthesis
+00970	b3761	Aminoacyl-tRNA biosynthesis
+00970	b3796	Aminoacyl-tRNA biosynthesis
+00970	b3797	Aminoacyl-tRNA biosynthesis
+00970	b3798	Aminoacyl-tRNA biosynthesis
+00970	b3799	Aminoacyl-tRNA biosynthesis
+00970	b3852	Aminoacyl-tRNA biosynthesis
+00970	b3853	Aminoacyl-tRNA biosynthesis
+00970	b3969	Aminoacyl-tRNA biosynthesis
+00970	b3976	Aminoacyl-tRNA biosynthesis
+00970	b3977	Aminoacyl-tRNA biosynthesis
+00970	b3978	Aminoacyl-tRNA biosynthesis
+00970	b3979	Aminoacyl-tRNA biosynthesis
+00970	b4008	Aminoacyl-tRNA biosynthesis
+00970	b4129	Aminoacyl-tRNA biosynthesis
+00970	b4134	Aminoacyl-tRNA biosynthesis
+00970	b4163	Aminoacyl-tRNA biosynthesis
+00970	b4164	Aminoacyl-tRNA biosynthesis
+00970	b4165	Aminoacyl-tRNA biosynthesis
+00970	b4258	Aminoacyl-tRNA biosynthesis
+00970	b4270	Aminoacyl-tRNA biosynthesis
+00970	b4368	Aminoacyl-tRNA biosynthesis
+00970	b4369	Aminoacyl-tRNA biosynthesis
+00970	b4370	Aminoacyl-tRNA biosynthesis
+01040	b0452	Biosynthesis of unsaturated fatty acids
+01040	b0494	Biosynthesis of unsaturated fatty acids
+01040	b1093	Biosynthesis of unsaturated fatty acids
+01040	b1253	Biosynthesis of unsaturated fatty acids
+01040	b2341	Biosynthesis of unsaturated fatty acids
+01040	b3846	Biosynthesis of unsaturated fatty acids
+01053	b0583	Biosynthesis of siderophore group nonribosomal peptides
+01053	b0586	Biosynthesis of siderophore group nonribosomal peptides
+01053	b0593	Biosynthesis of siderophore group nonribosomal peptides
+01053	b0594	Biosynthesis of siderophore group nonribosomal peptides
+01053	b0595	Biosynthesis of siderophore group nonribosomal peptides
+01053	b0596	Biosynthesis of siderophore group nonribosomal peptides
+01053	b2265	Biosynthesis of siderophore group nonribosomal peptides
+01100	b0002	Metabolic pathways
+01100	b0003	Metabolic pathways
+01100	b0004	Metabolic pathways
+01100	b0008	Metabolic pathways
+01100	b0009	Metabolic pathways
+01100	b0025	Metabolic pathways
+01100	b0029	Metabolic pathways
+01100	b0031	Metabolic pathways
+01100	b0032	Metabolic pathways
+01100	b0033	Metabolic pathways
+01100	b0048	Metabolic pathways
+01100	b0052	Metabolic pathways
+01100	b0061	Metabolic pathways
+01100	b0062	Metabolic pathways
+01100	b0063	Metabolic pathways
+01100	b0071	Metabolic pathways
+01100	b0072	Metabolic pathways
+01100	b0073	Metabolic pathways
+01100	b0074	Metabolic pathways
+01100	b0077	Metabolic pathways
+01100	b0078	Metabolic pathways
+01100	b0086	Metabolic pathways
+01100	b0087	Metabolic pathways
+01100	b0088	Metabolic pathways
+01100	b0090	Metabolic pathways
+01100	b0091	Metabolic pathways
+01100	b0092	Metabolic pathways
+01100	b0096	Metabolic pathways
+01100	b0103	Metabolic pathways
+01100	b0109	Metabolic pathways
+01100	b0114	Metabolic pathways
+01100	b0115	Metabolic pathways
+01100	b0116	Metabolic pathways
+01100	b0118	Metabolic pathways
+01100	b0120	Metabolic pathways
+01100	b0121	Metabolic pathways
+01100	b0124	Metabolic pathways
+01100	b0125	Metabolic pathways
+01100	b0131	Metabolic pathways
+01100	b0133	Metabolic pathways
+01100	b0134	Metabolic pathways
+01100	b0142	Metabolic pathways
+01100	b0154	Metabolic pathways
+01100	b0159	Metabolic pathways
+01100	b0166	Metabolic pathways
+01100	b0171	Metabolic pathways
+01100	b0173	Metabolic pathways
+01100	b0175	Metabolic pathways
+01100	b0179	Metabolic pathways
+01100	b0180	Metabolic pathways
+01100	b0181	Metabolic pathways
+01100	b0182	Metabolic pathways
+01100	b0184	Metabolic pathways
+01100	b0185	Metabolic pathways
+01100	b0186	Metabolic pathways
+01100	b0200	Metabolic pathways
+01100	b0215	Metabolic pathways
+01100	b0221	Metabolic pathways
+01100	b0222	Metabolic pathways
+01100	b0237	Metabolic pathways
+01100	b0238	Metabolic pathways
+01100	b0242	Metabolic pathways
+01100	b0243	Metabolic pathways
+01100	b0261	Metabolic pathways
+01100	b0268	Metabolic pathways
+01100	b0271	Metabolic pathways
+01100	b0273	Metabolic pathways
+01100	b0284	Metabolic pathways
+01100	b0285	Metabolic pathways
+01100	b0286	Metabolic pathways
+01100	b0311	Metabolic pathways
+01100	b0312	Metabolic pathways
+01100	b0323	Metabolic pathways
+01100	b0335	Metabolic pathways
+01100	b0337	Metabolic pathways
+01100	b0344	Metabolic pathways
+01100	b0350	Metabolic pathways
+01100	b0351	Metabolic pathways
+01100	b0352	Metabolic pathways
+01100	b0356	Metabolic pathways
+01100	b0369	Metabolic pathways
+01100	b0381	Metabolic pathways
+01100	b0383	Metabolic pathways
+01100	b0386	Metabolic pathways
+01100	b0388	Metabolic pathways
+01100	b0394	Metabolic pathways
+01100	b0403	Metabolic pathways
+01100	b0414	Metabolic pathways
+01100	b0415	Metabolic pathways
+01100	b0417	Metabolic pathways
+01100	b0418	Metabolic pathways
+01100	b0420	Metabolic pathways
+01100	b0421	Metabolic pathways
+01100	b0423	Metabolic pathways
+01100	b0425	Metabolic pathways
+01100	b0428	Metabolic pathways
+01100	b0429	Metabolic pathways
+01100	b0430	Metabolic pathways
+01100	b0431	Metabolic pathways
+01100	b0432	Metabolic pathways
+01100	b0444	Metabolic pathways
+01100	b0469	Metabolic pathways
+01100	b0470	Metabolic pathways
+01100	b0474	Metabolic pathways
+01100	b0475	Metabolic pathways
+01100	b0480	Metabolic pathways
+01100	b0485	Metabolic pathways
+01100	b0505	Metabolic pathways
+01100	b0507	Metabolic pathways
+01100	b0508	Metabolic pathways
+01100	b0509	Metabolic pathways
+01100	b0512	Metabolic pathways
+01100	b0514	Metabolic pathways
+01100	b0521	Metabolic pathways
+01100	b0522	Metabolic pathways
+01100	b0523	Metabolic pathways
+01100	b0524	Metabolic pathways
+01100	b0529	Metabolic pathways
+01100	b0593	Metabolic pathways
+01100	b0628	Metabolic pathways
+01100	b0630	Metabolic pathways
+01100	b0632	Metabolic pathways
+01100	b0638	Metabolic pathways
+01100	b0639	Metabolic pathways
+01100	b0640	Metabolic pathways
+01100	b0662	Metabolic pathways
+01100	b0674	Metabolic pathways
+01100	b0678	Metabolic pathways
+01100	b0680	Metabolic pathways
+01100	b0688	Metabolic pathways
+01100	b0693	Metabolic pathways
+01100	b0720	Metabolic pathways
+01100	b0721	Metabolic pathways
+01100	b0722	Metabolic pathways
+01100	b0723	Metabolic pathways
+01100	b0724	Metabolic pathways
+01100	b0726	Metabolic pathways
+01100	b0727	Metabolic pathways
+01100	b0728	Metabolic pathways
+01100	b0729	Metabolic pathways
+01100	b0733	Metabolic pathways
+01100	b0734	Metabolic pathways
+01100	b0750	Metabolic pathways
+01100	b0754	Metabolic pathways
+01100	b0755	Metabolic pathways
+01100	b0756	Metabolic pathways
+01100	b0757	Metabolic pathways
+01100	b0758	Metabolic pathways
+01100	b0759	Metabolic pathways
+01100	b0767	Metabolic pathways
+01100	b0771	Metabolic pathways
+01100	b0772	Metabolic pathways
+01100	b0774	Metabolic pathways
+01100	b0775	Metabolic pathways
+01100	b0776	Metabolic pathways
+01100	b0777	Metabolic pathways
+01100	b0778	Metabolic pathways
+01100	b0781	Metabolic pathways
+01100	b0783	Metabolic pathways
+01100	b0785	Metabolic pathways
+01100	b0789	Metabolic pathways
+01100	b0823	Metabolic pathways
+01100	b0827	Metabolic pathways
+01100	b0839	Metabolic pathways
+01100	b0844	Metabolic pathways
+01100	b0870	Metabolic pathways
+01100	b0903	Metabolic pathways
+01100	b0907	Metabolic pathways
+01100	b0908	Metabolic pathways
+01100	b0910	Metabolic pathways
+01100	b0915	Metabolic pathways
+01100	b0918	Metabolic pathways
+01100	b0928	Metabolic pathways
+01100	b0931	Metabolic pathways
+01100	b0932	Metabolic pathways
+01100	b0937	Metabolic pathways
+01100	b0945	Metabolic pathways
+01100	b0954	Metabolic pathways
+01100	b0978	Metabolic pathways
+01100	b0979	Metabolic pathways
+01100	b0980	Metabolic pathways
+01100	b1007	Metabolic pathways
+01100	b1008	Metabolic pathways
+01100	b1009	Metabolic pathways
+01100	b1010	Metabolic pathways
+01100	b1011	Metabolic pathways
+01100	b1012	Metabolic pathways
+01100	b1014	Metabolic pathways
+01100	b1033	Metabolic pathways
+01100	b1046	Metabolic pathways
+01100	b1054	Metabolic pathways
+01100	b1062	Metabolic pathways
+01100	b1090	Metabolic pathways
+01100	b1091	Metabolic pathways
+01100	b1092	Metabolic pathways
+01100	b1093	Metabolic pathways
+01100	b1095	Metabolic pathways
+01100	b1098	Metabolic pathways
+01100	b1099	Metabolic pathways
+01100	b1106	Metabolic pathways
+01100	b1107	Metabolic pathways
+01100	b1119	Metabolic pathways
+01100	b1131	Metabolic pathways
+01100	b1136	Metabolic pathways
+01100	b1190	Metabolic pathways
+01100	b1197	Metabolic pathways
+01100	b1199	Metabolic pathways
+01100	b1200	Metabolic pathways
+01100	b1207	Metabolic pathways
+01100	b1208	Metabolic pathways
+01100	b1210	Metabolic pathways
+01100	b1215	Metabolic pathways
+01100	b1236	Metabolic pathways
+01100	b1238	Metabolic pathways
+01100	b1241	Metabolic pathways
+01100	b1249	Metabolic pathways
+01100	b1260	Metabolic pathways
+01100	b1261	Metabolic pathways
+01100	b1262	Metabolic pathways
+01100	b1263	Metabolic pathways
+01100	b1264	Metabolic pathways
+01100	b1270	Metabolic pathways
+01100	b1276	Metabolic pathways
+01100	b1277	Metabolic pathways
+01100	b1278	Metabolic pathways
+01100	b1281	Metabolic pathways
+01100	b1288	Metabolic pathways
+01100	b1297	Metabolic pathways
+01100	b1298	Metabolic pathways
+01100	b1300	Metabolic pathways
+01100	b1301	Metabolic pathways
+01100	b1302	Metabolic pathways
+01100	b1378	Metabolic pathways
+01100	b1385	Metabolic pathways
+01100	b1386	Metabolic pathways
+01100	b1393	Metabolic pathways
+01100	b1395	Metabolic pathways
+01100	b1406	Metabolic pathways
+01100	b1409	Metabolic pathways
+01100	b1444	Metabolic pathways
+01100	b1461	Metabolic pathways
+01100	b1478	Metabolic pathways
+01100	b1493	Metabolic pathways
+01100	b1521	Metabolic pathways
+01100	b1524	Metabolic pathways
+01100	b1525	Metabolic pathways
+01100	b1539	Metabolic pathways
+01100	b1580	Metabolic pathways
+01100	b1581	Metabolic pathways
+01100	b1584	Metabolic pathways
+01100	b1593	Metabolic pathways
+01100	b1602	Metabolic pathways
+01100	b1603	Metabolic pathways
+01100	b1606	Metabolic pathways
+01100	b1611	Metabolic pathways
+01100	b1612	Metabolic pathways
+01100	b1613	Metabolic pathways
+01100	b1617	Metabolic pathways
+01100	b1622	Metabolic pathways
+01100	b1623	Metabolic pathways
+01100	b1636	Metabolic pathways
+01100	b1638	Metabolic pathways
+01100	b1662	Metabolic pathways
+01100	b1676	Metabolic pathways
+01100	b1680	Metabolic pathways
+01100	b1686	Metabolic pathways
+01100	b1692	Metabolic pathways
+01100	b1693	Metabolic pathways
+01100	b1694	Metabolic pathways
+01100	b1702	Metabolic pathways
+01100	b1704	Metabolic pathways
+01100	b1723	Metabolic pathways
+01100	b1740	Metabolic pathways
+01100	b1744	Metabolic pathways
+01100	b1745	Metabolic pathways
+01100	b1746	Metabolic pathways
+01100	b1747	Metabolic pathways
+01100	b1748	Metabolic pathways
+01100	b1761	Metabolic pathways
+01100	b1764	Metabolic pathways
+01100	b1767	Metabolic pathways
+01100	b1768	Metabolic pathways
+01100	b1779	Metabolic pathways
+01100	b1780	Metabolic pathways
+01100	b1805	Metabolic pathways
+01100	b1814	Metabolic pathways
+01100	b1817	Metabolic pathways
+01100	b1818	Metabolic pathways
+01100	b1819	Metabolic pathways
+01100	b1842	Metabolic pathways
+01100	b1849	Metabolic pathways
+01100	b1850	Metabolic pathways
+01100	b1851	Metabolic pathways
+01100	b1852	Metabolic pathways
+01100	b1854	Metabolic pathways
+01100	b1855	Metabolic pathways
+01100	b1896	Metabolic pathways
+01100	b1897	Metabolic pathways
+01100	b1912	Metabolic pathways
+01100	b1927	Metabolic pathways
+01100	b1961	Metabolic pathways
+01100	b1970	Metabolic pathways
+01100	b1991	Metabolic pathways
+01100	b1992	Metabolic pathways
+01100	b1993	Metabolic pathways
+01100	b2010	Metabolic pathways
+01100	b2019	Metabolic pathways
+01100	b2020	Metabolic pathways
+01100	b2021	Metabolic pathways
+01100	b2022	Metabolic pathways
+01100	b2023	Metabolic pathways
+01100	b2024	Metabolic pathways
+01100	b2025	Metabolic pathways
+01100	b2026	Metabolic pathways
+01100	b2028	Metabolic pathways
+01100	b2029	Metabolic pathways
+01100	b2042	Metabolic pathways
+01100	b2048	Metabolic pathways
+01100	b2049	Metabolic pathways
+01100	b2052	Metabolic pathways
+01100	b2053	Metabolic pathways
+01100	b2065	Metabolic pathways
+01100	b2066	Metabolic pathways
+01100	b2091	Metabolic pathways
+01100	b2093	Metabolic pathways
+01100	b2094	Metabolic pathways
+01100	b2095	Metabolic pathways
+01100	b2096	Metabolic pathways
+01100	b2097	Metabolic pathways
+01100	b2103	Metabolic pathways
+01100	b2104	Metabolic pathways
+01100	b2132	Metabolic pathways
+01100	b2143	Metabolic pathways
+01100	b2146	Metabolic pathways
+01100	b2147	Metabolic pathways
+01100	b2153	Metabolic pathways
+01100	b2162	Metabolic pathways
+01100	b2167	Metabolic pathways
+01100	b2169	Metabolic pathways
+01100	b2210	Metabolic pathways
+01100	b2221	Metabolic pathways
+01100	b2222	Metabolic pathways
+01100	b2224	Metabolic pathways
+01100	b2232	Metabolic pathways
+01100	b2234	Metabolic pathways
+01100	b2235	Metabolic pathways
+01100	b2260	Metabolic pathways
+01100	b2261	Metabolic pathways
+01100	b2262	Metabolic pathways
+01100	b2263	Metabolic pathways
+01100	b2264	Metabolic pathways
+01100	b2265	Metabolic pathways
+01100	b2276	Metabolic pathways
+01100	b2277	Metabolic pathways
+01100	b2278	Metabolic pathways
+01100	b2279	Metabolic pathways
+01100	b2280	Metabolic pathways
+01100	b2281	Metabolic pathways
+01100	b2282	Metabolic pathways
+01100	b2283	Metabolic pathways
+01100	b2284	Metabolic pathways
+01100	b2285	Metabolic pathways
+01100	b2286	Metabolic pathways
+01100	b2287	Metabolic pathways
+01100	b2288	Metabolic pathways
+01100	b2290	Metabolic pathways
+01100	b2291	Metabolic pathways
+01100	b2296	Metabolic pathways
+01100	b2297	Metabolic pathways
+01100	b2311	Metabolic pathways
+01100	b2312	Metabolic pathways
+01100	b2315	Metabolic pathways
+01100	b2316	Metabolic pathways
+01100	b2320	Metabolic pathways
+01100	b2323	Metabolic pathways
+01100	b2329	Metabolic pathways
+01100	b2341	Metabolic pathways
+01100	b2342	Metabolic pathways
+01100	b2373	Metabolic pathways
+01100	b2388	Metabolic pathways
+01100	b2400	Metabolic pathways
+01100	b2407	Metabolic pathways
+01100	b2414	Metabolic pathways
+01100	b2418	Metabolic pathways
+01100	b2421	Metabolic pathways
+01100	b2428	Metabolic pathways
+01100	b2436	Metabolic pathways
+01100	b2440	Metabolic pathways
+01100	b2441	Metabolic pathways
+01100	b2451	Metabolic pathways
+01100	b2453	Metabolic pathways
+01100	b2455	Metabolic pathways
+01100	b2458	Metabolic pathways
+01100	b2459	Metabolic pathways
+01100	b2463	Metabolic pathways
+01100	b2464	Metabolic pathways
+01100	b2465	Metabolic pathways
+01100	b2472	Metabolic pathways
+01100	b2476	Metabolic pathways
+01100	b2478	Metabolic pathways
+01100	b2498	Metabolic pathways
+01100	b2499	Metabolic pathways
+01100	b2500	Metabolic pathways
+01100	b2507	Metabolic pathways
+01100	b2508	Metabolic pathways
+01100	b2515	Metabolic pathways
+01100	b2518	Metabolic pathways
+01100	b2521	Metabolic pathways
+01100	b2523	Metabolic pathways
+01100	b2530	Metabolic pathways
+01100	b2533	Metabolic pathways
+01100	b2551	Metabolic pathways
+01100	b2557	Metabolic pathways
+01100	b2564	Metabolic pathways
+01100	b2574	Metabolic pathways
+01100	b2585	Metabolic pathways
+01100	b2599	Metabolic pathways
+01100	b2600	Metabolic pathways
+01100	b2601	Metabolic pathways
+01100	b2615	Metabolic pathways
+01100	b2661	Metabolic pathways
+01100	b2662	Metabolic pathways
+01100	b2675	Metabolic pathways
+01100	b2676	Metabolic pathways
+01100	b2687	Metabolic pathways
+01100	b2688	Metabolic pathways
+01100	b2744	Metabolic pathways
+01100	b2746	Metabolic pathways
+01100	b2747	Metabolic pathways
+01100	b2750	Metabolic pathways
+01100	b2751	Metabolic pathways
+01100	b2752	Metabolic pathways
+01100	b2762	Metabolic pathways
+01100	b2763	Metabolic pathways
+01100	b2764	Metabolic pathways
+01100	b2765	Metabolic pathways
+01100	b2777	Metabolic pathways
+01100	b2779	Metabolic pathways
+01100	b2780	Metabolic pathways
+01100	b2781	Metabolic pathways
+01100	b2787	Metabolic pathways
+01100	b2794	Metabolic pathways
+01100	b2797	Metabolic pathways
+01100	b2818	Metabolic pathways
+01100	b2827	Metabolic pathways
+01100	b2838	Metabolic pathways
+01100	b2844	Metabolic pathways
+01100	b2866	Metabolic pathways
+01100	b2867	Metabolic pathways
+01100	b2868	Metabolic pathways
+01100	b2873	Metabolic pathways
+01100	b2874	Metabolic pathways
+01100	b2883	Metabolic pathways
+01100	b2889	Metabolic pathways
+01100	b2903	Metabolic pathways
+01100	b2904	Metabolic pathways
+01100	b2905	Metabolic pathways
+01100	b2906	Metabolic pathways
+01100	b2907	Metabolic pathways
+01100	b2912	Metabolic pathways
+01100	b2913	Metabolic pathways
+01100	b2914	Metabolic pathways
+01100	b2917	Metabolic pathways
+01100	b2925	Metabolic pathways
+01100	b2926	Metabolic pathways
+01100	b2927	Metabolic pathways
+01100	b2935	Metabolic pathways
+01100	b2937	Metabolic pathways
+01100	b2938	Metabolic pathways
+01100	b2942	Metabolic pathways
+01100	b2947	Metabolic pathways
+01100	b2957	Metabolic pathways
+01100	b2965	Metabolic pathways
+01100	b2976	Metabolic pathways
+01100	b2979	Metabolic pathways
+01100	b2988	Metabolic pathways
+01100	b3008	Metabolic pathways
+01100	b3018	Metabolic pathways
+01100	b3041	Metabolic pathways
+01100	b3052	Metabolic pathways
+01100	b3058	Metabolic pathways
+01100	b3059	Metabolic pathways
+01100	b3073	Metabolic pathways
+01100	b3076	Metabolic pathways
+01100	b3077	Metabolic pathways
+01100	b3091	Metabolic pathways
+01100	b3092	Metabolic pathways
+01100	b3114	Metabolic pathways
+01100	b3115	Metabolic pathways
+01100	b3117	Metabolic pathways
+01100	b3124	Metabolic pathways
+01100	b3125	Metabolic pathways
+01100	b3132	Metabolic pathways
+01100	b3137	Metabolic pathways
+01100	b3172	Metabolic pathways
+01100	b3176	Metabolic pathways
+01100	b3177	Metabolic pathways
+01100	b3189	Metabolic pathways
+01100	b3197	Metabolic pathways
+01100	b3198	Metabolic pathways
+01100	b3212	Metabolic pathways
+01100	b3213	Metabolic pathways
+01100	b3222	Metabolic pathways
+01100	b3236	Metabolic pathways
+01100	b3253	Metabolic pathways
+01100	b3255	Metabolic pathways
+01100	b3256	Metabolic pathways
+01100	b3281	Metabolic pathways
+01100	b3295	Metabolic pathways
+01100	b3338	Metabolic pathways
+01100	b3355	Metabolic pathways
+01100	b3359	Metabolic pathways
+01100	b3368	Metabolic pathways
+01100	b3385	Metabolic pathways
+01100	b3386	Metabolic pathways
+01100	b3389	Metabolic pathways
+01100	b3390	Metabolic pathways
+01100	b3396	Metabolic pathways
+01100	b3399	Metabolic pathways
+01100	b3403	Metabolic pathways
+01100	b3412	Metabolic pathways
+01100	b3416	Metabolic pathways
+01100	b3417	Metabolic pathways
+01100	b3428	Metabolic pathways
+01100	b3429	Metabolic pathways
+01100	b3430	Metabolic pathways
+01100	b3431	Metabolic pathways
+01100	b3432	Metabolic pathways
+01100	b3433	Metabolic pathways
+01100	b3437	Metabolic pathways
+01100	b3447	Metabolic pathways
+01100	b3517	Metabolic pathways
+01100	b3519	Metabolic pathways
+01100	b3526	Metabolic pathways
+01100	b3533	Metabolic pathways
+01100	b3551	Metabolic pathways
+01100	b3553	Metabolic pathways
+01100	b3564	Metabolic pathways
+01100	b3565	Metabolic pathways
+01100	b3571	Metabolic pathways
+01100	b3572	Metabolic pathways
+01100	b3583	Metabolic pathways
+01100	b3588	Metabolic pathways
+01100	b3589	Metabolic pathways
+01100	b3605	Metabolic pathways
+01100	b3607	Metabolic pathways
+01100	b3612	Metabolic pathways
+01100	b3619	Metabolic pathways
+01100	b3620	Metabolic pathways
+01100	b3621	Metabolic pathways
+01100	b3622	Metabolic pathways
+01100	b3623	Metabolic pathways
+01100	b3625	Metabolic pathways
+01100	b3626	Metabolic pathways
+01100	b3627	Metabolic pathways
+01100	b3628	Metabolic pathways
+01100	b3630	Metabolic pathways
+01100	b3631	Metabolic pathways
+01100	b3632	Metabolic pathways
+01100	b3633	Metabolic pathways
+01100	b3634	Metabolic pathways
+01100	b3639	Metabolic pathways
+01100	b3640	Metabolic pathways
+01100	b3642	Metabolic pathways
+01100	b3648	Metabolic pathways
+01100	b3649	Metabolic pathways
+01100	b3665	Metabolic pathways
+01100	b3670	Metabolic pathways
+01100	b3671	Metabolic pathways
+01100	b3693	Metabolic pathways
+01100	b3701	Metabolic pathways
+01100	b3729	Metabolic pathways
+01100	b3730	Metabolic pathways
+01100	b3731	Metabolic pathways
+01100	b3732	Metabolic pathways
+01100	b3733	Metabolic pathways
+01100	b3734	Metabolic pathways
+01100	b3735	Metabolic pathways
+01100	b3736	Metabolic pathways
+01100	b3737	Metabolic pathways
+01100	b3738	Metabolic pathways
+01100	b3744	Metabolic pathways
+01100	b3769	Metabolic pathways
+01100	b3770	Metabolic pathways
+01100	b3771	Metabolic pathways
+01100	b3772	Metabolic pathways
+01100	b3774	Metabolic pathways
+01100	b3786	Metabolic pathways
+01100	b3803	Metabolic pathways
+01100	b3804	Metabolic pathways
+01100	b3805	Metabolic pathways
+01100	b3809	Metabolic pathways
+01100	b3812	Metabolic pathways
+01100	b3821	Metabolic pathways
+01100	b3829	Metabolic pathways
+01100	b3830	Metabolic pathways
+01100	b3831	Metabolic pathways
+01100	b3833	Metabolic pathways
+01100	b3843	Metabolic pathways
+01100	b3844	Metabolic pathways
+01100	b3845	Metabolic pathways
+01100	b3846	Metabolic pathways
+01100	b3850	Metabolic pathways
+01100	b3857	Metabolic pathways
+01100	b3863	Metabolic pathways
+01100	b3867	Metabolic pathways
+01100	b3870	Metabolic pathways
+01100	b3879	Metabolic pathways
+01100	b3882	Metabolic pathways
+01100	b3892	Metabolic pathways
+01100	b3893	Metabolic pathways
+01100	b3894	Metabolic pathways
+01100	b3916	Metabolic pathways
+01100	b3919	Metabolic pathways
+01100	b3925	Metabolic pathways
+01100	b3926	Metabolic pathways
+01100	b3930	Metabolic pathways
+01100	b3939	Metabolic pathways
+01100	b3940	Metabolic pathways
+01100	b3941	Metabolic pathways
+01100	b3942	Metabolic pathways
+01100	b3945	Metabolic pathways
+01100	b3951	Metabolic pathways
+01100	b3956	Metabolic pathways
+01100	b3957	Metabolic pathways
+01100	b3958	Metabolic pathways
+01100	b3959	Metabolic pathways
+01100	b3960	Metabolic pathways
+01100	b3962	Metabolic pathways
+01100	b3967	Metabolic pathways
+01100	b3972	Metabolic pathways
+01100	b3973	Metabolic pathways
+01100	b3974	Metabolic pathways
+01100	b3987	Metabolic pathways
+01100	b3988	Metabolic pathways
+01100	b3990	Metabolic pathways
+01100	b3991	Metabolic pathways
+01100	b3992	Metabolic pathways
+01100	b3993	Metabolic pathways
+01100	b3994	Metabolic pathways
+01100	b3996	Metabolic pathways
+01100	b3997	Metabolic pathways
+01100	b4005	Metabolic pathways
+01100	b4006	Metabolic pathways
+01100	b4013	Metabolic pathways
+01100	b4014	Metabolic pathways
+01100	b4015	Metabolic pathways
+01100	b4019	Metabolic pathways
+01100	b4024	Metabolic pathways
+01100	b4025	Metabolic pathways
+01100	b4039	Metabolic pathways
+01100	b4040	Metabolic pathways
+01100	b4041	Metabolic pathways
+01100	b4042	Metabolic pathways
+01100	b4053	Metabolic pathways
+01100	b4054	Metabolic pathways
+01100	b4055	Metabolic pathways
+01100	b4069	Metabolic pathways
+01100	b4090	Metabolic pathways
+01100	b4117	Metabolic pathways
+01100	b4122	Metabolic pathways
+01100	b4131	Metabolic pathways
+01100	b4139	Metabolic pathways
+01100	b4151	Metabolic pathways
+01100	b4152	Metabolic pathways
+01100	b4153	Metabolic pathways
+01100	b4154	Metabolic pathways
+01100	b4160	Metabolic pathways
+01100	b4161	Metabolic pathways
+01100	b4171	Metabolic pathways
+01100	b4177	Metabolic pathways
+01100	b4192	Metabolic pathways
+01100	b4193	Metabolic pathways
+01100	b4194	Metabolic pathways
+01100	b4195	Metabolic pathways
+01100	b4196	Metabolic pathways
+01100	b4197	Metabolic pathways
+01100	b4198	Metabolic pathways
+01100	b4214	Metabolic pathways
+01100	b4232	Metabolic pathways
+01100	b4238	Metabolic pathways
+01100	b4244	Metabolic pathways
+01100	b4245	Metabolic pathways
+01100	b4254	Metabolic pathways
+01100	b4259	Metabolic pathways
+01100	b4260	Metabolic pathways
+01100	b4268	Metabolic pathways
+01100	b4298	Metabolic pathways
+01100	b4302	Metabolic pathways
+01100	b4304	Metabolic pathways
+01100	b4322	Metabolic pathways
+01100	b4323	Metabolic pathways
+01100	b4359	Metabolic pathways
+01100	b4372	Metabolic pathways
+01100	b4374	Metabolic pathways
+01100	b4382	Metabolic pathways
+01100	b4384	Metabolic pathways
+01100	b4386	Metabolic pathways
+01100	b4388	Metabolic pathways
+01100	b4390	Metabolic pathways
+01100	b4395	Metabolic pathways
+01100	b4467	Metabolic pathways
+01100	b4468	Metabolic pathways
+01100	b4471	Metabolic pathways
+01100	b4477	Metabolic pathways
+01100	b4478	Metabolic pathways
+01100	b4565	Metabolic pathways
+01110	b0002	Biosynthesis of secondary metabolites
+01110	b0003	Biosynthesis of secondary metabolites
+01110	b0004	Biosynthesis of secondary metabolites
+01110	b0008	Biosynthesis of secondary metabolites
+01110	b0025	Biosynthesis of secondary metabolites
+01110	b0029	Biosynthesis of secondary metabolites
+01110	b0031	Biosynthesis of secondary metabolites
+01110	b0071	Biosynthesis of secondary metabolites
+01110	b0072	Biosynthesis of secondary metabolites
+01110	b0073	Biosynthesis of secondary metabolites
+01110	b0074	Biosynthesis of secondary metabolites
+01110	b0077	Biosynthesis of secondary metabolites
+01110	b0078	Biosynthesis of secondary metabolites
+01110	b0114	Biosynthesis of secondary metabolites
+01110	b0115	Biosynthesis of secondary metabolites
+01110	b0116	Biosynthesis of secondary metabolites
+01110	b0118	Biosynthesis of secondary metabolites
+01110	b0124	Biosynthesis of secondary metabolites
+01110	b0125	Biosynthesis of secondary metabolites
+01110	b0131	Biosynthesis of secondary metabolites
+01110	b0133	Biosynthesis of secondary metabolites
+01110	b0134	Biosynthesis of secondary metabolites
+01110	b0154	Biosynthesis of secondary metabolites
+01110	b0173	Biosynthesis of secondary metabolites
+01110	b0174	Biosynthesis of secondary metabolites
+01110	b0175	Biosynthesis of secondary metabolites
+01110	b0185	Biosynthesis of secondary metabolites
+01110	b0186	Biosynthesis of secondary metabolites
+01110	b0238	Biosynthesis of secondary metabolites
+01110	b0243	Biosynthesis of secondary metabolites
+01110	b0261	Biosynthesis of secondary metabolites
+01110	b0268	Biosynthesis of secondary metabolites
+01110	b0273	Biosynthesis of secondary metabolites
+01110	b0356	Biosynthesis of secondary metabolites
+01110	b0369	Biosynthesis of secondary metabolites
+01110	b0386	Biosynthesis of secondary metabolites
+01110	b0388	Biosynthesis of secondary metabolites
+01110	b0414	Biosynthesis of secondary metabolites
+01110	b0415	Biosynthesis of secondary metabolites
+01110	b0420	Biosynthesis of secondary metabolites
+01110	b0421	Biosynthesis of secondary metabolites
+01110	b0425	Biosynthesis of secondary metabolites
+01110	b0428	Biosynthesis of secondary metabolites
+01110	b0474	Biosynthesis of secondary metabolites
+01110	b0475	Biosynthesis of secondary metabolites
+01110	b0480	Biosynthesis of secondary metabolites
+01110	b0522	Biosynthesis of secondary metabolites
+01110	b0523	Biosynthesis of secondary metabolites
+01110	b0583	Biosynthesis of secondary metabolites
+01110	b0586	Biosynthesis of secondary metabolites
+01110	b0593	Biosynthesis of secondary metabolites
+01110	b0594	Biosynthesis of secondary metabolites
+01110	b0595	Biosynthesis of secondary metabolites
+01110	b0596	Biosynthesis of secondary metabolites
+01110	b0662	Biosynthesis of secondary metabolites
+01110	b0674	Biosynthesis of secondary metabolites
+01110	b0688	Biosynthesis of secondary metabolites
+01110	b0693	Biosynthesis of secondary metabolites
+01110	b0720	Biosynthesis of secondary metabolites
+01110	b0721	Biosynthesis of secondary metabolites
+01110	b0722	Biosynthesis of secondary metabolites
+01110	b0723	Biosynthesis of secondary metabolites
+01110	b0724	Biosynthesis of secondary metabolites
+01110	b0726	Biosynthesis of secondary metabolites
+01110	b0727	Biosynthesis of secondary metabolites
+01110	b0728	Biosynthesis of secondary metabolites
+01110	b0729	Biosynthesis of secondary metabolites
+01110	b0754	Biosynthesis of secondary metabolites
+01110	b0755	Biosynthesis of secondary metabolites
+01110	b0756	Biosynthesis of secondary metabolites
+01110	b0767	Biosynthesis of secondary metabolites
+01110	b0771	Biosynthesis of secondary metabolites
+01110	b0844	Biosynthesis of secondary metabolites
+01110	b0870	Biosynthesis of secondary metabolites
+01110	b0908	Biosynthesis of secondary metabolites
+01110	b0928	Biosynthesis of secondary metabolites
+01110	b1004	Biosynthesis of secondary metabolites
+01110	b1014	Biosynthesis of secondary metabolites
+01110	b1033	Biosynthesis of secondary metabolites
+01110	b1090	Biosynthesis of secondary metabolites
+01110	b1131	Biosynthesis of secondary metabolites
+01110	b1136	Biosynthesis of secondary metabolites
+01110	b1207	Biosynthesis of secondary metabolites
+01110	b1208	Biosynthesis of secondary metabolites
+01110	b1210	Biosynthesis of secondary metabolites
+01110	b1241	Biosynthesis of secondary metabolites
+01110	b1260	Biosynthesis of secondary metabolites
+01110	b1261	Biosynthesis of secondary metabolites
+01110	b1262	Biosynthesis of secondary metabolites
+01110	b1263	Biosynthesis of secondary metabolites
+01110	b1264	Biosynthesis of secondary metabolites
+01110	b1276	Biosynthesis of secondary metabolites
+01110	b1277	Biosynthesis of secondary metabolites
+01110	b1386	Biosynthesis of secondary metabolites
+01110	b1393	Biosynthesis of secondary metabolites
+01110	b1409	Biosynthesis of secondary metabolites
+01110	b1478	Biosynthesis of secondary metabolites
+01110	b1493	Biosynthesis of secondary metabolites
+01110	b1611	Biosynthesis of secondary metabolites
+01110	b1612	Biosynthesis of secondary metabolites
+01110	b1613	Biosynthesis of secondary metabolites
+01110	b1617	Biosynthesis of secondary metabolites
+01110	b1622	Biosynthesis of secondary metabolites
+01110	b1662	Biosynthesis of secondary metabolites
+01110	b1676	Biosynthesis of secondary metabolites
+01110	b1686	Biosynthesis of secondary metabolites
+01110	b1692	Biosynthesis of secondary metabolites
+01110	b1693	Biosynthesis of secondary metabolites
+01110	b1704	Biosynthesis of secondary metabolites
+01110	b1723	Biosynthesis of secondary metabolites
+01110	b1732	Biosynthesis of secondary metabolites
+01110	b1767	Biosynthesis of secondary metabolites
+01110	b1779	Biosynthesis of secondary metabolites
+01110	b1780	Biosynthesis of secondary metabolites
+01110	b1814	Biosynthesis of secondary metabolites
+01110	b1849	Biosynthesis of secondary metabolites
+01110	b1852	Biosynthesis of secondary metabolites
+01110	b1854	Biosynthesis of secondary metabolites
+01110	b2019	Biosynthesis of secondary metabolites
+01110	b2020	Biosynthesis of secondary metabolites
+01110	b2021	Biosynthesis of secondary metabolites
+01110	b2022	Biosynthesis of secondary metabolites
+01110	b2023	Biosynthesis of secondary metabolites
+01110	b2024	Biosynthesis of secondary metabolites
+01110	b2025	Biosynthesis of secondary metabolites
+01110	b2026	Biosynthesis of secondary metabolites
+01110	b2029	Biosynthesis of secondary metabolites
+01110	b2048	Biosynthesis of secondary metabolites
+01110	b2049	Biosynthesis of secondary metabolites
+01110	b2097	Biosynthesis of secondary metabolites
+01110	b2132	Biosynthesis of secondary metabolites
+01110	b2210	Biosynthesis of secondary metabolites
+01110	b2224	Biosynthesis of secondary metabolites
+01110	b2232	Biosynthesis of secondary metabolites
+01110	b2241	Biosynthesis of secondary metabolites
+01110	b2242	Biosynthesis of secondary metabolites
+01110	b2243	Biosynthesis of secondary metabolites
+01110	b2260	Biosynthesis of secondary metabolites
+01110	b2261	Biosynthesis of secondary metabolites
+01110	b2262	Biosynthesis of secondary metabolites
+01110	b2263	Biosynthesis of secondary metabolites
+01110	b2264	Biosynthesis of secondary metabolites
+01110	b2265	Biosynthesis of secondary metabolites
+01110	b2290	Biosynthesis of secondary metabolites
+01110	b2311	Biosynthesis of secondary metabolites
+01110	b2312	Biosynthesis of secondary metabolites
+01110	b2316	Biosynthesis of secondary metabolites
+01110	b2329	Biosynthesis of secondary metabolites
+01110	b2341	Biosynthesis of secondary metabolites
+01110	b2342	Biosynthesis of secondary metabolites
+01110	b2388	Biosynthesis of secondary metabolites
+01110	b2400	Biosynthesis of secondary metabolites
+01110	b2407	Biosynthesis of secondary metabolites
+01110	b2414	Biosynthesis of secondary metabolites
+01110	b2421	Biosynthesis of secondary metabolites
+01110	b2436	Biosynthesis of secondary metabolites
+01110	b2453	Biosynthesis of secondary metabolites
+01110	b2464	Biosynthesis of secondary metabolites
+01110	b2465	Biosynthesis of secondary metabolites
+01110	b2476	Biosynthesis of secondary metabolites
+01110	b2478	Biosynthesis of secondary metabolites
+01110	b2499	Biosynthesis of secondary metabolites
+01110	b2500	Biosynthesis of secondary metabolites
+01110	b2508	Biosynthesis of secondary metabolites
+01110	b2515	Biosynthesis of secondary metabolites
+01110	b2518	Biosynthesis of secondary metabolites
+01110	b2551	Biosynthesis of secondary metabolites
+01110	b2557	Biosynthesis of secondary metabolites
+01110	b2585	Biosynthesis of secondary metabolites
+01110	b2599	Biosynthesis of secondary metabolites
+01110	b2600	Biosynthesis of secondary metabolites
+01110	b2601	Biosynthesis of secondary metabolites
+01110	b2744	Biosynthesis of secondary metabolites
+01110	b2746	Biosynthesis of secondary metabolites
+01110	b2747	Biosynthesis of secondary metabolites
+01110	b2779	Biosynthesis of secondary metabolites
+01110	b2797	Biosynthesis of secondary metabolites
+01110	b2818	Biosynthesis of secondary metabolites
+01110	b2838	Biosynthesis of secondary metabolites
+01110	b2844	Biosynthesis of secondary metabolites
+01110	b2889	Biosynthesis of secondary metabolites
+01110	b2903	Biosynthesis of secondary metabolites
+01110	b2904	Biosynthesis of secondary metabolites
+01110	b2905	Biosynthesis of secondary metabolites
+01110	b2906	Biosynthesis of secondary metabolites
+01110	b2907	Biosynthesis of secondary metabolites
+01110	b2914	Biosynthesis of secondary metabolites
+01110	b2925	Biosynthesis of secondary metabolites
+01110	b2926	Biosynthesis of secondary metabolites
+01110	b2935	Biosynthesis of secondary metabolites
+01110	b2942	Biosynthesis of secondary metabolites
+01110	b2957	Biosynthesis of secondary metabolites
+01110	b2965	Biosynthesis of secondary metabolites
+01110	b2976	Biosynthesis of secondary metabolites
+01110	b2979	Biosynthesis of secondary metabolites
+01110	b3008	Biosynthesis of secondary metabolites
+01110	b3018	Biosynthesis of secondary metabolites
+01110	b3041	Biosynthesis of secondary metabolites
+01110	b3059	Biosynthesis of secondary metabolites
+01110	b3117	Biosynthesis of secondary metabolites
+01110	b3172	Biosynthesis of secondary metabolites
+01110	b3187	Biosynthesis of secondary metabolites
+01110	b3212	Biosynthesis of secondary metabolites
+01110	b3213	Biosynthesis of secondary metabolites
+01110	b3236	Biosynthesis of secondary metabolites
+01110	b3255	Biosynthesis of secondary metabolites
+01110	b3256	Biosynthesis of secondary metabolites
+01110	b3281	Biosynthesis of secondary metabolites
+01110	b3359	Biosynthesis of secondary metabolites
+01110	b3368	Biosynthesis of secondary metabolites
+01110	b3385	Biosynthesis of secondary metabolites
+01110	b3386	Biosynthesis of secondary metabolites
+01110	b3389	Biosynthesis of secondary metabolites
+01110	b3390	Biosynthesis of secondary metabolites
+01110	b3399	Biosynthesis of secondary metabolites
+01110	b3403	Biosynthesis of secondary metabolites
+01110	b3417	Biosynthesis of secondary metabolites
+01110	b3425	Biosynthesis of secondary metabolites
+01110	b3426	Biosynthesis of secondary metabolites
+01110	b3428	Biosynthesis of secondary metabolites
+01110	b3429	Biosynthesis of secondary metabolites
+01110	b3430	Biosynthesis of secondary metabolites
+01110	b3432	Biosynthesis of secondary metabolites
+01110	b3433	Biosynthesis of secondary metabolites
+01110	b3437	Biosynthesis of secondary metabolites
+01110	b3517	Biosynthesis of secondary metabolites
+01110	b3572	Biosynthesis of secondary metabolites
+01110	b3588	Biosynthesis of secondary metabolites
+01110	b3589	Biosynthesis of secondary metabolites
+01110	b3607	Biosynthesis of secondary metabolites
+01110	b3608	Biosynthesis of secondary metabolites
+01110	b3612	Biosynthesis of secondary metabolites
+01110	b3670	Biosynthesis of secondary metabolites
+01110	b3671	Biosynthesis of secondary metabolites
+01110	b3744	Biosynthesis of secondary metabolites
+01110	b3769	Biosynthesis of secondary metabolites
+01110	b3770	Biosynthesis of secondary metabolites
+01110	b3771	Biosynthesis of secondary metabolites
+01110	b3772	Biosynthesis of secondary metabolites
+01110	b3774	Biosynthesis of secondary metabolites
+01110	b3803	Biosynthesis of secondary metabolites
+01110	b3804	Biosynthesis of secondary metabolites
+01110	b3805	Biosynthesis of secondary metabolites
+01110	b3809	Biosynthesis of secondary metabolites
+01110	b3812	Biosynthesis of secondary metabolites
+01110	b3821	Biosynthesis of secondary metabolites
+01110	b3829	Biosynthesis of secondary metabolites
+01110	b3830	Biosynthesis of secondary metabolites
+01110	b3833	Biosynthesis of secondary metabolites
+01110	b3843	Biosynthesis of secondary metabolites
+01110	b3845	Biosynthesis of secondary metabolites
+01110	b3846	Biosynthesis of secondary metabolites
+01110	b3850	Biosynthesis of secondary metabolites
+01110	b3867	Biosynthesis of secondary metabolites
+01110	b3879	Biosynthesis of secondary metabolites
+01110	b3916	Biosynthesis of secondary metabolites
+01110	b3918	Biosynthesis of secondary metabolites
+01110	b3919	Biosynthesis of secondary metabolites
+01110	b3925	Biosynthesis of secondary metabolites
+01110	b3930	Biosynthesis of secondary metabolites
+01110	b3939	Biosynthesis of secondary metabolites
+01110	b3940	Biosynthesis of secondary metabolites
+01110	b3942	Biosynthesis of secondary metabolites
+01110	b3957	Biosynthesis of secondary metabolites
+01110	b3958	Biosynthesis of secondary metabolites
+01110	b3959	Biosynthesis of secondary metabolites
+01110	b3960	Biosynthesis of secondary metabolites
+01110	b3997	Biosynthesis of secondary metabolites
+01110	b4005	Biosynthesis of secondary metabolites
+01110	b4006	Biosynthesis of secondary metabolites
+01110	b4013	Biosynthesis of secondary metabolites
+01110	b4014	Biosynthesis of secondary metabolites
+01110	b4015	Biosynthesis of secondary metabolites
+01110	b4019	Biosynthesis of secondary metabolites
+01110	b4024	Biosynthesis of secondary metabolites
+01110	b4025	Biosynthesis of secondary metabolites
+01110	b4039	Biosynthesis of secondary metabolites
+01110	b4040	Biosynthesis of secondary metabolites
+01110	b4041	Biosynthesis of secondary metabolites
+01110	b4042	Biosynthesis of secondary metabolites
+01110	b4054	Biosynthesis of secondary metabolites
+01110	b4069	Biosynthesis of secondary metabolites
+01110	b4090	Biosynthesis of secondary metabolites
+01110	b4122	Biosynthesis of secondary metabolites
+01110	b4131	Biosynthesis of secondary metabolites
+01110	b4151	Biosynthesis of secondary metabolites
+01110	b4152	Biosynthesis of secondary metabolites
+01110	b4153	Biosynthesis of secondary metabolites
+01110	b4154	Biosynthesis of secondary metabolites
+01110	b4160	Biosynthesis of secondary metabolites
+01110	b4171	Biosynthesis of secondary metabolites
+01110	b4211	Biosynthesis of secondary metabolites
+01110	b4232	Biosynthesis of secondary metabolites
+01110	b4254	Biosynthesis of secondary metabolites
+01110	b4268	Biosynthesis of secondary metabolites
+01110	b4298	Biosynthesis of secondary metabolites
+01110	b4374	Biosynthesis of secondary metabolites
+01110	b4384	Biosynthesis of secondary metabolites
+01110	b4395	Biosynthesis of secondary metabolites
+01110	b4467	Biosynthesis of secondary metabolites
+01110	b4468	Biosynthesis of secondary metabolites
+01110	b4471	Biosynthesis of secondary metabolites
+01120	b0002	Microbial metabolism in diverse environments
+01120	b0003	Microbial metabolism in diverse environments
+01120	b0004	Microbial metabolism in diverse environments
+01120	b0008	Microbial metabolism in diverse environments
+01120	b0031	Microbial metabolism in diverse environments
+01120	b0061	Microbial metabolism in diverse environments
+01120	b0114	Microbial metabolism in diverse environments
+01120	b0115	Microbial metabolism in diverse environments
+01120	b0116	Microbial metabolism in diverse environments
+01120	b0118	Microbial metabolism in diverse environments
+01120	b0154	Microbial metabolism in diverse environments
+01120	b0166	Microbial metabolism in diverse environments
+01120	b0185	Microbial metabolism in diverse environments
+01120	b0268	Microbial metabolism in diverse environments
+01120	b0284	Microbial metabolism in diverse environments
+01120	b0285	Microbial metabolism in diverse environments
+01120	b0286	Microbial metabolism in diverse environments
+01120	b0323	Microbial metabolism in diverse environments
+01120	b0347	Microbial metabolism in diverse environments
+01120	b0348	Microbial metabolism in diverse environments
+01120	b0349	Microbial metabolism in diverse environments
+01120	b0350	Microbial metabolism in diverse environments
+01120	b0351	Microbial metabolism in diverse environments
+01120	b0352	Microbial metabolism in diverse environments
+01120	b0355	Microbial metabolism in diverse environments
+01120	b0356	Microbial metabolism in diverse environments
+01120	b0369	Microbial metabolism in diverse environments
+01120	b0512	Microbial metabolism in diverse environments
+01120	b0514	Microbial metabolism in diverse environments
+01120	b0515	Microbial metabolism in diverse environments
+01120	b0516	Microbial metabolism in diverse environments
+01120	b0517	Microbial metabolism in diverse environments
+01120	b0521	Microbial metabolism in diverse environments
+01120	b0529	Microbial metabolism in diverse environments
+01120	b0578	Microbial metabolism in diverse environments
+01120	b0688	Microbial metabolism in diverse environments
+01120	b0720	Microbial metabolism in diverse environments
+01120	b0721	Microbial metabolism in diverse environments
+01120	b0722	Microbial metabolism in diverse environments
+01120	b0723	Microbial metabolism in diverse environments
+01120	b0724	Microbial metabolism in diverse environments
+01120	b0726	Microbial metabolism in diverse environments
+01120	b0727	Microbial metabolism in diverse environments
+01120	b0728	Microbial metabolism in diverse environments
+01120	b0729	Microbial metabolism in diverse environments
+01120	b0737	Microbial metabolism in diverse environments
+01120	b0755	Microbial metabolism in diverse environments
+01120	b0756	Microbial metabolism in diverse environments
+01120	b0767	Microbial metabolism in diverse environments
+01120	b0771	Microbial metabolism in diverse environments
+01120	b0823	Microbial metabolism in diverse environments
+01120	b0851	Microbial metabolism in diverse environments
+01120	b0870	Microbial metabolism in diverse environments
+01120	b0903	Microbial metabolism in diverse environments
+01120	b0907	Microbial metabolism in diverse environments
+01120	b0963	Microbial metabolism in diverse environments
+01120	b0968	Microbial metabolism in diverse environments
+01120	b0972	Microbial metabolism in diverse environments
+01120	b0973	Microbial metabolism in diverse environments
+01120	b1002	Microbial metabolism in diverse environments
+01120	b1033	Microbial metabolism in diverse environments
+01120	b1136	Microbial metabolism in diverse environments
+01120	b1207	Microbial metabolism in diverse environments
+01120	b1210	Microbial metabolism in diverse environments
+01120	b1224	Microbial metabolism in diverse environments
+01120	b1225	Microbial metabolism in diverse environments
+01120	b1227	Microbial metabolism in diverse environments
+01120	b1241	Microbial metabolism in diverse environments
+01120	b1276	Microbial metabolism in diverse environments
+01120	b1302	Microbial metabolism in diverse environments
+01120	b1378	Microbial metabolism in diverse environments
+01120	b1380	Microbial metabolism in diverse environments
+01120	b1385	Microbial metabolism in diverse environments
+01120	b1387	Microbial metabolism in diverse environments
+01120	b1388	Microbial metabolism in diverse environments
+01120	b1389	Microbial metabolism in diverse environments
+01120	b1390	Microbial metabolism in diverse environments
+01120	b1391	Microbial metabolism in diverse environments
+01120	b1392	Microbial metabolism in diverse environments
+01120	b1393	Microbial metabolism in diverse environments
+01120	b1394	Microbial metabolism in diverse environments
+01120	b1395	Microbial metabolism in diverse environments
+01120	b1397	Microbial metabolism in diverse environments
+01120	b1398	Microbial metabolism in diverse environments
+01120	b1406	Microbial metabolism in diverse environments
+01120	b1415	Microbial metabolism in diverse environments
+01120	b1461	Microbial metabolism in diverse environments
+01120	b1465	Microbial metabolism in diverse environments
+01120	b1467	Microbial metabolism in diverse environments
+01120	b1468	Microbial metabolism in diverse environments
+01120	b1478	Microbial metabolism in diverse environments
+01120	b1493	Microbial metabolism in diverse environments
+01120	b1525	Microbial metabolism in diverse environments
+01120	b1611	Microbial metabolism in diverse environments
+01120	b1612	Microbial metabolism in diverse environments
+01120	b1638	Microbial metabolism in diverse environments
+01120	b1650	Microbial metabolism in diverse environments
+01120	b1670	Microbial metabolism in diverse environments
+01120	b1676	Microbial metabolism in diverse environments
+01120	b1694	Microbial metabolism in diverse environments
+01120	b1702	Microbial metabolism in diverse environments
+01120	b1723	Microbial metabolism in diverse environments
+01120	b1779	Microbial metabolism in diverse environments
+01120	b1780	Microbial metabolism in diverse environments
+01120	b1850	Microbial metabolism in diverse environments
+01120	b1851	Microbial metabolism in diverse environments
+01120	b1852	Microbial metabolism in diverse environments
+01120	b1854	Microbial metabolism in diverse environments
+01120	b1967	Microbial metabolism in diverse environments
+01120	b1970	Microbial metabolism in diverse environments
+01120	b2029	Microbial metabolism in diverse environments
+01120	b2097	Microbial metabolism in diverse environments
+01120	b2133	Microbial metabolism in diverse environments
+01120	b2154	Microbial metabolism in diverse environments
+01120	b2167	Microbial metabolism in diverse environments
+01120	b2169	Microbial metabolism in diverse environments
+01120	b2203	Microbial metabolism in diverse environments
+01120	b2206	Microbial metabolism in diverse environments
+01120	b2210	Microbial metabolism in diverse environments
+01120	b2221	Microbial metabolism in diverse environments
+01120	b2222	Microbial metabolism in diverse environments
+01120	b2224	Microbial metabolism in diverse environments
+01120	b2245	Microbial metabolism in diverse environments
+01120	b2247	Microbial metabolism in diverse environments
+01120	b2296	Microbial metabolism in diverse environments
+01120	b2297	Microbial metabolism in diverse environments
+01120	b2311	Microbial metabolism in diverse environments
+01120	b2316	Microbial metabolism in diverse environments
+01120	b2341	Microbial metabolism in diverse environments
+01120	b2342	Microbial metabolism in diverse environments
+01120	b2388	Microbial metabolism in diverse environments
+01120	b2400	Microbial metabolism in diverse environments
+01120	b2414	Microbial metabolism in diverse environments
+01120	b2421	Microbial metabolism in diverse environments
+01120	b2453	Microbial metabolism in diverse environments
+01120	b2455	Microbial metabolism in diverse environments
+01120	b2463	Microbial metabolism in diverse environments
+01120	b2464	Microbial metabolism in diverse environments
+01120	b2465	Microbial metabolism in diverse environments
+01120	b2472	Microbial metabolism in diverse environments
+01120	b2478	Microbial metabolism in diverse environments
+01120	b2521	Microbial metabolism in diverse environments
+01120	b2538	Microbial metabolism in diverse environments
+01120	b2539	Microbial metabolism in diverse environments
+01120	b2540	Microbial metabolism in diverse environments
+01120	b2541	Microbial metabolism in diverse environments
+01120	b2542	Microbial metabolism in diverse environments
+01120	b2551	Microbial metabolism in diverse environments
+01120	b2661	Microbial metabolism in diverse environments
+01120	b2662	Microbial metabolism in diverse environments
+01120	b2750	Microbial metabolism in diverse environments
+01120	b2751	Microbial metabolism in diverse environments
+01120	b2752	Microbial metabolism in diverse environments
+01120	b2762	Microbial metabolism in diverse environments
+01120	b2763	Microbial metabolism in diverse environments
+01120	b2764	Microbial metabolism in diverse environments
+01120	b2779	Microbial metabolism in diverse environments
+01120	b2799	Microbial metabolism in diverse environments
+01120	b2800	Microbial metabolism in diverse environments
+01120	b2802	Microbial metabolism in diverse environments
+01120	b2803	Microbial metabolism in diverse environments
+01120	b2838	Microbial metabolism in diverse environments
+01120	b2844	Microbial metabolism in diverse environments
+01120	b2866	Microbial metabolism in diverse environments
+01120	b2867	Microbial metabolism in diverse environments
+01120	b2868	Microbial metabolism in diverse environments
+01120	b2874	Microbial metabolism in diverse environments
+01120	b2913	Microbial metabolism in diverse environments
+01120	b2914	Microbial metabolism in diverse environments
+01120	b2917	Microbial metabolism in diverse environments
+01120	b2925	Microbial metabolism in diverse environments
+01120	b2926	Microbial metabolism in diverse environments
+01120	b2935	Microbial metabolism in diverse environments
+01120	b2976	Microbial metabolism in diverse environments
+01120	b2979	Microbial metabolism in diverse environments
+01120	b2994	Microbial metabolism in diverse environments
+01120	b2997	Microbial metabolism in diverse environments
+01120	b3114	Microbial metabolism in diverse environments
+01120	b3124	Microbial metabolism in diverse environments
+01120	b3212	Microbial metabolism in diverse environments
+01120	b3213	Microbial metabolism in diverse environments
+01120	b3236	Microbial metabolism in diverse environments
+01120	b3255	Microbial metabolism in diverse environments
+01120	b3256	Microbial metabolism in diverse environments
+01120	b3355	Microbial metabolism in diverse environments
+01120	b3359	Microbial metabolism in diverse environments
+01120	b3365	Microbial metabolism in diverse environments
+01120	b3366	Microbial metabolism in diverse environments
+01120	b3368	Microbial metabolism in diverse environments
+01120	b3386	Microbial metabolism in diverse environments
+01120	b3403	Microbial metabolism in diverse environments
+01120	b3425	Microbial metabolism in diverse environments
+01120	b3433	Microbial metabolism in diverse environments
+01120	b3437	Microbial metabolism in diverse environments
+01120	b3517	Microbial metabolism in diverse environments
+01120	b3526	Microbial metabolism in diverse environments
+01120	b3553	Microbial metabolism in diverse environments
+01120	b3581	Microbial metabolism in diverse environments
+01120	b3582	Microbial metabolism in diverse environments
+01120	b3583	Microbial metabolism in diverse environments
+01120	b3588	Microbial metabolism in diverse environments
+01120	b3589	Microbial metabolism in diverse environments
+01120	b3607	Microbial metabolism in diverse environments
+01120	b3612	Microbial metabolism in diverse environments
+01120	b3803	Microbial metabolism in diverse environments
+01120	b3804	Microbial metabolism in diverse environments
+01120	b3805	Microbial metabolism in diverse environments
+01120	b3809	Microbial metabolism in diverse environments
+01120	b3830	Microbial metabolism in diverse environments
+01120	b3845	Microbial metabolism in diverse environments
+01120	b3846	Microbial metabolism in diverse environments
+01120	b3870	Microbial metabolism in diverse environments
+01120	b3879	Microbial metabolism in diverse environments
+01120	b3885	Microbial metabolism in diverse environments
+01120	b3892	Microbial metabolism in diverse environments
+01120	b3893	Microbial metabolism in diverse environments
+01120	b3894	Microbial metabolism in diverse environments
+01120	b3902	Microbial metabolism in diverse environments
+01120	b3903	Microbial metabolism in diverse environments
+01120	b3904	Microbial metabolism in diverse environments
+01120	b3916	Microbial metabolism in diverse environments
+01120	b3919	Microbial metabolism in diverse environments
+01120	b3925	Microbial metabolism in diverse environments
+01120	b3940	Microbial metabolism in diverse environments
+01120	b3941	Microbial metabolism in diverse environments
+01120	b3951	Microbial metabolism in diverse environments
+01120	b3956	Microbial metabolism in diverse environments
+01120	b4014	Microbial metabolism in diverse environments
+01120	b4015	Microbial metabolism in diverse environments
+01120	b4024	Microbial metabolism in diverse environments
+01120	b4025	Microbial metabolism in diverse environments
+01120	b4069	Microbial metabolism in diverse environments
+01120	b4070	Microbial metabolism in diverse environments
+01120	b4084	Microbial metabolism in diverse environments
+01120	b4085	Microbial metabolism in diverse environments
+01120	b4090	Microbial metabolism in diverse environments
+01120	b4108	Microbial metabolism in diverse environments
+01120	b4122	Microbial metabolism in diverse environments
+01120	b4151	Microbial metabolism in diverse environments
+01120	b4152	Microbial metabolism in diverse environments
+01120	b4153	Microbial metabolism in diverse environments
+01120	b4154	Microbial metabolism in diverse environments
+01120	b4192	Microbial metabolism in diverse environments
+01120	b4193	Microbial metabolism in diverse environments
+01120	b4194	Microbial metabolism in diverse environments
+01120	b4195	Microbial metabolism in diverse environments
+01120	b4196	Microbial metabolism in diverse environments
+01120	b4197	Microbial metabolism in diverse environments
+01120	b4198	Microbial metabolism in diverse environments
+01120	b4214	Microbial metabolism in diverse environments
+01120	b4232	Microbial metabolism in diverse environments
+01120	b4268	Microbial metabolism in diverse environments
+01120	b4298	Microbial metabolism in diverse environments
+01120	b4388	Microbial metabolism in diverse environments
+01120	b4395	Microbial metabolism in diverse environments
+01120	b4467	Microbial metabolism in diverse environments
+01120	b4468	Microbial metabolism in diverse environments
+01120	b4478	Microbial metabolism in diverse environments
+01130	b0002	Biosynthesis of antibiotics
+01130	b0008	Biosynthesis of antibiotics
+01130	b0029	Biosynthesis of antibiotics
+01130	b0031	Biosynthesis of antibiotics
+01130	b0077	Biosynthesis of antibiotics
+01130	b0078	Biosynthesis of antibiotics
+01130	b0114	Biosynthesis of antibiotics
+01130	b0115	Biosynthesis of antibiotics
+01130	b0116	Biosynthesis of antibiotics
+01130	b0118	Biosynthesis of antibiotics
+01130	b0124	Biosynthesis of antibiotics
+01130	b0173	Biosynthesis of antibiotics
+01130	b0185	Biosynthesis of antibiotics
+01130	b0242	Biosynthesis of antibiotics
+01130	b0243	Biosynthesis of antibiotics
+01130	b0268	Biosynthesis of antibiotics
+01130	b0273	Biosynthesis of antibiotics
+01130	b0356	Biosynthesis of antibiotics
+01130	b0386	Biosynthesis of antibiotics
+01130	b0388	Biosynthesis of antibiotics
+01130	b0420	Biosynthesis of antibiotics
+01130	b0421	Biosynthesis of antibiotics
+01130	b0474	Biosynthesis of antibiotics
+01130	b0514	Biosynthesis of antibiotics
+01130	b0522	Biosynthesis of antibiotics
+01130	b0523	Biosynthesis of antibiotics
+01130	b0583	Biosynthesis of antibiotics
+01130	b0586	Biosynthesis of antibiotics
+01130	b0593	Biosynthesis of antibiotics
+01130	b0594	Biosynthesis of antibiotics
+01130	b0595	Biosynthesis of antibiotics
+01130	b0596	Biosynthesis of antibiotics
+01130	b0677	Biosynthesis of antibiotics
+01130	b0688	Biosynthesis of antibiotics
+01130	b0693	Biosynthesis of antibiotics
+01130	b0720	Biosynthesis of antibiotics
+01130	b0721	Biosynthesis of antibiotics
+01130	b0722	Biosynthesis of antibiotics
+01130	b0723	Biosynthesis of antibiotics
+01130	b0724	Biosynthesis of antibiotics
+01130	b0726	Biosynthesis of antibiotics
+01130	b0727	Biosynthesis of antibiotics
+01130	b0728	Biosynthesis of antibiotics
+01130	b0729	Biosynthesis of antibiotics
+01130	b0754	Biosynthesis of antibiotics
+01130	b0755	Biosynthesis of antibiotics
+01130	b0756	Biosynthesis of antibiotics
+01130	b0767	Biosynthesis of antibiotics
+01130	b0771	Biosynthesis of antibiotics
+01130	b0870	Biosynthesis of antibiotics
+01130	b0907	Biosynthesis of antibiotics
+01130	b0908	Biosynthesis of antibiotics
+01130	b0928	Biosynthesis of antibiotics
+01130	b1014	Biosynthesis of antibiotics
+01130	b1092	Biosynthesis of antibiotics
+01130	b1093	Biosynthesis of antibiotics
+01130	b1131	Biosynthesis of antibiotics
+01130	b1136	Biosynthesis of antibiotics
+01130	b1207	Biosynthesis of antibiotics
+01130	b1208	Biosynthesis of antibiotics
+01130	b1236	Biosynthesis of antibiotics
+01130	b1241	Biosynthesis of antibiotics
+01130	b1260	Biosynthesis of antibiotics
+01130	b1261	Biosynthesis of antibiotics
+01130	b1262	Biosynthesis of antibiotics
+01130	b1263	Biosynthesis of antibiotics
+01130	b1264	Biosynthesis of antibiotics
+01130	b1276	Biosynthesis of antibiotics
+01130	b1288	Biosynthesis of antibiotics
+01130	b1378	Biosynthesis of antibiotics
+01130	b1393	Biosynthesis of antibiotics
+01130	b1448	Biosynthesis of antibiotics
+01130	b1478	Biosynthesis of antibiotics
+01130	b1611	Biosynthesis of antibiotics
+01130	b1612	Biosynthesis of antibiotics
+01130	b1613	Biosynthesis of antibiotics
+01130	b1676	Biosynthesis of antibiotics
+01130	b1692	Biosynthesis of antibiotics
+01130	b1693	Biosynthesis of antibiotics
+01130	b1704	Biosynthesis of antibiotics
+01130	b1723	Biosynthesis of antibiotics
+01130	b1732	Biosynthesis of antibiotics
+01130	b1779	Biosynthesis of antibiotics
+01130	b1780	Biosynthesis of antibiotics
+01130	b1814	Biosynthesis of antibiotics
+01130	b1849	Biosynthesis of antibiotics
+01130	b1852	Biosynthesis of antibiotics
+01130	b1854	Biosynthesis of antibiotics
+01130	b2021	Biosynthesis of antibiotics
+01130	b2029	Biosynthesis of antibiotics
+01130	b2038	Biosynthesis of antibiotics
+01130	b2039	Biosynthesis of antibiotics
+01130	b2040	Biosynthesis of antibiotics
+01130	b2041	Biosynthesis of antibiotics
+01130	b2042	Biosynthesis of antibiotics
+01130	b2048	Biosynthesis of antibiotics
+01130	b2097	Biosynthesis of antibiotics
+01130	b2210	Biosynthesis of antibiotics
+01130	b2224	Biosynthesis of antibiotics
+01130	b2265	Biosynthesis of antibiotics
+01130	b2290	Biosynthesis of antibiotics
+01130	b2312	Biosynthesis of antibiotics
+01130	b2316	Biosynthesis of antibiotics
+01130	b2329	Biosynthesis of antibiotics
+01130	b2341	Biosynthesis of antibiotics
+01130	b2342	Biosynthesis of antibiotics
+01130	b2388	Biosynthesis of antibiotics
+01130	b2414	Biosynthesis of antibiotics
+01130	b2421	Biosynthesis of antibiotics
+01130	b2453	Biosynthesis of antibiotics
+01130	b2464	Biosynthesis of antibiotics
+01130	b2465	Biosynthesis of antibiotics
+01130	b2476	Biosynthesis of antibiotics
+01130	b2478	Biosynthesis of antibiotics
+01130	b2499	Biosynthesis of antibiotics
+01130	b2500	Biosynthesis of antibiotics
+01130	b2515	Biosynthesis of antibiotics
+01130	b2518	Biosynthesis of antibiotics
+01130	b2551	Biosynthesis of antibiotics
+01130	b2557	Biosynthesis of antibiotics
+01130	b2599	Biosynthesis of antibiotics
+01130	b2600	Biosynthesis of antibiotics
+01130	b2601	Biosynthesis of antibiotics
+01130	b2746	Biosynthesis of antibiotics
+01130	b2747	Biosynthesis of antibiotics
+01130	b2751	Biosynthesis of antibiotics
+01130	b2752	Biosynthesis of antibiotics
+01130	b2779	Biosynthesis of antibiotics
+01130	b2797	Biosynthesis of antibiotics
+01130	b2818	Biosynthesis of antibiotics
+01130	b2838	Biosynthesis of antibiotics
+01130	b2844	Biosynthesis of antibiotics
+01130	b2889	Biosynthesis of antibiotics
+01130	b2903	Biosynthesis of antibiotics
+01130	b2904	Biosynthesis of antibiotics
+01130	b2905	Biosynthesis of antibiotics
+01130	b2913	Biosynthesis of antibiotics
+01130	b2914	Biosynthesis of antibiotics
+01130	b2925	Biosynthesis of antibiotics
+01130	b2926	Biosynthesis of antibiotics
+01130	b2935	Biosynthesis of antibiotics
+01130	b2965	Biosynthesis of antibiotics
+01130	b2979	Biosynthesis of antibiotics
+01130	b3117	Biosynthesis of antibiotics
+01130	b3124	Biosynthesis of antibiotics
+01130	b3172	Biosynthesis of antibiotics
+01130	b3176	Biosynthesis of antibiotics
+01130	b3212	Biosynthesis of antibiotics
+01130	b3213	Biosynthesis of antibiotics
+01130	b3236	Biosynthesis of antibiotics
+01130	b3255	Biosynthesis of antibiotics
+01130	b3256	Biosynthesis of antibiotics
+01130	b3281	Biosynthesis of antibiotics
+01130	b3359	Biosynthesis of antibiotics
+01130	b3385	Biosynthesis of antibiotics
+01130	b3386	Biosynthesis of antibiotics
+01130	b3389	Biosynthesis of antibiotics
+01130	b3390	Biosynthesis of antibiotics
+01130	b3403	Biosynthesis of antibiotics
+01130	b3433	Biosynthesis of antibiotics
+01130	b3437	Biosynthesis of antibiotics
+01130	b3572	Biosynthesis of antibiotics
+01130	b3589	Biosynthesis of antibiotics
+01130	b3612	Biosynthesis of antibiotics
+01130	b3670	Biosynthesis of antibiotics
+01130	b3671	Biosynthesis of antibiotics
+01130	b3729	Biosynthesis of antibiotics
+01130	b3730	Biosynthesis of antibiotics
+01130	b3769	Biosynthesis of antibiotics
+01130	b3770	Biosynthesis of antibiotics
+01130	b3771	Biosynthesis of antibiotics
+01130	b3772	Biosynthesis of antibiotics
+01130	b3774	Biosynthesis of antibiotics
+01130	b3788	Biosynthesis of antibiotics
+01130	b3789	Biosynthesis of antibiotics
+01130	b3809	Biosynthesis of antibiotics
+01130	b3830	Biosynthesis of antibiotics
+01130	b3845	Biosynthesis of antibiotics
+01130	b3846	Biosynthesis of antibiotics
+01130	b3879	Biosynthesis of antibiotics
+01130	b3916	Biosynthesis of antibiotics
+01130	b3919	Biosynthesis of antibiotics
+01130	b3925	Biosynthesis of antibiotics
+01130	b3939	Biosynthesis of antibiotics
+01130	b3940	Biosynthesis of antibiotics
+01130	b3957	Biosynthesis of antibiotics
+01130	b3958	Biosynthesis of antibiotics
+01130	b3959	Biosynthesis of antibiotics
+01130	b3960	Biosynthesis of antibiotics
+01130	b4005	Biosynthesis of antibiotics
+01130	b4006	Biosynthesis of antibiotics
+01130	b4024	Biosynthesis of antibiotics
+01130	b4025	Biosynthesis of antibiotics
+01130	b4054	Biosynthesis of antibiotics
+01130	b4069	Biosynthesis of antibiotics
+01130	b4090	Biosynthesis of antibiotics
+01130	b4122	Biosynthesis of antibiotics
+01130	b4151	Biosynthesis of antibiotics
+01130	b4152	Biosynthesis of antibiotics
+01130	b4153	Biosynthesis of antibiotics
+01130	b4154	Biosynthesis of antibiotics
+01130	b4214	Biosynthesis of antibiotics
+01130	b4232	Biosynthesis of antibiotics
+01130	b4254	Biosynthesis of antibiotics
+01130	b4268	Biosynthesis of antibiotics
+01130	b4298	Biosynthesis of antibiotics
+01130	b4388	Biosynthesis of antibiotics
+01130	b4395	Biosynthesis of antibiotics
+01130	b4467	Biosynthesis of antibiotics
+01130	b4468	Biosynthesis of antibiotics
+01130	b4471	Biosynthesis of antibiotics
+01200	b0008	Carbon metabolism
+01200	b0114	Carbon metabolism
+01200	b0115	Carbon metabolism
+01200	b0116	Carbon metabolism
+01200	b0118	Carbon metabolism
+01200	b0185	Carbon metabolism
+01200	b0323	Carbon metabolism
+01200	b0355	Carbon metabolism
+01200	b0356	Carbon metabolism
+01200	b0521	Carbon metabolism
+01200	b0529	Carbon metabolism
+01200	b0720	Carbon metabolism
+01200	b0721	Carbon metabolism
+01200	b0722	Carbon metabolism
+01200	b0723	Carbon metabolism
+01200	b0724	Carbon metabolism
+01200	b0726	Carbon metabolism
+01200	b0727	Carbon metabolism
+01200	b0728	Carbon metabolism
+01200	b0729	Carbon metabolism
+01200	b0755	Carbon metabolism
+01200	b0767	Carbon metabolism
+01200	b0771	Carbon metabolism
+01200	b0907	Carbon metabolism
+01200	b1136	Carbon metabolism
+01200	b1207	Carbon metabolism
+01200	b1276	Carbon metabolism
+01200	b1378	Carbon metabolism
+01200	b1479	Carbon metabolism
+01200	b1611	Carbon metabolism
+01200	b1612	Carbon metabolism
+01200	b1676	Carbon metabolism
+01200	b1702	Carbon metabolism
+01200	b1723	Carbon metabolism
+01200	b1732	Carbon metabolism
+01200	b1779	Carbon metabolism
+01200	b1814	Carbon metabolism
+01200	b1850	Carbon metabolism
+01200	b1851	Carbon metabolism
+01200	b1852	Carbon metabolism
+01200	b1854	Carbon metabolism
+01200	b2029	Carbon metabolism
+01200	b2097	Carbon metabolism
+01200	b2154	Carbon metabolism
+01200	b2210	Carbon metabolism
+01200	b2224	Carbon metabolism
+01200	b2296	Carbon metabolism
+01200	b2297	Carbon metabolism
+01200	b2316	Carbon metabolism
+01200	b2341	Carbon metabolism
+01200	b2388	Carbon metabolism
+01200	b2414	Carbon metabolism
+01200	b2421	Carbon metabolism
+01200	b2463	Carbon metabolism
+01200	b2464	Carbon metabolism
+01200	b2465	Carbon metabolism
+01200	b2551	Carbon metabolism
+01200	b2779	Carbon metabolism
+01200	b2797	Carbon metabolism
+01200	b2844	Carbon metabolism
+01200	b2874	Carbon metabolism
+01200	b2903	Carbon metabolism
+01200	b2904	Carbon metabolism
+01200	b2905	Carbon metabolism
+01200	b2913	Carbon metabolism
+01200	b2914	Carbon metabolism
+01200	b2917	Carbon metabolism
+01200	b2925	Carbon metabolism
+01200	b2926	Carbon metabolism
+01200	b2935	Carbon metabolism
+01200	b2976	Carbon metabolism
+01200	b3117	Carbon metabolism
+01200	b3236	Carbon metabolism
+01200	b3255	Carbon metabolism
+01200	b3256	Carbon metabolism
+01200	b3355	Carbon metabolism
+01200	b3386	Carbon metabolism
+01200	b3403	Carbon metabolism
+01200	b3437	Carbon metabolism
+01200	b3526	Carbon metabolism
+01200	b3607	Carbon metabolism
+01200	b3612	Carbon metabolism
+01200	b3772	Carbon metabolism
+01200	b3846	Carbon metabolism
+01200	b3882	Carbon metabolism
+01200	b3892	Carbon metabolism
+01200	b3893	Carbon metabolism
+01200	b3894	Carbon metabolism
+01200	b3916	Carbon metabolism
+01200	b3919	Carbon metabolism
+01200	b3925	Carbon metabolism
+01200	b3941	Carbon metabolism
+01200	b3956	Carbon metabolism
+01200	b4014	Carbon metabolism
+01200	b4015	Carbon metabolism
+01200	b4025	Carbon metabolism
+01200	b4069	Carbon metabolism
+01200	b4090	Carbon metabolism
+01200	b4122	Carbon metabolism
+01200	b4151	Carbon metabolism
+01200	b4152	Carbon metabolism
+01200	b4153	Carbon metabolism
+01200	b4154	Carbon metabolism
+01200	b4232	Carbon metabolism
+01200	b4268	Carbon metabolism
+01200	b4388	Carbon metabolism
+01200	b4395	Carbon metabolism
+01200	b4471	Carbon metabolism
+01210	b0071	2-Oxocarboxylic acid metabolism
+01210	b0072	2-Oxocarboxylic acid metabolism
+01210	b0073	2-Oxocarboxylic acid metabolism
+01210	b0074	2-Oxocarboxylic acid metabolism
+01210	b0077	2-Oxocarboxylic acid metabolism
+01210	b0078	2-Oxocarboxylic acid metabolism
+01210	b0118	2-Oxocarboxylic acid metabolism
+01210	b0720	2-Oxocarboxylic acid metabolism
+01210	b0771	2-Oxocarboxylic acid metabolism
+01210	b0928	2-Oxocarboxylic acid metabolism
+01210	b1136	2-Oxocarboxylic acid metabolism
+01210	b1276	2-Oxocarboxylic acid metabolism
+01210	b2290	2-Oxocarboxylic acid metabolism
+01210	b2818	2-Oxocarboxylic acid metabolism
+01210	b3359	2-Oxocarboxylic acid metabolism
+01210	b3433	2-Oxocarboxylic acid metabolism
+01210	b3670	2-Oxocarboxylic acid metabolism
+01210	b3671	2-Oxocarboxylic acid metabolism
+01210	b3769	2-Oxocarboxylic acid metabolism
+01210	b3770	2-Oxocarboxylic acid metabolism
+01210	b3771	2-Oxocarboxylic acid metabolism
+01210	b3774	2-Oxocarboxylic acid metabolism
+01210	b3957	2-Oxocarboxylic acid metabolism
+01210	b3958	2-Oxocarboxylic acid metabolism
+01210	b3959	2-Oxocarboxylic acid metabolism
+01210	b4024	2-Oxocarboxylic acid metabolism
+01212	b0180	Fatty acid metabolism
+01212	b0185	Fatty acid metabolism
+01212	b0221	Fatty acid metabolism
+01212	b0954	Fatty acid metabolism
+01212	b1091	Fatty acid metabolism
+01212	b1092	Fatty acid metabolism
+01212	b1093	Fatty acid metabolism
+01212	b1095	Fatty acid metabolism
+01212	b1288	Fatty acid metabolism
+01212	b1393	Fatty acid metabolism
+01212	b1805	Fatty acid metabolism
+01212	b2224	Fatty acid metabolism
+01212	b2316	Fatty acid metabolism
+01212	b2323	Fatty acid metabolism
+01212	b2341	Fatty acid metabolism
+01212	b2342	Fatty acid metabolism
+01212	b2844	Fatty acid metabolism
+01212	b3255	Fatty acid metabolism
+01212	b3256	Fatty acid metabolism
+01212	b3845	Fatty acid metabolism
+01212	b3846	Fatty acid metabolism
+01220	b0347	Degradation of aromatic compounds
+01220	b0348	Degradation of aromatic compounds
+01220	b0349	Degradation of aromatic compounds
+01220	b0350	Degradation of aromatic compounds
+01220	b0351	Degradation of aromatic compounds
+01220	b0352	Degradation of aromatic compounds
+01220	b0356	Degradation of aromatic compounds
+01220	b1241	Degradation of aromatic compounds
+01220	b1461	Degradation of aromatic compounds
+01220	b1478	Degradation of aromatic compounds
+01220	b2311	Degradation of aromatic compounds
+01220	b2538	Degradation of aromatic compounds
+01220	b2539	Degradation of aromatic compounds
+01220	b2540	Degradation of aromatic compounds
+01220	b2541	Degradation of aromatic compounds
+01220	b2542	Degradation of aromatic compounds
+01220	b3589	Degradation of aromatic compounds
+01230	b0002	Biosynthesis of amino acids
+01230	b0003	Biosynthesis of amino acids
+01230	b0004	Biosynthesis of amino acids
+01230	b0008	Biosynthesis of amino acids
+01230	b0031	Biosynthesis of amino acids
+01230	b0071	Biosynthesis of amino acids
+01230	b0072	Biosynthesis of amino acids
+01230	b0073	Biosynthesis of amino acids
+01230	b0074	Biosynthesis of amino acids
+01230	b0077	Biosynthesis of amino acids
+01230	b0078	Biosynthesis of amino acids
+01230	b0118	Biosynthesis of amino acids
+01230	b0159	Biosynthesis of amino acids
+01230	b0166	Biosynthesis of amino acids
+01230	b0242	Biosynthesis of amino acids
+01230	b0243	Biosynthesis of amino acids
+01230	b0268	Biosynthesis of amino acids
+01230	b0273	Biosynthesis of amino acids
+01230	b0386	Biosynthesis of amino acids
+01230	b0388	Biosynthesis of amino acids
+01230	b0720	Biosynthesis of amino acids
+01230	b0754	Biosynthesis of amino acids
+01230	b0755	Biosynthesis of amino acids
+01230	b0771	Biosynthesis of amino acids
+01230	b0870	Biosynthesis of amino acids
+01230	b0907	Biosynthesis of amino acids
+01230	b0908	Biosynthesis of amino acids
+01230	b0928	Biosynthesis of amino acids
+01230	b1136	Biosynthesis of amino acids
+01230	b1207	Biosynthesis of amino acids
+01230	b1260	Biosynthesis of amino acids
+01230	b1261	Biosynthesis of amino acids
+01230	b1262	Biosynthesis of amino acids
+01230	b1263	Biosynthesis of amino acids
+01230	b1264	Biosynthesis of amino acids
+01230	b1276	Biosynthesis of amino acids
+01230	b1622	Biosynthesis of amino acids
+01230	b1676	Biosynthesis of amino acids
+01230	b1693	Biosynthesis of amino acids
+01230	b1704	Biosynthesis of amino acids
+01230	b1723	Biosynthesis of amino acids
+01230	b1779	Biosynthesis of amino acids
+01230	b1814	Biosynthesis of amino acids
+01230	b1854	Biosynthesis of amino acids
+01230	b2019	Biosynthesis of amino acids
+01230	b2020	Biosynthesis of amino acids
+01230	b2021	Biosynthesis of amino acids
+01230	b2022	Biosynthesis of amino acids
+01230	b2023	Biosynthesis of amino acids
+01230	b2024	Biosynthesis of amino acids
+01230	b2025	Biosynthesis of amino acids
+01230	b2026	Biosynthesis of amino acids
+01230	b2097	Biosynthesis of amino acids
+01230	b2290	Biosynthesis of amino acids
+01230	b2329	Biosynthesis of amino acids
+01230	b2414	Biosynthesis of amino acids
+01230	b2421	Biosynthesis of amino acids
+01230	b2464	Biosynthesis of amino acids
+01230	b2465	Biosynthesis of amino acids
+01230	b2472	Biosynthesis of amino acids
+01230	b2478	Biosynthesis of amino acids
+01230	b2551	Biosynthesis of amino acids
+01230	b2599	Biosynthesis of amino acids
+01230	b2600	Biosynthesis of amino acids
+01230	b2601	Biosynthesis of amino acids
+01230	b2687	Biosynthesis of amino acids
+01230	b2779	Biosynthesis of amino acids
+01230	b2797	Biosynthesis of amino acids
+01230	b2818	Biosynthesis of amino acids
+01230	b2838	Biosynthesis of amino acids
+01230	b2913	Biosynthesis of amino acids
+01230	b2914	Biosynthesis of amino acids
+01230	b2925	Biosynthesis of amino acids
+01230	b2926	Biosynthesis of amino acids
+01230	b2935	Biosynthesis of amino acids
+01230	b2942	Biosynthesis of amino acids
+01230	b3008	Biosynthesis of amino acids
+01230	b3117	Biosynthesis of amino acids
+01230	b3172	Biosynthesis of amino acids
+01230	b3212	Biosynthesis of amino acids
+01230	b3213	Biosynthesis of amino acids
+01230	b3281	Biosynthesis of amino acids
+01230	b3359	Biosynthesis of amino acids
+01230	b3386	Biosynthesis of amino acids
+01230	b3389	Biosynthesis of amino acids
+01230	b3390	Biosynthesis of amino acids
+01230	b3433	Biosynthesis of amino acids
+01230	b3607	Biosynthesis of amino acids
+01230	b3612	Biosynthesis of amino acids
+01230	b3670	Biosynthesis of amino acids
+01230	b3671	Biosynthesis of amino acids
+01230	b3744	Biosynthesis of amino acids
+01230	b3769	Biosynthesis of amino acids
+01230	b3770	Biosynthesis of amino acids
+01230	b3771	Biosynthesis of amino acids
+01230	b3772	Biosynthesis of amino acids
+01230	b3774	Biosynthesis of amino acids
+01230	b3809	Biosynthesis of amino acids
+01230	b3829	Biosynthesis of amino acids
+01230	b3870	Biosynthesis of amino acids
+01230	b3916	Biosynthesis of amino acids
+01230	b3919	Biosynthesis of amino acids
+01230	b3939	Biosynthesis of amino acids
+01230	b3940	Biosynthesis of amino acids
+01230	b3957	Biosynthesis of amino acids
+01230	b3958	Biosynthesis of amino acids
+01230	b3959	Biosynthesis of amino acids
+01230	b3960	Biosynthesis of amino acids
+01230	b4013	Biosynthesis of amino acids
+01230	b4019	Biosynthesis of amino acids
+01230	b4024	Biosynthesis of amino acids
+01230	b4054	Biosynthesis of amino acids
+01230	b4090	Biosynthesis of amino acids
+01230	b4254	Biosynthesis of amino acids
+01230	b4298	Biosynthesis of amino acids
+01230	b4388	Biosynthesis of amino acids
+01230	b4395	Biosynthesis of amino acids
+01230	b4471	Biosynthesis of amino acids
+01501	b0084	beta-Lactam resistance
+01501	b0433	beta-Lactam resistance
+01501	b0462	beta-Lactam resistance
+01501	b0463	beta-Lactam resistance
+01501	b0635	beta-Lactam resistance
+01501	b0929	beta-Lactam resistance
+01501	b1107	beta-Lactam resistance
+01501	b1243	beta-Lactam resistance
+01501	b1244	beta-Lactam resistance
+01501	b1245	beta-Lactam resistance
+01501	b1246	beta-Lactam resistance
+01501	b1247	beta-Lactam resistance
+01501	b1329	beta-Lactam resistance
+01501	b2215	beta-Lactam resistance
+01501	b3035	beta-Lactam resistance
+01501	b3396	beta-Lactam resistance
+01501	b4150	beta-Lactam resistance
+01502	b0086	Vancomycin resistance
+01502	b0087	Vancomycin resistance
+01502	b0090	Vancomycin resistance
+01502	b0092	Vancomycin resistance
+01502	b0381	Vancomycin resistance
+01502	b1190	Vancomycin resistance
+01502	b1488	Vancomycin resistance
+01502	b4053	Vancomycin resistance
+01503	b0161	Cationic antimicrobial peptide (CAMP) resistance
+01503	b0181	Cationic antimicrobial peptide (CAMP) resistance
+01503	b0192	Cationic antimicrobial peptide (CAMP) resistance
+01503	b0462	Cationic antimicrobial peptide (CAMP) resistance
+01503	b0463	Cationic antimicrobial peptide (CAMP) resistance
+01503	b0622	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1113	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1129	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1130	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1290	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1291	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1292	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1293	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1294	Cationic antimicrobial peptide (CAMP) resistance
+01503	b1531	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2253	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2254	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2255	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2256	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2257	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2258	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2259	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2435	Cationic antimicrobial peptide (CAMP) resistance
+01503	b2817	Cationic antimicrobial peptide (CAMP) resistance
+01503	b3035	Cationic antimicrobial peptide (CAMP) resistance
+01503	b3363	Cationic antimicrobial peptide (CAMP) resistance
+01503	b3546	Cationic antimicrobial peptide (CAMP) resistance
+01503	b3860	Cationic antimicrobial peptide (CAMP) resistance
+01503	b3911	Cationic antimicrobial peptide (CAMP) resistance
+01503	b3912	Cationic antimicrobial peptide (CAMP) resistance
+01503	b4112	Cationic antimicrobial peptide (CAMP) resistance
+01503	b4113	Cationic antimicrobial peptide (CAMP) resistance
+01503	b4114	Cationic antimicrobial peptide (CAMP) resistance
+01503	b4169	Cationic antimicrobial peptide (CAMP) resistance
+01503	b4544	Cationic antimicrobial peptide (CAMP) resistance
+01503	b4698	Cationic antimicrobial peptide (CAMP) resistance
+02010	b0066	ABC transporters
+02010	b0067	ABC transporters
+02010	b0068	ABC transporters
+02010	b0151	ABC transporters
+02010	b0152	ABC transporters
+02010	b0153	ABC transporters
+02010	b0158	ABC transporters
+02010	b0197	ABC transporters
+02010	b0198	ABC transporters
+02010	b0199	ABC transporters
+02010	b0262	ABC transporters
+02010	b0365	ABC transporters
+02010	b0366	ABC transporters
+02010	b0367	ABC transporters
+02010	b0448	ABC transporters
+02010	b0449	ABC transporters
+02010	b0588	ABC transporters
+02010	b0589	ABC transporters
+02010	b0590	ABC transporters
+02010	b0592	ABC transporters
+02010	b0652	ABC transporters
+02010	b0653	ABC transporters
+02010	b0654	ABC transporters
+02010	b0655	ABC transporters
+02010	b0760	ABC transporters
+02010	b0763	ABC transporters
+02010	b0764	ABC transporters
+02010	b0765	ABC transporters
+02010	b0809	ABC transporters
+02010	b0810	ABC transporters
+02010	b0811	ABC transporters
+02010	b0829	ABC transporters
+02010	b0830	ABC transporters
+02010	b0831	ABC transporters
+02010	b0832	ABC transporters
+02010	b0854	ABC transporters
+02010	b0855	ABC transporters
+02010	b0856	ABC transporters
+02010	b0857	ABC transporters
+02010	b0860	ABC transporters
+02010	b0861	ABC transporters
+02010	b0862	ABC transporters
+02010	b0863	ABC transporters
+02010	b0864	ABC transporters
+02010	b0879	ABC transporters
+02010	b0886	ABC transporters
+02010	b0887	ABC transporters
+02010	b0914	ABC transporters
+02010	b0933	ABC transporters
+02010	b0934	ABC transporters
+02010	b0936	ABC transporters
+02010	b1116	ABC transporters
+02010	b1117	ABC transporters
+02010	b1118	ABC transporters
+02010	b1123	ABC transporters
+02010	b1124	ABC transporters
+02010	b1125	ABC transporters
+02010	b1126	ABC transporters
+02010	b1243	ABC transporters
+02010	b1244	ABC transporters
+02010	b1245	ABC transporters
+02010	b1246	ABC transporters
+02010	b1247	ABC transporters
+02010	b1290	ABC transporters
+02010	b1291	ABC transporters
+02010	b1292	ABC transporters
+02010	b1293	ABC transporters
+02010	b1294	ABC transporters
+02010	b1329	ABC transporters
+02010	b1496	ABC transporters
+02010	b1513	ABC transporters
+02010	b1514	ABC transporters
+02010	b1515	ABC transporters
+02010	b1516	ABC transporters
+02010	b1709	ABC transporters
+02010	b1711	ABC transporters
+02010	b1857	ABC transporters
+02010	b1858	ABC transporters
+02010	b1859	ABC transporters
+02010	b1900	ABC transporters
+02010	b1901	ABC transporters
+02010	b1917	ABC transporters
+02010	b1918	ABC transporters
+02010	b1920	ABC transporters
+02010	b2128	ABC transporters
+02010	b2129	ABC transporters
+02010	b2130	ABC transporters
+02010	b2131	ABC transporters
+02010	b2148	ABC transporters
+02010	b2149	ABC transporters
+02010	b2150	ABC transporters
+02010	b2177	ABC transporters
+02010	b2178	ABC transporters
+02010	b2179	ABC transporters
+02010	b2180	ABC transporters
+02010	b2198	ABC transporters
+02010	b2199	ABC transporters
+02010	b2200	ABC transporters
+02010	b2201	ABC transporters
+02010	b2211	ABC transporters
+02010	b2306	ABC transporters
+02010	b2307	ABC transporters
+02010	b2308	ABC transporters
+02010	b2309	ABC transporters
+02010	b2310	ABC transporters
+02010	b2422	ABC transporters
+02010	b2423	ABC transporters
+02010	b2424	ABC transporters
+02010	b2425	ABC transporters
+02010	b2677	ABC transporters
+02010	b2678	ABC transporters
+02010	b2679	ABC transporters
+02010	b3191	ABC transporters
+02010	b3192	ABC transporters
+02010	b3193	ABC transporters
+02010	b3194	ABC transporters
+02010	b3195	ABC transporters
+02010	b3201	ABC transporters
+02010	b3269	ABC transporters
+02010	b3270	ABC transporters
+02010	b3271	ABC transporters
+02010	b3450	ABC transporters
+02010	b3451	ABC transporters
+02010	b3452	ABC transporters
+02010	b3453	ABC transporters
+02010	b3454	ABC transporters
+02010	b3455	ABC transporters
+02010	b3456	ABC transporters
+02010	b3457	ABC transporters
+02010	b3458	ABC transporters
+02010	b3460	ABC transporters
+02010	b3462	ABC transporters
+02010	b3463	ABC transporters
+02010	b3476	ABC transporters
+02010	b3477	ABC transporters
+02010	b3478	ABC transporters
+02010	b3479	ABC transporters
+02010	b3480	ABC transporters
+02010	b3540	ABC transporters
+02010	b3541	ABC transporters
+02010	b3542	ABC transporters
+02010	b3543	ABC transporters
+02010	b3544	ABC transporters
+02010	b3566	ABC transporters
+02010	b3567	ABC transporters
+02010	b3568	ABC transporters
+02010	b3661	ABC transporters
+02010	b3725	ABC transporters
+02010	b3726	ABC transporters
+02010	b3727	ABC transporters
+02010	b3728	ABC transporters
+02010	b3748	ABC transporters
+02010	b3749	ABC transporters
+02010	b3750	ABC transporters
+02010	b3751	ABC transporters
+02010	b3917	ABC transporters
+02010	b4032	ABC transporters
+02010	b4033	ABC transporters
+02010	b4034	ABC transporters
+02010	b4035	ABC transporters
+02010	b4086	ABC transporters
+02010	b4087	ABC transporters
+02010	b4088	ABC transporters
+02010	b4105	ABC transporters
+02010	b4106	ABC transporters
+02010	b4261	ABC transporters
+02010	b4262	ABC transporters
+02010	b4287	ABC transporters
+02010	b4288	ABC transporters
+02010	b4289	ABC transporters
+02010	b4290	ABC transporters
+02010	b4460	ABC transporters
+02020	b0161	Two-component system
+02020	b0167	Two-component system
+02020	b0196	Two-component system
+02020	b0383	Two-component system
+02020	b0399	Two-component system
+02020	b0400	Two-component system
+02020	b0535	Two-component system
+02020	b0564	Two-component system
+02020	b0570	Two-component system
+02020	b0571	Two-component system
+02020	b0572	Two-component system
+02020	b0573	Two-component system
+02020	b0574	Two-component system
+02020	b0575	Two-component system
+02020	b0584	Two-component system
+02020	b0612	Two-component system
+02020	b0613	Two-component system
+02020	b0614	Two-component system
+02020	b0615	Two-component system
+02020	b0616	Two-component system
+02020	b0617	Two-component system
+02020	b0618	Two-component system
+02020	b0619	Two-component system
+02020	b0620	Two-component system
+02020	b0652	Two-component system
+02020	b0653	Two-component system
+02020	b0654	Two-component system
+02020	b0655	Two-component system
+02020	b0694	Two-component system
+02020	b0695	Two-component system
+02020	b0696	Two-component system
+02020	b0697	Two-component system
+02020	b0698	Two-component system
+02020	b0733	Two-component system
+02020	b0734	Two-component system
+02020	b0929	Two-component system
+02020	b0974	Two-component system
+02020	b0978	Two-component system
+02020	b0979	Two-component system
+02020	b0993	Two-component system
+02020	b0995	Two-component system
+02020	b0996	Two-component system
+02020	b0997	Two-component system
+02020	b0998	Two-component system
+02020	b1071	Two-component system
+02020	b1129	Two-component system
+02020	b1130	Two-component system
+02020	b1221	Two-component system
+02020	b1222	Two-component system
+02020	b1224	Two-component system
+02020	b1225	Two-component system
+02020	b1226	Two-component system
+02020	b1227	Two-component system
+02020	b1421	Two-component system
+02020	b1465	Two-component system
+02020	b1466	Two-component system
+02020	b1467	Two-component system
+02020	b1468	Two-component system
+02020	b1474	Two-component system
+02020	b1475	Two-component system
+02020	b1476	Two-component system
+02020	b1479	Two-component system
+02020	b1488	Two-component system
+02020	b1608	Two-component system
+02020	b1609	Two-component system
+02020	b1882	Two-component system
+02020	b1883	Two-component system
+02020	b1884	Two-component system
+02020	b1885	Two-component system
+02020	b1886	Two-component system
+02020	b1887	Two-component system
+02020	b1888	Two-component system
+02020	b1890	Two-component system
+02020	b1891	Two-component system
+02020	b1892	Two-component system
+02020	b1914	Two-component system
+02020	b1916	Two-component system
+02020	b1922	Two-component system
+02020	b1923	Two-component system
+02020	b1951	Two-component system
+02020	b2074	Two-component system
+02020	b2075	Two-component system
+02020	b2076	Two-component system
+02020	b2077	Two-component system
+02020	b2078	Two-component system
+02020	b2079	Two-component system
+02020	b2193	Two-component system
+02020	b2215	Two-component system
+02020	b2216	Two-component system
+02020	b2217	Two-component system
+02020	b2218	Two-component system
+02020	b2219	Two-component system
+02020	b2220	Two-component system
+02020	b2221	Two-component system
+02020	b2222	Two-component system
+02020	b2223	Two-component system
+02020	b2224	Two-component system
+02020	b2253	Two-component system
+02020	b2367	Two-component system
+02020	b2368	Two-component system
+02020	b2369	Two-component system
+02020	b2370	Two-component system
+02020	b2469	Two-component system
+02020	b2470	Two-component system
+02020	b2553	Two-component system
+02020	b2554	Two-component system
+02020	b2556	Two-component system
+02020	b2696	Two-component system
+02020	b2786	Two-component system
+02020	b2844	Two-component system
+02020	b3025	Two-component system
+02020	b3026	Two-component system
+02020	b3035	Two-component system
+02020	b3072	Two-component system
+02020	b3202	Two-component system
+02020	b3210	Two-component system
+02020	b3357	Two-component system
+02020	b3404	Two-component system
+02020	b3405	Two-component system
+02020	b3528	Two-component system
+02020	b3666	Two-component system
+02020	b3667	Two-component system
+02020	b3668	Two-component system
+02020	b3669	Two-component system
+02020	b3702	Two-component system
+02020	b3728	Two-component system
+02020	b3868	Two-component system
+02020	b3869	Two-component system
+02020	b3870	Two-component system
+02020	b3911	Two-component system
+02020	b3912	Two-component system
+02020	b4002	Two-component system
+02020	b4003	Two-component system
+02020	b4004	Two-component system
+02020	b4112	Two-component system
+02020	b4113	Two-component system
+02020	b4123	Two-component system
+02020	b4124	Two-component system
+02020	b4125	Two-component system
+02020	b4150	Two-component system
+02020	b4151	Two-component system
+02020	b4152	Two-component system
+02020	b4153	Two-component system
+02020	b4154	Two-component system
+02020	b4355	Two-component system
+02020	b4398	Two-component system
+02020	b4399	Two-component system
+02020	b4401	Two-component system
+02020	b4441	Two-component system
+02020	b4513	Two-component system
+02024	b0098	Quorum sensing
+02024	b0176	Quorum sensing
+02024	b0407	Quorum sensing
+02024	b0414	Quorum sensing
+02024	b0694	Quorum sensing
+02024	b0754	Quorum sensing
+02024	b1243	Quorum sensing
+02024	b1244	Quorum sensing
+02024	b1245	Quorum sensing
+02024	b1246	Quorum sensing
+02024	b1247	Quorum sensing
+02024	b1264	Quorum sensing
+02024	b1277	Quorum sensing
+02024	b1285	Quorum sensing
+02024	b1329	Quorum sensing
+02024	b1440	Quorum sensing
+02024	b1441	Quorum sensing
+02024	b1442	Quorum sensing
+02024	b1443	Quorum sensing
+02024	b1447	Quorum sensing
+02024	b1483	Quorum sensing
+02024	b1484	Quorum sensing
+02024	b1485	Quorum sensing
+02024	b1486	Quorum sensing
+02024	b1487	Quorum sensing
+02024	b1492	Quorum sensing
+02024	b1493	Quorum sensing
+02024	b1511	Quorum sensing
+02024	b1512	Quorum sensing
+02024	b1513	Quorum sensing
+02024	b1514	Quorum sensing
+02024	b1515	Quorum sensing
+02024	b1516	Quorum sensing
+02024	b1517	Quorum sensing
+02024	b1518	Quorum sensing
+02024	b1704	Quorum sensing
+02024	b1805	Quorum sensing
+02024	b1891	Quorum sensing
+02024	b1892	Quorum sensing
+02024	b1916	Quorum sensing
+02024	b1951	Quorum sensing
+02024	b2554	Quorum sensing
+02024	b2556	Quorum sensing
+02024	b2568	Quorum sensing
+02024	b2601	Quorum sensing
+02024	b2610	Quorum sensing
+02024	b2687	Quorum sensing
+02024	b3020	Quorum sensing
+02024	b3025	Quorum sensing
+02024	b3026	Quorum sensing
+02024	b3175	Quorum sensing
+02024	b3300	Quorum sensing
+02024	b3357	Quorum sensing
+02024	b3454	Quorum sensing
+02024	b3455	Quorum sensing
+02024	b3456	Quorum sensing
+02024	b3457	Quorum sensing
+02024	b3458	Quorum sensing
+02024	b3460	Quorum sensing
+02024	b3464	Quorum sensing
+02024	b3517	Quorum sensing
+02024	b3609	Quorum sensing
+02024	b3705	Quorum sensing
+02024	b3981	Quorum sensing
+02024	b4046	Quorum sensing
+02024	b4172	Quorum sensing
+02026	b0145	Biofilm formation
+02026	b0385	Biofilm formation
+02026	b0983	Biofilm formation
+02026	b1021	Biofilm formation
+02026	b1022	Biofilm formation
+02026	b1023	Biofilm formation
+02026	b1024	Biofilm formation
+02026	b1040	Biofilm formation
+02026	b1041	Biofilm formation
+02026	b1042	Biofilm formation
+02026	b1043	Biofilm formation
+02026	b1071	Biofilm formation
+02026	b1194	Biofilm formation
+02026	b1285	Biofilm formation
+02026	b1341	Biofilm formation
+02026	b1512	Biofilm formation
+02026	b1815	Biofilm formation
+02026	b1891	Biofilm formation
+02026	b1892	Biofilm formation
+02026	b1914	Biofilm formation
+02026	b1916	Biofilm formation
+02026	b1921	Biofilm formation
+02026	b1922	Biofilm formation
+02026	b1951	Biofilm formation
+02026	b1954	Biofilm formation
+02026	b1956	Biofilm formation
+02026	b2000	Biofilm formation
+02026	b2062	Biofilm formation
+02026	b2067	Biofilm formation
+02026	b2127	Biofilm formation
+02026	b2216	Biofilm formation
+02026	b2217	Biofilm formation
+02026	b2218	Biofilm formation
+02026	b2417	Biofilm formation
+02026	b2479	Biofilm formation
+02026	b2687	Biofilm formation
+02026	b2696	Biofilm formation
+02026	b2741	Biofilm formation
+02026	b2786	Biofilm formation
+02026	b2808	Biofilm formation
+02026	b3210	Biofilm formation
+02026	b3357	Biofilm formation
+02026	b3404	Biofilm formation
+02026	b3405	Biofilm formation
+02026	b3417	Biofilm formation
+02026	b3428	Biofilm formation
+02026	b3429	Biofilm formation
+02026	b3430	Biofilm formation
+02026	b3525	Biofilm formation
+02026	b3533	Biofilm formation
+02026	b3806	Biofilm formation
+02026	b3961	Biofilm formation
+02026	b4401	Biofilm formation
+02026	b4408	Biofilm formation
+02026	b4426	Biofilm formation
+02026	b4431	Biofilm formation
+02026	b4443	Biofilm formation
+02026	b4444	Biofilm formation
+02026	b4445	Biofilm formation
+02026	b4450	Biofilm formation
+02026	b4457	Biofilm formation
+02026	b4458	Biofilm formation
+02026	b4597	Biofilm formation
+02030	b1421	Bacterial chemotaxis
+02030	b1881	Bacterial chemotaxis
+02030	b1882	Bacterial chemotaxis
+02030	b1883	Bacterial chemotaxis
+02030	b1884	Bacterial chemotaxis
+02030	b1885	Bacterial chemotaxis
+02030	b1886	Bacterial chemotaxis
+02030	b1887	Bacterial chemotaxis
+02030	b1888	Bacterial chemotaxis
+02030	b1889	Bacterial chemotaxis
+02030	b1890	Bacterial chemotaxis
+02030	b1939	Bacterial chemotaxis
+02030	b1945	Bacterial chemotaxis
+02030	b1946	Bacterial chemotaxis
+02030	b2150	Bacterial chemotaxis
+02030	b3072	Bacterial chemotaxis
+02030	b3544	Bacterial chemotaxis
+02030	b3751	Bacterial chemotaxis
+02030	b4034	Bacterial chemotaxis
+02030	b4355	Bacterial chemotaxis
+02040	b1070	Flagellar assembly
+02040	b1071	Flagellar assembly
+02040	b1072	Flagellar assembly
+02040	b1073	Flagellar assembly
+02040	b1074	Flagellar assembly
+02040	b1075	Flagellar assembly
+02040	b1076	Flagellar assembly
+02040	b1077	Flagellar assembly
+02040	b1078	Flagellar assembly
+02040	b1079	Flagellar assembly
+02040	b1080	Flagellar assembly
+02040	b1082	Flagellar assembly
+02040	b1083	Flagellar assembly
+02040	b1879	Flagellar assembly
+02040	b1880	Flagellar assembly
+02040	b1889	Flagellar assembly
+02040	b1890	Flagellar assembly
+02040	b1891	Flagellar assembly
+02040	b1892	Flagellar assembly
+02040	b1922	Flagellar assembly
+02040	b1923	Flagellar assembly
+02040	b1924	Flagellar assembly
+02040	b1925	Flagellar assembly
+02040	b1926	Flagellar assembly
+02040	b1937	Flagellar assembly
+02040	b1938	Flagellar assembly
+02040	b1939	Flagellar assembly
+02040	b1940	Flagellar assembly
+02040	b1941	Flagellar assembly
+02040	b1942	Flagellar assembly
+02040	b1943	Flagellar assembly
+02040	b1945	Flagellar assembly
+02040	b1946	Flagellar assembly
+02040	b1947	Flagellar assembly
+02040	b1948	Flagellar assembly
+02040	b1949	Flagellar assembly
+02040	b1950	Flagellar assembly
+02060	b0679	Phosphotransferase system (PTS)
+02060	b0731	Phosphotransferase system (PTS)
+02060	b1101	Phosphotransferase system (PTS)
+02060	b1621	Phosphotransferase system (PTS)
+02060	b1736	Phosphotransferase system (PTS)
+02060	b1737	Phosphotransferase system (PTS)
+02060	b1738	Phosphotransferase system (PTS)
+02060	b1817	Phosphotransferase system (PTS)
+02060	b1818	Phosphotransferase system (PTS)
+02060	b1819	Phosphotransferase system (PTS)
+02060	b2093	Phosphotransferase system (PTS)
+02060	b2094	Phosphotransferase system (PTS)
+02060	b2167	Phosphotransferase system (PTS)
+02060	b2169	Phosphotransferase system (PTS)
+02060	b2383	Phosphotransferase system (PTS)
+02060	b2415	Phosphotransferase system (PTS)
+02060	b2416	Phosphotransferase system (PTS)
+02060	b2417	Phosphotransferase system (PTS)
+02060	b2429	Phosphotransferase system (PTS)
+02060	b2702	Phosphotransferase system (PTS)
+02060	b2703	Phosphotransferase system (PTS)
+02060	b2704	Phosphotransferase system (PTS)
+02060	b2715	Phosphotransferase system (PTS)
+02060	b2829	Phosphotransferase system (PTS)
+02060	b2933	Phosphotransferase system (PTS)
+02060	b2934	Phosphotransferase system (PTS)
+02060	b3133	Phosphotransferase system (PTS)
+02060	b3138	Phosphotransferase system (PTS)
+02060	b3139	Phosphotransferase system (PTS)
+02060	b3140	Phosphotransferase system (PTS)
+02060	b3204	Phosphotransferase system (PTS)
+02060	b3206	Phosphotransferase system (PTS)
+02060	b3599	Phosphotransferase system (PTS)
+02060	b3722	Phosphotransferase system (PTS)
+02060	b3947	Phosphotransferase system (PTS)
+02060	b4193	Phosphotransferase system (PTS)
+02060	b4194	Phosphotransferase system (PTS)
+02060	b4195	Phosphotransferase system (PTS)
+02060	b4240	Phosphotransferase system (PTS)
+02060	b4302	Phosphotransferase system (PTS)
+02060	b4304	Phosphotransferase system (PTS)
+02060	b4565	Phosphotransferase system (PTS)
+03010	b0023	Ribosome
+03010	b0169	Ribosome
+03010	b0201	Ribosome
+03010	b0204	Ribosome
+03010	b0205	Ribosome
+03010	b0296	Ribosome
+03010	b0911	Ribosome
+03010	b1089	Ribosome
+03010	b1716	Ribosome
+03010	b1717	Ribosome
+03010	b2185	Ribosome
+03010	b2588	Ribosome
+03010	b2589	Ribosome
+03010	b2591	Ribosome
+03010	b2606	Ribosome
+03010	b2609	Ribosome
+03010	b3065	Ribosome
+03010	b3165	Ribosome
+03010	b3185	Ribosome
+03010	b3186	Ribosome
+03010	b3230	Ribosome
+03010	b3231	Ribosome
+03010	b3272	Ribosome
+03010	b3274	Ribosome
+03010	b3275	Ribosome
+03010	b3278	Ribosome
+03010	b3294	Ribosome
+03010	b3296	Ribosome
+03010	b3297	Ribosome
+03010	b3298	Ribosome
+03010	b3299	Ribosome
+03010	b3301	Ribosome
+03010	b3302	Ribosome
+03010	b3303	Ribosome
+03010	b3304	Ribosome
+03010	b3305	Ribosome
+03010	b3306	Ribosome
+03010	b3307	Ribosome
+03010	b3308	Ribosome
+03010	b3309	Ribosome
+03010	b3310	Ribosome
+03010	b3311	Ribosome
+03010	b3312	Ribosome
+03010	b3313	Ribosome
+03010	b3314	Ribosome
+03010	b3315	Ribosome
+03010	b3316	Ribosome
+03010	b3317	Ribosome
+03010	b3318	Ribosome
+03010	b3319	Ribosome
+03010	b3320	Ribosome
+03010	b3321	Ribosome
+03010	b3341	Ribosome
+03010	b3342	Ribosome
+03010	b3636	Ribosome
+03010	b3637	Ribosome
+03010	b3703	Ribosome
+03010	b3756	Ribosome
+03010	b3758	Ribosome
+03010	b3759	Ribosome
+03010	b3851	Ribosome
+03010	b3854	Ribosome
+03010	b3855	Ribosome
+03010	b3936	Ribosome
+03010	b3968	Ribosome
+03010	b3970	Ribosome
+03010	b3971	Ribosome
+03010	b3983	Ribosome
+03010	b3984	Ribosome
+03010	b3985	Ribosome
+03010	b3986	Ribosome
+03010	b4007	Ribosome
+03010	b4009	Ribosome
+03010	b4010	Ribosome
+03010	b4200	Ribosome
+03010	b4202	Ribosome
+03010	b4203	Ribosome
+03010	b4506	Ribosome
+03018	b0014	RNA degradation
+03018	b0143	RNA degradation
+03018	b0797	RNA degradation
+03018	b1084	RNA degradation
+03018	b2501	RNA degradation
+03018	b2779	RNA degradation
+03018	b2830	RNA degradation
+03018	b3162	RNA degradation
+03018	b3164	RNA degradation
+03018	b3780	RNA degradation
+03018	b3783	RNA degradation
+03018	b3822	RNA degradation
+03018	b3916	RNA degradation
+03018	b4143	RNA degradation
+03018	b4172	RNA degradation
+03018	b4179	RNA degradation
+03020	b3295	RNA polymerase
+03020	b3649	RNA polymerase
+03020	b3987	RNA polymerase
+03020	b3988	RNA polymerase
+03030	b0183	DNA replication
+03030	b0184	DNA replication
+03030	b0214	DNA replication
+03030	b0215	DNA replication
+03030	b0470	DNA replication
+03030	b0640	DNA replication
+03030	b1099	DNA replication
+03030	b1842	DNA replication
+03030	b2411	DNA replication
+03030	b3066	DNA replication
+03030	b3647	DNA replication
+03030	b3701	DNA replication
+03030	b3863	DNA replication
+03030	b4052	DNA replication
+03030	b4059	DNA replication
+03030	b4259	DNA replication
+03030	b4372	DNA replication
+03060	b0027	Protein export
+03060	b0097	Protein export
+03060	b0098	Protein export
+03060	b0407	Protein export
+03060	b0408	Protein export
+03060	b0409	Protein export
+03060	b0455	Protein export
+03060	b0627	Protein export
+03060	b2568	Protein export
+03060	b2610	Protein export
+03060	b3175	Protein export
+03060	b3300	Protein export
+03060	b3464	Protein export
+03060	b3609	Protein export
+03060	b3705	Protein export
+03060	b3836	Protein export
+03060	b3838	Protein export
+03060	b3839	Protein export
+03060	b3981	Protein export
+03070	b0097	Bacterial secretion system
+03070	b0098	Bacterial secretion system
+03070	b0407	Bacterial secretion system
+03070	b0408	Bacterial secretion system
+03070	b0409	Bacterial secretion system
+03070	b0627	Bacterial secretion system
+03070	b2610	Bacterial secretion system
+03070	b2968	Bacterial secretion system
+03070	b3035	Bacterial secretion system
+03070	b3175	Bacterial secretion system
+03070	b3300	Bacterial secretion system
+03070	b3324	Bacterial secretion system
+03070	b3325	Bacterial secretion system
+03070	b3326	Bacterial secretion system
+03070	b3327	Bacterial secretion system
+03070	b3328	Bacterial secretion system
+03070	b3329	Bacterial secretion system
+03070	b3330	Bacterial secretion system
+03070	b3331	Bacterial secretion system
+03070	b3332	Bacterial secretion system
+03070	b3333	Bacterial secretion system
+03070	b3334	Bacterial secretion system
+03070	b3335	Bacterial secretion system
+03070	b3464	Bacterial secretion system
+03070	b3609	Bacterial secretion system
+03070	b3705	Bacterial secretion system
+03070	b3836	Bacterial secretion system
+03070	b3838	Bacterial secretion system
+03070	b3839	Bacterial secretion system
+03070	b3981	Bacterial secretion system
+03410	b0714	Base excision repair
+03410	b1633	Base excision repair
+03410	b1749	Base excision repair
+03410	b2068	Base excision repair
+03410	b2159	Base excision repair
+03410	b2411	Base excision repair
+03410	b2580	Base excision repair
+03410	b2892	Base excision repair
+03410	b2961	Base excision repair
+03410	b3068	Base excision repair
+03410	b3549	Base excision repair
+03410	b3635	Base excision repair
+03410	b3647	Base excision repair
+03410	b3863	Base excision repair
+03420	b0779	Nucleotide excision repair
+03420	b1114	Nucleotide excision repair
+03420	b1913	Nucleotide excision repair
+03420	b2411	Nucleotide excision repair
+03420	b3647	Nucleotide excision repair
+03420	b3813	Nucleotide excision repair
+03420	b3863	Nucleotide excision repair
+03420	b4058	Nucleotide excision repair
+03430	b0184	Mismatch repair
+03430	b0215	Mismatch repair
+03430	b0422	Mismatch repair
+03430	b0470	Mismatch repair
+03430	b0640	Mismatch repair
+03430	b1099	Mismatch repair
+03430	b1842	Mismatch repair
+03430	b1844	Mismatch repair
+03430	b2011	Mismatch repair
+03430	b2411	Mismatch repair
+03430	b2509	Mismatch repair
+03430	b2733	Mismatch repair
+03430	b2831	Mismatch repair
+03430	b2892	Mismatch repair
+03430	b3387	Mismatch repair
+03430	b3647	Mismatch repair
+03430	b3701	Mismatch repair
+03430	b3813	Mismatch repair
+03430	b4059	Mismatch repair
+03430	b4170	Mismatch repair
+03430	b4259	Mismatch repair
+03430	b4372	Mismatch repair
+03440	b0184	Homologous recombination
+03440	b0215	Homologous recombination
+03440	b0467	Homologous recombination
+03440	b0470	Homologous recombination
+03440	b0472	Homologous recombination
+03440	b0640	Homologous recombination
+03440	b1099	Homologous recombination
+03440	b1842	Homologous recombination
+03440	b1860	Homologous recombination
+03440	b1861	Homologous recombination
+03440	b1863	Homologous recombination
+03440	b2565	Homologous recombination
+03440	b2699	Homologous recombination
+03440	b2819	Homologous recombination
+03440	b2820	Homologous recombination
+03440	b2822	Homologous recombination
+03440	b2892	Homologous recombination
+03440	b3652	Homologous recombination
+03440	b3700	Homologous recombination
+03440	b3701	Homologous recombination
+03440	b3863	Homologous recombination
+03440	b3935	Homologous recombination
+03440	b4059	Homologous recombination
+03440	b4201	Homologous recombination
+03440	b4259	Homologous recombination
+03440	b4362	Homologous recombination
+03440	b4372	Homologous recombination
+04122	b0009	Sulfur relay system
+04122	b0423	Sulfur relay system
+04122	b0781	Sulfur relay system
+04122	b0783	Sulfur relay system
+04122	b0784	Sulfur relay system
+04122	b0785	Sulfur relay system
+04122	b0826	Sulfur relay system
+04122	b0969	Sulfur relay system
+04122	b1133	Sulfur relay system
+04122	b1757	Sulfur relay system
+04122	b2521	Sulfur relay system
+04122	b2530	Sulfur relay system
+04122	b3343	Sulfur relay system
+04122	b3344	Sulfur relay system
+04122	b3345	Sulfur relay system
+04122	b3470	Sulfur relay system
+04122	b3992	Sulfur relay system
+04122	b4407	Sulfur relay system
