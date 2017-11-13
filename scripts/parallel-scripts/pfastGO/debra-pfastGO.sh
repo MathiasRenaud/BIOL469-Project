@@ -8,7 +8,7 @@ cd ../../../analysis/proteins/debra
 for file in *.faa
 do tag=${file%.*.*.*.faa}
 
-sh pfastGO.sh "$file" "$tag" 2
+sh /home/manager/pfastGO-master/pfastGO.sh "$file" "$tag" 2
 
 # for testing purposes
 #echo "tag: $tag"
