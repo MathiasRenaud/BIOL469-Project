@@ -3,7 +3,7 @@ set -e  # abort script upon nonzero exit status
 set -u  # abort script if variable's value is unset
 #set -o pipefail # abort script if any error in pipe (illegal in BioLinux??)
 
-cd ../analysis/proteins/nicole
+cd ../../../analysis/proteins/nicole
 
 for file in *.faa
 do tag=${file%.*.*.*.faa}
