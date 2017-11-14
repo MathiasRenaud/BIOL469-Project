@@ -5,9 +5,12 @@ set -u  # abort script if variable's value is unset
 
 cd ../analysis/proteins/*/temp
 
-for dir in *
+for dir in */ ; do
 
-tar -czvf "$dir".tar.gz /home/manager/BIOL469-Project/analysis/proteins/*/temp
+tag=${dir%/}
+
+tar -czvf "$tag".tar.gz /home/manager/BIOL469-Project/analysis/proteins/*/temp/"$dir"
+
 
 # for testing purposes
 #echo "file: $file"
