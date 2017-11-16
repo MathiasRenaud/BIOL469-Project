@@ -1,0 +1,18 @@
+A_logei.genes	A_logei.gene.names	A_logei.species	A_logei.GOids	A_logei.KEGGids
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXE_ALIFS	Long-chain-fatty-acid--luciferin-component ligase	Aliivibrio fischeri	GO:0005524;GO:0047474;GO:0008218	
+LUXA_ALIFS	Alkanal monooxygenase alpha chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXB_ALIFS	Alkanal monooxygenase beta chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXC_ALIFS	Long-chain acyl-protein thioester reductase	Aliivibrio fischeri	GO:0003995;GO:0050062;GO:0008218	
+LUXY_ALIFS	Yellow fluorescent protein	Aliivibrio fischeri	GO:0008218	
+LUXG_ALIFS	Probable flavin reductase	Aliivibrio fischeri	GO:0016491;GO:0008218	
+LUXG_ALIFS	Probable flavin reductase	Aliivibrio fischeri	GO:0016491;GO:0008218	
+LUXY_ALIFS	Yellow fluorescent protein	Aliivibrio fischeri	GO:0008218	
+LUXI_ALIFS	Acyl-homoserine-lactone synthase	Aliivibrio fischeri	GO:0061579;GO:0008218;GO:0009372	
+LUXG_ALIFS	Probable flavin reductase	Aliivibrio fischeri	GO:0016491;GO:0008218	
+LUXB_ALIFS	Alkanal monooxygenase beta chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXA_ALIFS	Alkanal monooxygenase alpha chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXD_ALIFS	Acyl transferase	Aliivibrio fischeri	GO:0016746;GO:0008218;GO:0006631	
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXS_ALISL	S-ribosylhomocysteine lyase	Aliivibrio salmonicidaLFI1238))	GO:0005506;GO:0043768;GO:0009372	vsa:VSAL_I0645
