@@ -90,7 +90,7 @@ dflist2 <- lapply(dflist, function(x){
 names(dflist2) <- names
 
 # Write modified tables out to TSV files
-setwd("gene-tables")
+setwd("homolog-tables")
 N <- length(dflist2)
 for (i in 1:N){
   outfile.name <- names[i]
