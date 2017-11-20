@@ -1,0 +1,615 @@
+E_coli2.genes	E_coli2.gene.names	E_coli2.species	E_coli2.GOids	E_coli2.KEGGids
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXS_PASMU	S-ribosylhomocysteine lyase	Pasteurella multocida	GO:0005506;GO:0043768;GO:0009372	pmu:PM1054
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXS_VIBF1	Transcriptional activator protein LuxR	Vibrio fischeri	GO:0032993;GO:0001216;GO:0000976;GO:0008218;GO:0045893;GO:0009372;GO:0006351	vfi:VF_A0925
+LUXS_LACGA	S-ribosylhomocysteine lyase	Lactobacillus gasseriNCIMB 11718 / AM63)	GO:0005506;GO:0043768;GO:0009372	lga:LGAS_1662
+LUXS_LACRE	S-ribosylhomocysteine lyase	Lactobacillus reuteri	GO:0005506;GO:0043768;GO:0009372	
+LUXS_LACJO	S-ribosylhomocysteine lyase	Lactobacillus johnsonii	GO:0005506;GO:0043768;GO:0009372	ljo:LJ_0631
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXP_PHOLE	Lumazine protein	Photobacterium leiognathi	GO:0008218	
+LUXB1_PHOLU	Alkanal monooxygenase beta chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXS_VIBF1	Transcriptional activator protein LuxR	Vibrio fischeri	GO:0032993;GO:0001216;GO:0000976;GO:0008218;GO:0045893;GO:0009372;GO:0006351	vfi:VF_A0925
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXY_ALIFS	Yellow fluorescent protein	Aliivibrio fischeri	GO:0008218	
+LUXP_PHOPO	Lumazine protein	Photobacterium phosphoreum	GO:0008218	
+LUXP_PHOLE	Lumazine protein	Photobacterium leiognathi	GO:0008218	
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXD2_PHOLE	Acyl transferase	Photobacterium leiognathi	GO:0016746;GO:0008218;GO:0006631	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXG_VIBHA	Probable flavin reductase	Vibrio harveyi	GO:0016491;GO:0008218	
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXS_STAS1	S-ribosylhomocysteine lyase	Staphylococcus saprophyticus subsp. saprophyticusDSM 20229)	GO:0005506;GO:0043768;GO:0009372	ssp:SSP0751
+LUXS_STAAB	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sab:SAB2018
+LUXS_STAAW	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sam:MW2058
+LUXS_STAAT	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sax:USA300HOU_2123
+LUXS_STAAS	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sas:SAS2037
+LUXS_STAAR	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sar:SAR2222
+LUXS_STAAN	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sau:SA1936
+LUXS_STAAM	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sav:SAV2134
+LUXS_STAAE	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sae:NWMN_2038
+LUXS_STAAC	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sac:SACOL2126
+LUXS_STAA9	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	saj:SaurJH9_2170
+LUXS_STAA8	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sao:SAOUHSC_02375
+LUXS_STAA3	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	saa:SAUSA300_2088
+LUXS_STAA2	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sah:SaurJH1_2208
+LUXS_STAA1	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	saw:SAHV_2118
+LUXS_LISW6	S-ribosylhomocysteine lyase	Listeria welshimeri serovar 6bSLCC5334)	GO:0005506;GO:0043768;GO:0009372	lwe:lwe1305
+LUXS_LISMH	S-ribosylhomocysteine lyase	Listeria monocytogenes serotype 4a	GO:0005506;GO:0043768;GO:0009372	lmh:LMHCC_1287
+LUXS_LISMF	S-ribosylhomocysteine lyase	Listeria monocytogenes serotype 4b	GO:0005506;GO:0043768;GO:0009372	lmf:LMOf2365_1306
+LUXS_LISMC	S-ribosylhomocysteine lyase	Listeria monocytogenes serotype 4b	GO:0005506;GO:0043768;GO:0009372	lmc:Lm4b_01298
+LUXS_STAES	S-ribosylhomocysteine lyase	Staphylococcus epidermidis	GO:0005506;GO:0043768;GO:0009372	sep:SE1732
+LUXS_STAEQ	S-ribosylhomocysteine lyase	Staphylococcus epidermidis	GO:0005506;GO:0043768;GO:0009372	ser:SERP1741
+LUXS_LISMO	S-ribosylhomocysteine lyase	Listeria monocytogenes serovar 1/2a	GO:0005506;GO:0043768;GO:1900232;GO:0009372	lmo:lmo1288
+LUXS_HALH3	S-ribosylhomocysteine lyase	Halobacillus halophilusNBRC 102448/ NCIMB 2269)	GO:0005506;GO:0043768;GO:0009372	hhd:HBHAL_2021
+LUXS_STAHJ	S-ribosylhomocysteine lyase	Staphylococcus haemolyticus	GO:0005506;GO:0043768;GO:0009372	sha:SH0901
+LUXR_VIBHA	HTH-type transcriptional regulator LuxR	Vibrio harveyi	GO:0003677;GO:0008218;GO:0006355;GO:0006351	
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXP_VIBHA	Autoinducer 2-binding periplasmic protein LuxP	Vibrio harveyi	GO:0042597	
+LUXP_VIBPA	Autoinducer 2-binding periplasmic protein LuxP	Vibrio parahaemolyticus serotype O3:K6	GO:0042597	vpa:VPA1221
+LUXE_VIBHA	Long-chain-fatty-acid--luciferin-component ligase	Vibrio harveyi	GO:0005524;GO:0047474;GO:0008218	
+LUXS_VIBF1	Transcriptional activator protein LuxR	Vibrio fischeri	GO:0032993;GO:0001216;GO:0000976;GO:0008218;GO:0045893;GO:0009372;GO:0006351	vfi:VF_A0925
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXA2_PHOLE	Alkanal monooxygenase alpha chain	Photobacterium leiognathi	GO:0047646;GO:0008218	
+LUXG_PHOLE	Probable flavin reductase	Photobacterium leiognathi	GO:0016491;GO:0008218	
+LUXG_VIBHA	Probable flavin reductase	Vibrio harveyi	GO:0016491;GO:0008218	
+LUXG_ALIFS	Probable flavin reductase	Aliivibrio fischeri	GO:0016491;GO:0008218	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXP_VIBCH	Autoinducer 2-binding periplasmic protein LuxP	Vibrio cholerae serotype O1	GO:0042597;GO:0008643;GO:0006355	vch:VCA0737
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXB2_PHOLU	Alkanal monooxygenase beta chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXA_VIBHA	Alkanal monooxygenase alpha chain	Vibrio harveyi	GO:0047646;GO:0008218	
+LUXA2_PHOLU	Alkanal monooxygenase alpha chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXA_ALIFS	Alkanal monooxygenase alpha chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXB1_PHOLU	Alkanal monooxygenase beta chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXR_VIBHA	HTH-type transcriptional regulator LuxR	Vibrio harveyi	GO:0003677;GO:0008218;GO:0006355;GO:0006351	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXG_VIBHA	Probable flavin reductase	Vibrio harveyi	GO:0016491;GO:0008218	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXS_VIBF1	Transcriptional activator protein LuxR	Vibrio fischeri	GO:0032993;GO:0001216;GO:0000976;GO:0008218;GO:0045893;GO:0009372;GO:0006351	vfi:VF_A0925
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXS_BACSK	S-ribosylhomocysteine lyase	Bacillus clausii	GO:0005506;GO:0043768;GO:0009372	bcl:ABC2915
+LUXS_SHISS	S-ribosylhomocysteine lyase	Shigella sonnei	GO:0005506;GO:0043768;GO:0009372	ssn:SSON_2831
+LUXS_SHIDS	S-ribosylhomocysteine lyase	Shigella dysenteriae serotype 1	GO:0005506;GO:0043768;GO:0009372	sdy:SDY_2884
+LUXS_ESCF3	S-ribosylhomocysteine lyase	Escherichia fergusonii	GO:0005506;GO:0043768;GO:0009372	efe:EFER_0382
+LUXS_ECOUT	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	eci:UTI89_C3049
+LUXS_ECOLU	S-ribosylhomocysteine lyase	Escherichia coli O17:K52:H18	GO:0005506;GO:0043768;GO:0009372	eum:ECUMN_3012
+LUXS_ECOLI	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005829;GO:0005506;GO:0043768;GO:0010699;GO:0019284	ecj:JW2662
+LUXS_ECOLC	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	ecl:EcolC_1020
+LUXS_ECOK1	S-ribosylhomocysteine lyase	Escherichia coli O1:K1 / APEC	GO:0005506;GO:0043768;GO:0009372;GO:2000145	ecv:APECO1_3834
+LUXS_ECOHS	S-ribosylhomocysteine lyase	Escherichia coli O9:H4	GO:0005506;GO:0043768;GO:0009372	ecx:EcHS_A2823
+LUXS_ECODH	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	ecd:ECDH10B_2854
+LUXS_ECOBW	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	ebw:BWG_2428
+LUXS_ECO45	S-ribosylhomocysteine lyase	Escherichia coli O45:K1	GO:0005506;GO:0043768;GO:0009372	ecz:ECS88_2954
+LUXS_ECO27	S-ribosylhomocysteine lyase	Escherichia coli O127:H6	GO:0005506;GO:0043768;GO:0009372	ecg:E2348C_2955
+LUXS_ECO24	S-ribosylhomocysteine lyase	Escherichia coli O139:H28	GO:0005506;GO:0043768;GO:0009372	ecw:EcE24377A_2970
+LUXS_ECO5E	S-ribosylhomocysteine lyase	Escherichia coli O157:H7	GO:0005506;GO:0043768;GO:0009372	ecf:ECH74115_3932
+LUXS_ECO57	S-ribosylhomocysteine lyase	Escherichia coli O157:H7	GO:0005506;GO:0043768;GO:0009372	ece:Z3988
+LUXS_ECOSM	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	ecm:EcSMS35_2809
+LUXS_ECOL6	S-ribosylhomocysteine lyase	Escherichia coli O6:H1	GO:0005506;GO:0043768;GO:0009372	ecc:c3244
+LUXS_ECOL5	S-ribosylhomocysteine lyase	Escherichia coli O6:K15:H31	GO:0005506;GO:0043768;GO:0009372	ecp:ECP_2652
+LUXS_ECO81	S-ribosylhomocysteine lyase	Escherichia coli O81	GO:0005506;GO:0043768;GO:0009372	ecq:ECED1_3141
+LUXS_SHIFL	S-ribosylhomocysteine lyase	Shigella flexneri	GO:0005506;GO:0043768;GO:0009372	sfl:SF2714
+LUXS_ECOSE	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	ecy:ECSE_2940
+LUXS_ECO8A	S-ribosylhomocysteine lyase	Escherichia coli O8	GO:0005506;GO:0043768;GO:0009372	ecr:ECIAI1_2782
+LUXS_ECO55	S-ribosylhomocysteine lyase	Escherichia coli	GO:0005506;GO:0043768;GO:0009372	eck:EC55989_2954
+LUXS_SHIF8	S-ribosylhomocysteine lyase	Shigella flexneri serotype 5b	GO:0005506;GO:0043768;GO:0009372	sfv:SFV_2817
+LUXS_SHIBS	S-ribosylhomocysteine lyase	Shigella boydii serotype 4	GO:0005506;GO:0043768;GO:0009372	sbo:SBO_2830
+LUXS_SHIB3	S-ribosylhomocysteine lyase	Shigella boydii serotype 18	GO:0005506;GO:0043768;GO:0009372	sbc:SbBS512_E3189
+LUXS_ECO7I	S-ribosylhomocysteine lyase	Escherichia coli O7:K1	GO:0005506;GO:0043768;GO:0009372	ect:ECIAI39_2877
+LUXS_SALTY	S-ribosylhomocysteine lyase	Salmonella typhimurium	GO:0005506;GO:0043768;GO:0009372	stm:STM2817
+LUXS_SALSV	S-ribosylhomocysteine lyase	Salmonella schwarzengrund	GO:0005506;GO:0043768;GO:0009372	sew:SeSA_A2966
+LUXS_SALPK	S-ribosylhomocysteine lyase	Salmonella paratyphi A	GO:0005506;GO:0043768;GO:0009372	sek:SSPA2494
+LUXS_SALPC	S-ribosylhomocysteine lyase	Salmonella paratyphi C	GO:0005506;GO:0043768;GO:0009372	sei:SPC_2863
+LUXS_SALPA	S-ribosylhomocysteine lyase	Salmonella paratyphi A	GO:0005506;GO:0043768;GO:0009372	spt:SPA2675
+LUXS_SALNS	S-ribosylhomocysteine lyase	Salmonella newport	GO:0005506;GO:0043768;GO:0009372	see:SNSL254_A3018
+LUXS_SALHS	S-ribosylhomocysteine lyase	Salmonella heidelberg	GO:0005506;GO:0043768;GO:0009372	seh:SeHA_C3001
+LUXS_SALG2	S-ribosylhomocysteine lyase	Salmonella gallinarum	GO:0005506;GO:0043768;GO:0009372	seg:SG2725
+LUXS_SALEP	S-ribosylhomocysteine lyase	Salmonella enteritidis PT4	GO:0005506;GO:0043768;GO:0009372	set:SEN2662
+LUXS_SALDC	S-ribosylhomocysteine lyase	Salmonella dublin	GO:0005506;GO:0043768;GO:0009372	sed:SeD_A3125
+LUXS_SALCH	S-ribosylhomocysteine lyase	Salmonella choleraesuis	GO:0005506;GO:0043768;GO:0009372	sec:SCH_2752
+LUXS_SALA4	S-ribosylhomocysteine lyase	Salmonella agona	GO:0005506;GO:0043768;GO:0009372	sea:SeAg_B2935
+LUXS_CITK8	S-ribosylhomocysteine lyase	Citrobacter koseri	GO:0005506;GO:0043768;GO:0009372	cko:CKO_04036
+LUXS_SALTI	S-ribosylhomocysteine lyase	Salmonella typhi	GO:0005506;GO:0043768;GO:0009372	stt:t2714
+LUXS_KLEP3	S-ribosylhomocysteine lyase	Klebsiella pneumoniae	GO:0005506;GO:0043768;GO:0009372	kpe:KPK_1109
+LUXS_SALAR	S-ribosylhomocysteine lyase	Salmonella arizonae	GO:0005506;GO:0043768;GO:0009372	ses:SARI_00157
+LUXS_ENT38	S-ribosylhomocysteine lyase	Enterobacter sp	GO:0005506;GO:0043768;GO:0009372	ent:Ent638_3167
+LUXS_CROS8	S-ribosylhomocysteine lyase	Cronobacter sakazakii	GO:0005506;GO:0043768;GO:0009372	esa:ESA_00581
+LUXS_YERE8	S-ribosylhomocysteine lyase	Yersinia enterocolitica serotype O:8 / biotype 1B8081)	GO:0005506;GO:0043768;GO:0009372	yen:YE0839
+LUXS_YERPY	S-ribosylhomocysteine lyase	Yersinia pseudotuberculosis serotype O:3	GO:0005506;GO:0043768;GO:0009372	ypy:YPK_3368
+LUXS_YERPS	S-ribosylhomocysteine lyase	Yersinia pseudotuberculosis serotype I	GO:0005506;GO:0043768;GO:0009372	ypo:BZ17_1721
+LUXS_YERPP	S-ribosylhomocysteine lyase	Yersinia pestis	GO:0005506;GO:0043768;GO:0009372	ypp:YPDSF_3061
+LUXS_YERPN	S-ribosylhomocysteine lyase	Yersinia pestis bv. Antiqua	GO:0005506;GO:0043768;GO:0009372	ypn:YPN_0794
+LUXS_YERPG	S-ribosylhomocysteine lyase	Yersinia pestis bv. Antiqua	GO:0005506;GO:0043768;GO:0009372	ypg:YpAngola_A0890
+LUXS_YERPE	S-ribosylhomocysteine lyase	Yersinia pestis	GO:0005506;GO:0043768;GO:0009372	ype:YPO3300
+LUXS_YERPB	S-ribosylhomocysteine lyase	Yersinia pseudotuberculosis serotype IB	GO:0005506;GO:0043768;GO:0009372	ypb:YPTS_0866
+LUXS_YERPA	S-ribosylhomocysteine lyase	Yersinia pestis bv. Antiqua	GO:0005506;GO:0043768;GO:0009372	ypa:YPA_2844
+LUXS_YERP3	S-ribosylhomocysteine lyase	Yersinia pseudotuberculosis serotype O:1b	GO:0005506;GO:0043768;GO:0009372	ypi:YpsIP31758_3233
+LUXS_SODGM	S-ribosylhomocysteine lyase	Sodalis glossinidius	GO:0005506;GO:0043768;GO:0009372	sgl:SG0542
+LUXS_SERP5	S-ribosylhomocysteine lyase	Serratia proteamaculans	GO:0005506;GO:0043768;GO:0009372	spe:Spro_0848
+LUXS_PHOLL	S-ribosylhomocysteine lyase	Photorhabdus luminescens subsp. laumondii105565 / TT01)	GO:0005506;GO:0043768;GO:0009372	plu:plu1253
+LUXS_PROMI	S-ribosylhomocysteine lyase	Proteus mirabilis	GO:0005506;GO:0043768;GO:0009372	
+LUXS_PROMH	S-ribosylhomocysteine lyase	Proteus mirabilis	GO:0005506;GO:0043768;GO:0009372	pmr:PMI0379
+LUXS_SERMA	S-ribosylhomocysteine lyase	Serratia marcescens	GO:0005506;GO:0043768;GO:0009372	
+LUXS_PECCP	S-ribosylhomocysteine lyase	Pectobacterium carotovorum subsp. carotovorum	GO:0005506;GO:0043768;GO:0009372	pct:PC1_3206
+LUXS_PECAS	S-ribosylhomocysteine lyase	Pectobacterium atrosepticumcarotovora subsp. atroseptica)	GO:0005506;GO:0043768;GO:0009372	eca:ECA3362
+LUXS_AERHH	S-ribosylhomocysteine lyase	Aeromonas hydrophila subsp. hydrophilaJCM 1027 / KCTC 2358 / NCIMB 9240)	GO:0005506;GO:0043768;GO:0009372	aha:AHA_0700
+LUXS_AERS4	S-ribosylhomocysteine lyase	Aeromonas salmonicida	GO:0005506;GO:0043768;GO:0009372	asa:ASA_0697
+LUXS_NEIMA	S-ribosylhomocysteine lyase	Neisseria meningitidis serogroup A / serotype 4A	GO:0005506;GO:0043768;GO:0009372	nma:NMA0463
+LUXS_VIBAL	S-ribosylhomocysteine lyase	Vibrio alginolyticus	GO:0005506;GO:0043768;GO:0009372	
+LUXS_MARMS	S-ribosylhomocysteine lyase	Marinomonas sp	GO:0005506;GO:0043768;GO:0009372	mmw:Mmwyl1_1324
+LUXS_NEIMB	S-ribosylhomocysteine lyase	Neisseria meningitidis serogroup B	GO:0005506;GO:0043768;GO:0009372	nme:NMB1981
+LUXS_NEIM0	S-ribosylhomocysteine lyase	Neisseria meningitidis serogroup C	GO:0005506;GO:0043768;GO:0009372	nmn:NMCC_0232
+LUXS_NEIMF	S-ribosylhomocysteine lyase	Neisseria meningitidis serogroup C / serotype 2aDSM 15464 / FAM18)	GO:0005506;GO:0043768;GO:0009372	nmc:NMC1956
+LUXS_VIBPA	S-ribosylhomocysteine lyase	Vibrio parahaemolyticus serotype O3:K6	GO:0005506;GO:0043768;GO:0009372	vpa:VP2537
+LUXS_VIBCB	S-ribosylhomocysteine lyase	Vibrio campbellii	GO:0005506;GO:0043768;GO:0009372	vca:M892_13670
+LUXS_VIBFM	S-ribosylhomocysteine lyase	Vibrio fischeri	GO:0005506;GO:0043768;GO:0009372	vfm:VFMJ11_0557
+LUXS_SHEAM	S-ribosylhomocysteine lyase	Shewanella amazonensis	GO:0005506;GO:0043768;GO:0009372	saz:Sama_2541
+LUXS_NEIG2	S-ribosylhomocysteine lyase	Neisseria gonorrhoeae	GO:0005506;GO:0043768;GO:0009372	ngk:NGK_2568
+LUXS_NEIG1	S-ribosylhomocysteine lyase	Neisseria gonorrhoeae	GO:0005506;GO:0043768;GO:0009372	ngo:NGO_2102
+LUXS_PHOPR	S-ribosylhomocysteine lyase	Photobacterium profundum	GO:0005506;GO:0043768;GO:0009372	ppr:PBPRA3045
+LUXS_ALISL	S-ribosylhomocysteine lyase	Aliivibrio salmonicidaLFI1238))	GO:0005506;GO:0043768;GO:0009372	vsa:VSAL_I0645
+LUXS_SHESR	S-ribosylhomocysteine lyase	Shewanella sp	GO:0005506;GO:0043768;GO:0009372	shm:Shewmr7_0972
+LUXS_SHESM	S-ribosylhomocysteine lyase	Shewanella sp	GO:0005506;GO:0043768;GO:0009372	she:Shewmr4_0934
+LUXS_SHEB9	S-ribosylhomocysteine lyase	Shewanella baltica	GO:0005506;GO:0043768;GO:0009372	sbn:Sbal195_3565
+LUXS_SHEB8	S-ribosylhomocysteine lyase	Shewanella baltica	GO:0005506;GO:0043768;GO:0009372	sbm:Shew185_3440
+LUXS_SHEB5	S-ribosylhomocysteine lyase	Shewanella baltica	GO:0005506;GO:0043768;GO:0009372	sbl:Sbal_0922
+LUXS_SHEB2	S-ribosylhomocysteine lyase	Shewanella baltica	GO:0005506;GO:0043768;GO:0009372	sbp:Sbal223_3368
+LUXS_SHESA	S-ribosylhomocysteine lyase	Shewanella sp	GO:0005506;GO:0043768;GO:0009372	shn:Shewana3_0936
+LUXS_SHEON	S-ribosylhomocysteine lyase	Shewanella oneidensis	GO:0005506;GO:0043768;GO:0009372	son:SO_1101
+LUXS_TOLAT	S-ribosylhomocysteine lyase	Tolumonas auensis	GO:0005506;GO:0043768;GO:0009372	tau:Tola_2918
+LUXS_SHEPW	S-ribosylhomocysteine lyase	Shewanella piezotolerans	GO:0005506;GO:0043768;GO:0009372	swp:swp_1166
+LUXS_VIBCM	S-ribosylhomocysteine lyase	Vibrio cholerae serotype O1	GO:0005506;GO:0043768;GO:0009372	vcm:VCM66_0515
+LUXS_VIBCH	S-ribosylhomocysteine lyase	Vibrio cholerae serotype O1	GO:0005506;GO:0043768;GO:0009372	vch:VC0557
+LUXS_VIBC3	S-ribosylhomocysteine lyase	Vibrio cholerae serotype O1O395)	GO:0005506;GO:0043768;GO:0009372	vco:VC0395_A0091
+LUXS_VIBVY	S-ribosylhomocysteine lyase	Vibrio vulnificus	GO:0005506;GO:0043768;GO:0009372	vvy:VV2792
+LUXS_VIBVU	S-ribosylhomocysteine lyase	Vibrio vulnificus	GO:0005506;GO:0043768;GO:0009372	vvu:VV1_1608
+LUXS_SHESH	S-ribosylhomocysteine lyase	Shewanella sediminis	GO:0005506;GO:0043768;GO:0009372	sse:Ssed_3432
+LUXS_SHELP	S-ribosylhomocysteine lyase	Shewanella loihica	GO:0005506;GO:0043768;GO:0009372	slo:Shew_2882
+LUXS_SHEPA	S-ribosylhomocysteine lyase	Shewanella pealeana	GO:0005506;GO:0043768;GO:0009372	spl:Spea_3104
+LUXS_SHESW	S-ribosylhomocysteine lyase	Shewanella sp	GO:0005506;GO:0043768;GO:0009372	shw:Sputw3181_3238
+LUXS_SHEPC	S-ribosylhomocysteine lyase	Shewanella putrefaciens	GO:0005506;GO:0043768;GO:0009372	spc:Sputcn32_0938
+LUXS_SHEHH	S-ribosylhomocysteine lyase	Shewanella halifaxensis	GO:0005506;GO:0043768;GO:0009372	shl:Shal_3188
+LUXS_SHEFN	S-ribosylhomocysteine lyase	Shewanella frigidimarina	GO:0005506;GO:0043768;GO:0009372	sfr:Sfri_0947
+LUXS_VIBTL	S-ribosylhomocysteine lyase	Vibrio tasmaniensis	GO:0005506;GO:0043768;GO:0009372	vsp:VS_2562
+LUXS_SHEWM	S-ribosylhomocysteine lyase	Shewanella woodyi	GO:0005506;GO:0043768;GO:0009372	swd:Swoo_3618
+LUXS_ARCB4	S-ribosylhomocysteine lyase	Arcobacter butzleri	GO:0005506;GO:0043768;GO:0009372	abu:Abu_0111
+LUXS_EDWI9	S-ribosylhomocysteine lyase	Edwardsiella ictaluri	GO:0005506;GO:0043768;GO:0009372	eic:NT01EI_3227
+LUXS_PASMU	S-ribosylhomocysteine lyase	Pasteurella multocida	GO:0005506;GO:0043768;GO:0009372	pmu:PM1054
+LUXS_HAEIN	S-ribosylhomocysteine lyase	Haemophilus influenzae	GO:0005506;GO:0043768;GO:0009372	hin:HI0491
+LUXS_HAEIE	S-ribosylhomocysteine lyase	Haemophilus influenzae	GO:0005506;GO:0043768;GO:0009372	hip:CGSHiEE_00530
+LUXS_HAEI8	S-ribosylhomocysteine lyase	Haemophilus influenzae	GO:0005506;GO:0043768;GO:0009372	hit:NTHI0621
+LUXS_SHEDO	S-ribosylhomocysteine lyase	Shewanella denitrificans	GO:0005506;GO:0043768;GO:0009372	sdn:Sden_0981
+LUXS_HAEIG	S-ribosylhomocysteine lyase	Haemophilus influenzae	GO:0005506;GO:0043768;GO:0009372	hiq:CGSHiGG_05710
+LUXS_CAMJE	S-ribosylhomocysteine lyase	Campylobacter jejuni subsp. jejuni serotype O:2NCTC 11168)	GO:0005506;GO:0043768;GO:0009372	cje:Cj1198
+LUXS_MANSM	S-ribosylhomocysteine lyase	Mannheimia succiniciproducens	GO:0005506;GO:0043768;GO:0009372	msu:MS0419
+LUXS_SULDN	S-ribosylhomocysteine lyase	Sulfurimonas denitrificans(Thiomicrospira denitrificans	GO:0005506;GO:0043768;GO:0009372	tdn:Suden_1938
+LUXS_CAMJR	S-ribosylhomocysteine lyase	Campylobacter jejuni	GO:0005506;GO:0043768;GO:0009372	cjr:CJE1332
+LUXS_CAMJ8	S-ribosylhomocysteine lyase	Campylobacter jejuni subsp. jejuni serotype O:611828)	GO:0005506;GO:0043768;GO:0009372	cju:C8J_1142
+LUXS_THICR	S-ribosylhomocysteine lyase	Thiomicrospira crunogena	GO:0005506;GO:0043768;GO:0009372	tcx:Tcr_2129
+LUXS_ACTSZ	S-ribosylhomocysteine lyase	Actinobacillus succinogenes	GO:0005506;GO:0043768;GO:0009372	asu:Asuc_0685
+LUXS_HAES1	S-ribosylhomocysteine lyase	Haemophilus somnus	GO:0005506;GO:0043768;GO:0009372	hso:HS_0550
+LUXS_CAMJJ	S-ribosylhomocysteine lyase	Campylobacter jejuni subsp. jejuni serotype O:23/36	GO:0005506;GO:0043768;GO:0009372	cjj:CJJ81176_1213
+LUXS_CAMC1	S-ribosylhomocysteine lyase	Campylobacter concisus	GO:0005506;GO:0043768;GO:0009372	cco:CCC13826_1857
+LUXS_WOLSU	S-ribosylhomocysteine lyase	Wolinella succinogenes11488 / FDC 602W)	GO:0005506;GO:0043768;GO:0009372	wsu:WS2126
+LUXS_HISS2	S-ribosylhomocysteine lyase	Histophilus somni	GO:0005506;GO:0043768;GO:0009372	hsm:HSM_1663
+LUXS_SULNB	S-ribosylhomocysteine lyase	Sulfurovum sp	GO:0005506;GO:0043768;GO:0009372	sun:SUN_0202
+LUXS_PSYIN	S-ribosylhomocysteine lyase	Psychromonas ingrahamii	GO:0005506;GO:0043768;GO:0009372	pin:Ping_3371
+LUXS_HAEDU	S-ribosylhomocysteine lyase	Haemophilus ducreyi	GO:0005506;GO:0043768;GO:0009372	hdu:HD_0370
+LUXS_CAMJD	S-ribosylhomocysteine lyase	Campylobacter jejuni subsp. doylei269.97)	GO:0005506;GO:0043768;GO:0009372	cjd:JJD26997_0531
+LUXS_ACTPJ	S-ribosylhomocysteine lyase	Actinobacillus pleuropneumoniae serotype 3	GO:0005506;GO:0043768;GO:0009372	apj:APJL_1229
+LUXS_ACTP7	S-ribosylhomocysteine lyase	Actinobacillus pleuropneumoniae serotype 7	GO:0005506;GO:0043768;GO:0009372	apa:APP7_1267
+LUXS_ACTP2	S-ribosylhomocysteine lyase	Actinobacillus pleuropneumoniae serotype 5b	GO:0005506;GO:0043768;GO:0009372	apl:APL_1216
+LUXS_CAMFF	S-ribosylhomocysteine lyase	Campylobacter fetus subsp. fetus	GO:0005506;GO:0043768;GO:0009372	cff:CFF8240_0111
+LUXS_CAMC5	S-ribosylhomocysteine lyase	Campylobacter curvus	GO:0005506;GO:0043768;GO:0009372	ccv:CCV52592_1053
+LUXS_HAEPS	S-ribosylhomocysteine lyase	Haemophilus parasuis serovar 5	GO:0005506;GO:0043768;GO:0009372	hap:HAPS_0063
+LUXS_HELHP	S-ribosylhomocysteine lyase	Helicobacter hepaticus	GO:0005506;GO:0043768;GO:0009372	hhe:HH_0176
+LUXS_CAMHC	S-ribosylhomocysteine lyase	Campylobacter hominisCH001A)	GO:0005506;GO:0043768;GO:0009372	cha:CHAB381_0546
+LUXS_DEIRA	S-ribosylhomocysteine lyase	Deinococcus radioduransLMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)	GO:0005506;GO:0043768;GO:0009372	dra:DR_2387
+LUXS_CLOPS	S-ribosylhomocysteine lyase	Clostridium perfringens	GO:0005506;GO:0043768;GO:0009372	cpr:CPR_0167
+LUXS_CLOPE	S-ribosylhomocysteine lyase	Clostridium perfringens	GO:0005506;GO:0043768;GO:0009372	cpe:CPE0178
+LUXS_CLOP1	S-ribosylhomocysteine lyase	Clostridium perfringensNCIMB 6125 / NCTC 8237 / Type A)	GO:0005506;GO:0043768;GO:0009372	cpf:CPF_0171
+LUXS_DEIDV	S-ribosylhomocysteine lyase	Deinococcus deserti	GO:0005506;GO:0043768;GO:0009372	ddr:Deide_01300
+LUXS_DEIGD	S-ribosylhomocysteine lyase	Deinococcus geothermalis	GO:0005506;GO:0043768;GO:0009372	dge:Dgeo_2248
+LUXS_PEDPA	S-ribosylhomocysteine lyase	Pediococcus pentosaceus183-1w)	GO:0005506;GO:0043768;GO:0009372	ppe:PEPE_1638
+LUXS_THET8	S-ribosylhomocysteine lyase	Thermus thermophilus	GO:0005506;GO:0043768;GO:0009372	ttj:TTHA1551
+LUXS_THET2	S-ribosylhomocysteine lyase	Thermus thermophilus	GO:0005506;GO:0043768;GO:0009372	tth:TT_C1186
+LUXS_LACS1	S-ribosylhomocysteine lyase	Lactobacillus salivarius	GO:0005506;GO:0043768;GO:0009372	lsl:LSL_1173
+LUXS_LACGA	S-ribosylhomocysteine lyase	Lactobacillus gasseriNCIMB 11718 / AM63)	GO:0005506;GO:0043768;GO:0009372	lga:LGAS_1662
+LUXS_LACAC	S-ribosylhomocysteine lyase	Lactobacillus acidophilus	GO:0005506;GO:0043768;GO:0009372	lac:LBA1081
+LUXS_LEUCK	S-ribosylhomocysteine lyase	Leuconostoc citreum	GO:0005506;GO:0043768;GO:0009372	lci:LCK_01476
+LUXS_STACT	S-ribosylhomocysteine lyase	Staphylococcus carnosus	GO:0005506;GO:0043768;GO:0009372	sca:SCA_1637
+LUXS_LACJO	S-ribosylhomocysteine lyase	Lactobacillus johnsonii	GO:0005506;GO:0043768;GO:0009372	ljo:LJ_0631
+LUXS_LEUMM	S-ribosylhomocysteine lyase	Leuconostoc mesenteroides subsp. mesenteroidesNCDO 523)	GO:0005506;GO:0043768;GO:0009372	lme:LEUM_1802
+LUXS_PROAC	S-ribosylhomocysteine lyase	Propionibacterium acnes	GO:0005506;GO:0043768;GO:0009372	pac:PPA0450
+LUXS_CHRSD	S-ribosylhomocysteine lyase	Chromohalobacter salexigens13768)	GO:0005506;GO:0043768;GO:0009372	csa:Csal_2049
+LUXS_BIFLS	S-ribosylhomocysteine lyase	Bifidobacterium longum subsp. infantis/ JCM 1222 / NCTC 11817 / S12)	GO:0005506;GO:0043768;GO:0009372	bln:Blon_2000
+LUXS_BIFLD	S-ribosylhomocysteine lyase	Bifidobacterium longum	GO:0005506;GO:0043768;GO:0009372	blj:BLD_0910
+LUXS_STAHJ	S-ribosylhomocysteine lyase	Staphylococcus haemolyticus	GO:0005506;GO:0043768;GO:0009372	sha:SH0901
+LUXS_LACRJ	S-ribosylhomocysteine lyase	Lactobacillus reuteri	GO:0005506;GO:0043768;GO:0009372	lrf:LAR_1486
+LUXS_LACRD	S-ribosylhomocysteine lyase	Lactobacillus reuteri	GO:0005506;GO:0043768;GO:0009372	lre:Lreu_1586
+LUXS_LACF3	S-ribosylhomocysteine lyase	Lactobacillus fermentum	GO:0005506;GO:0043768;GO:0009372	lfe:LAF_1600
+LUXS_OENOB	S-ribosylhomocysteine lyase	Oenococcus oeni	GO:0005506;GO:0043768;GO:0009372	ooe:OEOE_1562
+LUXS_LACPL	S-ribosylhomocysteine lyase	Lactobacillus plantarum	GO:0005506;GO:0043768;GO:0009372	lpl:lp_0774
+LUXS_LISMH	S-ribosylhomocysteine lyase	Listeria monocytogenes serotype 4a	GO:0005506;GO:0043768;GO:0009372	lmh:LMHCC_1287
+LUXS_STAS1	S-ribosylhomocysteine lyase	Staphylococcus saprophyticus subsp. saprophyticusDSM 20229)	GO:0005506;GO:0043768;GO:0009372	ssp:SSP0751
+LUXS_BIFLO	S-ribosylhomocysteine lyase	Bifidobacterium longum	GO:0005506;GO:0043768;GO:0009372	blo:BL1152
+LUXS_STRSY	S-ribosylhomocysteine lyase	Streptococcus suis	GO:0005506;GO:0043768;GO:0009372	ssu:SSU05_0420
+LUXS_STRS2	S-ribosylhomocysteine lyase	Streptococcus suis	GO:0005506;GO:0043768;GO:0009372	ssv:SSU98_0407
+LUXS_LACRE	S-ribosylhomocysteine lyase	Lactobacillus reuteri	GO:0005506;GO:0043768;GO:0009372	
+LUXS_LACH4	S-ribosylhomocysteine lyase	Lactobacillus helveticus	GO:0005506;GO:0043768;GO:0009372	lhe:lhv_1913
+LUXS_CLOBA	S-ribosylhomocysteine lyase	Clostridium botulinum	GO:0005506;GO:0043768;GO:0009372	cbt:CLH_2583
+LUXS_PEPD6	S-ribosylhomocysteine lyase	Peptoclostridium difficile	GO:0005506;GO:0043768;GO:0009372	cdf:CD630_35980
+LUXS_DICNV	S-ribosylhomocysteine lyase	Dichelobacter nodosus	GO:0005506;GO:0043768;GO:0009372	dno:DNO_0395
+LUXS_STAAB	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sab:SAB2018
+LUXS_STAES	S-ribosylhomocysteine lyase	Staphylococcus epidermidis	GO:0005506;GO:0043768;GO:0009372	sep:SE1732
+LUXS_STAEQ	S-ribosylhomocysteine lyase	Staphylococcus epidermidis	GO:0005506;GO:0043768;GO:0009372	ser:SERP1741
+LUXS_STAAW	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sam:MW2058
+LUXS_STAAT	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sax:USA300HOU_2123
+LUXS_STAAS	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sas:SAS2037
+LUXS_STAAR	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sar:SAR2222
+LUXS_STAAN	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sau:SA1936
+LUXS_STAAM	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sav:SAV2134
+LUXS_STAAE	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sae:NWMN_2038
+LUXS_STAAC	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sac:SACOL2126
+LUXS_STAA9	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	saj:SaurJH9_2170
+LUXS_STAA8	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sao:SAOUHSC_02375
+LUXS_STAA3	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	saa:SAUSA300_2088
+LUXS_STAA2	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	sah:SaurJH1_2208
+LUXS_STAA1	S-ribosylhomocysteine lyase	Staphylococcus aureus	GO:0005506;GO:0043768;GO:0009372	saw:SAHV_2118
+LUXS_LACP3	S-ribosylhomocysteine lyase	Lactobacillus paracaseiKCTC 3260 / NRRL B-441)	GO:0005506;GO:0043768;GO:0009372	lca:LSEI_0765
+LUXS_LACCB	S-ribosylhomocysteine lyase	Lactobacillus casei	GO:0005506;GO:0043768;GO:0009372	lcb:LCABL_08310
+LUXS_STRA5	S-ribosylhomocysteine lyase	Streptococcus agalactiae serotype V	GO:0005506;GO:0043768;GO:0009372	sag:SAG0305
+LUXS_STRA3	S-ribosylhomocysteine lyase	Streptococcus agalactiae serotype III	GO:0005506;GO:0043768;GO:0009372	san:gbs0294
+LUXS_STRA1	S-ribosylhomocysteine lyase	Streptococcus agalactiae serotype IaSS700)	GO:0005506;GO:0043768;GO:0009372	sak:SAK_0376
+LUXS2_LACDB	S-ribosylhomocysteine lyase 2	Lactobacillus delbrueckii subsp. bulgaricus	GO:0005506;GO:0043768;GO:0009372	lbu:LBUL_1233
+LUXS_STRGC	S-ribosylhomocysteine lyase	Streptococcus gordonii/ DL1 / V288)	GO:0005506;GO:0043768;GO:0009372	sgo:SGO_0592
+LUXS_LACBA	S-ribosylhomocysteine lyase	Lactobacillus brevis	GO:0005506;GO:0043768;GO:0009372	lbr:LVIS_0340
+LUXS_HELPJ	S-ribosylhomocysteine lyase	Helicobacter pyloriJ99)	GO:0005506;GO:0043768;GO:0009372	hpj:jhp_0097
+LUXS_LISIN	S-ribosylhomocysteine lyase	Listeria innocua serovar 6a	GO:0005506;GO:0043768;GO:0009372	lin:lin1327
+LUXS_HELPH	S-ribosylhomocysteine lyase	Helicobacter pylori	GO:0005506;GO:0043768;GO:0009372	hpa:HPAG1_0105
+LUXS_STRZJ	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	sjj:SPJ_0332
+LUXS_STRPS	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	spw:SPCG_0343
+LUXS_STRPJ	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	sne:SPN23F03130
+LUXS_STRSV	S-ribosylhomocysteine lyase	Streptococcus sanguinis	GO:0005506;GO:0043768;GO:0009372	ssa:SSA_1853
+LUXS_HELP2	S-ribosylhomocysteine lyase	Helicobacter pylori	GO:0005506;GO:0043768;GO:0009372	hpp:HPP12_0107
+LUXS_GEOSW	S-ribosylhomocysteine lyase	Geobacillus sp	GO:0005506;GO:0043768;GO:0009372	gwc:GWCH70_2789
+LUXS_HELPS	S-ribosylhomocysteine lyase	Helicobacter pylori	GO:0005506;GO:0043768;GO:0009372	hps:HPSH_00525
+LUXS_STRZT	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	snt:SPT_0389
+LUXS_STRZP	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	spp:SPP_0375
+LUXS_STRR6	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	spr:spr0308
+LUXS_STRPN	S-ribosylhomocysteine lyase	Streptococcus pneumoniae serotype 4	GO:0005506;GO:0043768;GO:0009372	spn:SP_0340
+LUXS_STRPI	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	spv:SPH_0450
+LUXS_STRP7	S-ribosylhomocysteine lyase	Streptococcus pneumoniae	GO:0005506;GO:0043768;GO:0009372	snm:SP70585_0404
+LUXS_STRP4	S-ribosylhomocysteine lyase	Streptococcus pneumoniae serotype 19F	GO:0005506;GO:0043768;GO:0009372	spx:SPG_0309
+LUXS_STRP2	S-ribosylhomocysteine lyase	Streptococcus pneumoniae serotype 2	GO:0005506;GO:0043768;GO:0009372	spd:SPD_0309
+LUXS_LISW6	S-ribosylhomocysteine lyase	Listeria welshimeri serovar 6bSLCC5334)	GO:0005506;GO:0043768;GO:0009372	lwe:lwe1305
+LUXS_LACDA	S-ribosylhomocysteine lyase	Lactobacillus delbrueckii subsp. bulgaricus20081 / JCM 1002 / NBRC 13953 / NCIMB 11778)	GO:0005506;GO:0043768;GO:0009372	ldb:Ldb0105
+LUXS1_LACDB	S-ribosylhomocysteine lyase 1	Lactobacillus delbrueckii subsp. bulgaricus	GO:0005506;GO:0043768;GO:0009372	lbu:LBUL_0088
+LUXS_LISMF	S-ribosylhomocysteine lyase	Listeria monocytogenes serotype 4b	GO:0005506;GO:0043768;GO:0009372	lmf:LMOf2365_1306
+LUXS_LISMC	S-ribosylhomocysteine lyase	Listeria monocytogenes serotype 4b	GO:0005506;GO:0043768;GO:0009372	lmc:Lm4b_01298
+LUXS_ENTFA	S-ribosylhomocysteine lyase	Enterococcus faecalis	GO:0005506;GO:0043768;GO:0009372	efa:EF1182
+LUXS_HELPY	S-ribosylhomocysteine lyase	Helicobacter pyloripylori)	GO:0005506;GO:0043768;GO:0009372	heo:C694_00520
+LUXS_STRMU	S-ribosylhomocysteine lyase	Streptococcus mutans serotype c	GO:0005506;GO:0043768;GO:0009372	smu:SMU_474
+LUXS_BACWK	S-ribosylhomocysteine lyase	Bacillus weihenstephanensis	GO:0005506;GO:0043768;GO:0009372	bwe:BcerKBAB4_4626
+LUXS_BACCR	S-ribosylhomocysteine lyase	Bacillus cereusNCIMB 9373 / NRRL B-3711)	GO:0005506;GO:0043768;GO:0009372	bce:BC4789
+LUXS_BACC4	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcb:BCB4264_A4917
+LUXS_BACC2	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcg:BCG9842_B0322
+LUXS_STRTD	S-ribosylhomocysteine lyase	Streptococcus thermophilus	GO:0005506;GO:0043768;GO:0009372	ste:STER_0440
+LUXS_STRT2	S-ribosylhomocysteine lyase	Streptococcus thermophilus	GO:0005506;GO:0043768;GO:0009372	stl:stu0394
+LUXS_STRT1	S-ribosylhomocysteine lyase	Streptococcus thermophilus	GO:0005506;GO:0043768;GO:0009372	stc:str0394
+LUXS_HELPG	S-ribosylhomocysteine lyase	Helicobacter pylori	GO:0005506;GO:0043768;GO:0009372	hpg:HPG27_97
+LUXS_LISMO	S-ribosylhomocysteine lyase	Listeria monocytogenes serovar 1/2a	GO:0005506;GO:0043768;GO:1900232;GO:0009372	lmo:lmo1288
+LUXS_BACC3	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcx:BCA_4922
+LUXS_BACHK	S-ribosylhomocysteine lyase	Bacillus thuringiensis subsp. konkukian	GO:0005506;GO:0043768;GO:0009372	btk:BT9727_4525
+LUXS_BACCZ	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcz:BCE33L4544
+LUXS_BACCQ	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcq:BCQ_4606
+LUXS_BACC7	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcr:BCAH187_A4931
+LUXS_BACC1	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bca:BCE_4946
+LUXS_BACC0	S-ribosylhomocysteine lyase	Bacillus cereus	GO:0005506;GO:0043768;GO:0009372	bcu:BCAH820_4911
+LUXS_BACAN	S-ribosylhomocysteine lyase	Bacillus anthracis	GO:0005506;GO:0043768;GO:0009372	ban:BA_5047
+LUXS_BACAH	S-ribosylhomocysteine lyase	Bacillus thuringiensis	GO:0005506;GO:0043768;GO:0009372	btl:BALH_4361
+LUXS_BACAC	S-ribosylhomocysteine lyase	Bacillus anthracis	GO:0005506;GO:0043768;GO:0009372	bah:BAMEG_5081
+LUXS_BACAA	S-ribosylhomocysteine lyase	Bacillus anthracis	GO:0005506;GO:0043768;GO:0009372	bai:BAA_5058
+LUXS_HELAH	S-ribosylhomocysteine lyase	Helicobacter acinonychis	GO:0005506;GO:0043768;GO:0009372	hac:Hac_1463
+LUXS_OCEIH	S-ribosylhomocysteine lyase	Oceanobacillus iheyensisKCTC 3954 / HTE831)	GO:0005506;GO:0043768;GO:0009372	oih:OB1107
+LUXS_BACP2	S-ribosylhomocysteine lyase	Bacillus pumilus	GO:0005506;GO:0043768;GO:0009372	bpu:BPUM_2705
+LUXS_MACCJ	S-ribosylhomocysteine lyase	Macrococcus caseolyticus	GO:0005506;GO:0043768;GO:0009372	mcl:MCCL_1791
+LUXS_BIFAA	S-ribosylhomocysteine lyase	Bifidobacterium adolescentis11814 / E194a)	GO:0005506;GO:0043768;GO:0009372	bad:BAD_0493
+LUXS_GEOTN	S-ribosylhomocysteine lyase	Geobacillus thermodenitrificans	GO:0005506;GO:0043768;GO:0009372	gtn:GTNG_2762
+LUXS_BACVZ	S-ribosylhomocysteine lyase	Bacillus velezensisamyloliquefaciens subsp. plantarum)	GO:0005506;GO:0043768;GO:0009372	bay:RBAM_027680
+LUXS_BACSU	S-ribosylhomocysteine lyase	Bacillus subtilis	GO:0005506;GO:0043768;GO:0009372	bsu:BSU30670
+LUXP_VIBVY	Autoinducer 2-binding periplasmic protein LuxP	Vibrio vulnificus	GO:0042597	vvy:VVA1221
+LUXP_VIBVU	Autoinducer 2-binding periplasmic protein LuxP	Vibrio vulnificus	GO:0042597	vvu:VV2_0753
+LUXS_VIBF1	Transcriptional activator protein LuxR	Vibrio fischeri	GO:0032993;GO:0001216;GO:0000976;GO:0008218;GO:0045893;GO:0009372;GO:0006351	vfi:VF_A0925
+LUXR_ALIFS	Transcriptional activator protein LuxR	Aliivibrio fischeri	GO:0003677;GO:0008218;GO:0045893;GO:0009372;GO:0006351	
+LUXA_PHOLL	Alkanal monooxygenase alpha chain	Photorhabdus luminescens subsp. laumondii105565 / TT01)	GO:0047646;GO:0008218	plu:plu2081
+LUXB2_PHOLE	Alkanal monooxygenase beta chain	Photobacterium leiognathi	GO:0047646;GO:0008218	
+LUXA1_PHOLU	Alkanal monooxygenase alpha chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXA2_PHOLU	Alkanal monooxygenase alpha chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXB1_PHOLE	Alkanal monooxygenase beta chain	Photobacterium leiognathi	GO:0047646;GO:0008218	
+LUXA1_PHOLE	Alkanal monooxygenase alpha chain	Photobacterium leiognathi	GO:0047646;GO:0008218	
+LUXB_ALIFS	Alkanal monooxygenase beta chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXA_KRYAS	Alkanal monooxygenase alpha chain	Kryptophanaron alfredi symbiont	GO:0047646;GO:0008218	
+LUXA_PHOPO	Alkanal monooxygenase alpha chain	Photobacterium phosphoreum	GO:0047646;GO:0008218	
+LUXA_VIBHA	Alkanal monooxygenase alpha chain	Vibrio harveyi	GO:0047646;GO:0008218	
+LUXB_PHOPO	Alkanal monooxygenase beta chain	Photobacterium phosphoreum	GO:0047646;GO:0008218	
+LUXA2_PHOLE	Alkanal monooxygenase alpha chain	Photobacterium leiognathi	GO:0047646;GO:0008218	
+LUXA_ALIFS	Alkanal monooxygenase alpha chain	Aliivibrio fischeri	GO:0047646;GO:0008218	
+LUXB1_PHOLU	Alkanal monooxygenase beta chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXB2_PHOLU	Alkanal monooxygenase beta chain	Photorhabdus luminescens	GO:0047646;GO:0008218	
+LUXB_PHOLL	Alkanal monooxygenase beta chain	Photorhabdus luminescens subsp. laumondii105565 / TT01)	GO:0047646;GO:0008218	plu:plu2082
+LUXB_VIBHA	Alkanal monooxygenase beta chain	Vibrio harveyi	GO:0047646;GO:0008218	
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXN_VIBHA	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	
+LUXN_VIBCB	Autoinducer 1 sensor kinase/phosphatase LuxN	Vibrio campbellii	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	vca:M892_17050
+LUXS_LACDA	S-ribosylhomocysteine lyase	Lactobacillus delbrueckii subsp. bulgaricus20081 / JCM 1002 / NBRC 13953 / NCIMB 11778)	GO:0005506;GO:0043768;GO:0009372	ldb:Ldb0105
+LUXS1_LACDB	S-ribosylhomocysteine lyase 1	Lactobacillus delbrueckii subsp. bulgaricus	GO:0005506;GO:0043768;GO:0009372	lbu:LBUL_0088
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXP_VIBCH	Autoinducer 2-binding periplasmic protein LuxP	Vibrio cholerae serotype O1	GO:0042597;GO:0008643;GO:0006355	vch:VCA0737
+LUXP_VIBPA	Autoinducer 2-binding periplasmic protein LuxP	Vibrio parahaemolyticus serotype O3:K6	GO:0042597	vpa:VPA1221
+LUXP_VIBHA	Autoinducer 2-binding periplasmic protein LuxP	Vibrio harveyi	GO:0042597	
+LUXP_VIBVU	Autoinducer 2-binding periplasmic protein LuxP	Vibrio vulnificus	GO:0042597	vvu:VV2_0753
+LUXP_VIBVY	Autoinducer 2-binding periplasmic protein LuxP	Vibrio vulnificus	GO:0042597	vvy:VVA1221
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBC3	Regulatory protein LuxO	Vibrio cholerae serotype O1O395)	GO:0005622;GO:0005524;GO:0003677;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vco:VC0395_1095
+LUXP_VIBCH	Autoinducer 2-binding periplasmic protein LuxP	Vibrio cholerae serotype O1	GO:0042597;GO:0008643;GO:0006355	vch:VCA0737
+LUXP_VIBVU	Autoinducer 2-binding periplasmic protein LuxP	Vibrio vulnificus	GO:0042597	vvu:VV2_0753
+LUXP_VIBVY	Autoinducer 2-binding periplasmic protein LuxP	Vibrio vulnificus	GO:0042597	vvy:VVA1221
+LUXP_VIBPA	Autoinducer 2-binding periplasmic protein LuxP	Vibrio parahaemolyticus serotype O3:K6	GO:0042597	vpa:VPA1221
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXO_VIBPA	Regulatory protein LuxO	Vibrio parahaemolyticus serotype O3:K6	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vpa:VP2099
+LUXO_VIBHA	Luminescence regulatory protein LuxO	Vibrio harveyi	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0008218;GO:0000160;GO:0006355;GO:0006351	
+LUXO_VIBCB	Luminescence regulatory protein LuxO	Vibrio campbellii	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0045893;GO:0006351	vha:VIBHAR_02959
+LUXO_VIBCH	Regulatory protein LuxO	Vibrio cholerae serotype O1	GO:0005622;GO:0005524;GO:0000156;GO:0043565;GO:0003700;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vch:VC1021
+LUXO_VIBVY	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvy:VV1195
+LUXO_VIBVU	Regulatory protein LuxO	Vibrio vulnificus	GO:0005622;GO:0005524;GO:0043565;GO:0008134;GO:0000160;GO:0006355;GO:0006351	vvu:VV1_3091
+LUXP_VIBCH	Autoinducer 2-binding periplasmic protein LuxP	Vibrio cholerae serotype O1	GO:0042597;GO:0008643;GO:0006355	vch:VCA0737
+LUXQ_VIBPA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio parahaemolyticus serotype O3:K6	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vpa:VPA1220
+LUXQ_VIBHA	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio harveyi	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0023014	
+LUXQ_VIBVY	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvy:VVA1220
+LUXQ_VIBCH	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio cholerae serotype O1	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155;GO:0000160	vch:VCA0736
+LUXQ_VIBVU	Autoinducer 2 sensor kinase/phosphatase LuxQ	Vibrio vulnificus	GO:0016021;GO:0005622;GO:0005886;GO:0005524;GO:0004721;GO:0000155	vvu:VV2_0752
