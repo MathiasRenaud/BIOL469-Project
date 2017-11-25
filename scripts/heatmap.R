@@ -1,3 +1,4 @@
+## BIOL 469 Project -- Creating Heatmaps from eggNog and pfastGO data
 
 if (!require("gplots")) {
   install.packages("gplots", dependencies = TRUE)
