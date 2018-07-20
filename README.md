@@ -2,6 +2,8 @@
 
 Comparative genomics of bioluminescent organisms.
 
+View the final report [here](https://github.com/MathiasRenaud/BIOL469-Project/blob/master/REPORT.pdf)!
+
 | Analysis | Input | Program | Output | Visualizations |
 |------|-------|---------|--------|----------------|
 | Phylogenetic Analysis | 16S rRNA sequences | phyloT, Archaeopteryx | newick file | phylogenetic tree |
